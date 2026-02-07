@@ -10,26 +10,36 @@
     <style>
         body {
             font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top right, #1e1b4b, #0f172a);
+            min-height: 100vh;
         }
         .glass {
-            background: rgba(255, 255, 255, 0.7);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
+            background: rgba(30, 41, 59, 0.6);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }
         .gradient-bg {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #312e81 0%, #4338ca 100%);
         }
         .card-hover:hover {
             transform: translateY(-5px);
             transition: all 0.3s ease;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3), 0 8px 10px -6px rgba(0, 0, 0, 0.3);
+            border-color: rgba(99, 102, 241, 0.5);
+        }
+        .text-gradient {
+            background: linear-gradient(to right, #818cf8, #c084fc);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
         }
     </style>
 </head>
-<body class="bg-gray-50 text-gray-900 leading-normal">
+<body class="text-slate-200 leading-normal">
 
     <!-- Hero Section -->
-    <header class="gradient-bg text-white py-24 px-6 text-center animate__animated animate__fadeIn">
-        <div class="max-w-4xl mx-auto">
+    <header class="gradient-bg text-white py-24 px-6 text-center animate__animated animate__fadeIn relative overflow-hidden">
+        <div class="absolute inset-0 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')] opacity-10"></div>
+        <div class="max-w-4xl mx-auto relative z-10">
             <h1 class="text-5xl md:text-6xl font-extrabold mb-4 tracking-tight">
                 Johnreb Charles E. Plaras
             </h1>
@@ -42,91 +52,91 @@
     <main class="max-w-5xl mx-auto px-6 -mt-16 mb-20">
         <!-- Profile Image & Intro -->
         <div class="glass rounded-3xl p-8 shadow-2xl flex flex-col md:flex-row items-center gap-10 animate__animated animate__zoomIn">
-            <div class="w-48 h-48 md:w-64 md:h-64 flex-shrink-0 overflow-hidden rounded-2xl shadow-lg border-4 border-white">
+            <div class="w-48 h-48 md:w-64 md:h-64 flex-shrink-0 overflow-hidden rounded-2xl shadow-lg border-4 border-indigo-500/30">
                 <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/271210723_4947113228667153_7447779840526810619_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHWWRYc07M7_Y6AJ-16onNrTXNkY3xWux9Nc2RjfFa7H-617Y49szM_0t_Jn6Pqk9-lD_tUDSwo4p0VPgDjXYQ0&_nc_ohc=0HvWNhJbzgEAb518D25&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfDrTigZ-WvqFj-s_RtrVQY7aA16iBfrnx2fUjiJQ0GOCQ&oe=662D5DE4" 
                      alt="Johnreb Charles E. Plaras" 
                      class="w-full h-full object-cover">
             </div>
             <div class="flex-1">
-                <h2 class="text-3xl font-bold mb-4 text-indigo-700">About Me</h2>
-                <p class="text-lg text-gray-700 mb-6">
+                <h2 class="text-3xl font-bold mb-4 text-gradient">About Me</h2>
+                <p class="text-lg text-slate-300 mb-6">
                     Welcome! I'm Johnreb, a passionate individual who finds harmony between the logic of code and the creativity of music. 
                     I'm constantly exploring new horizons in technology while keeping my artistic side alive through the guitar.
                 </p>
                 <div class="flex flex-wrap gap-3">
-                    <span class="px-4 py-1 bg-indigo-100 text-indigo-700 rounded-full text-sm font-semibold">Guitarist</span>
-                    <span class="px-4 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold">Gamer</span>
-                    <span class="px-4 py-1 bg-purple-100 text-purple-700 rounded-full text-sm font-semibold">Student</span>
+                    <span class="px-4 py-1 bg-indigo-500/20 text-indigo-300 border border-indigo-500/30 rounded-full text-sm font-semibold">Guitarist</span>
+                    <span class="px-4 py-1 bg-blue-500/20 text-blue-300 border border-blue-500/30 rounded-full text-sm font-semibold">Gamer</span>
+                    <span class="px-4 py-1 bg-purple-500/20 text-purple-300 border border-purple-500/30 rounded-full text-sm font-semibold">Student</span>
                 </div>
             </div>
         </div>
 
         <!-- Hobbies Section -->
         <section class="mt-20">
-            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn">My Passions</h2>
+            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn text-white">My Passions</h2>
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <!-- Guitar -->
-                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp">
-                    <div class="w-12 h-12 bg-indigo-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">🎸</div>
-                    <h3 class="text-xl font-bold mb-3">Guitar</h3>
-                    <p class="text-gray-600">I spend a lot of my free time learning new songs. Playing music brings me deep satisfaction and a sense of calm.</p>
+                <div class="bg-slate-900/50 border border-slate-800 p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp">
+                    <div class="w-12 h-12 bg-indigo-600 rounded-lg flex items-center justify-center mb-6 text-white text-2xl shadow-lg shadow-indigo-500/20">🎸</div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Guitar</h3>
+                    <p class="text-slate-400">I spend a lot of my free time learning new songs. Playing music brings me deep satisfaction and a sense of calm.</p>
                 </div>
                 <!-- Video Games -->
-                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-1s">
-                    <div class="w-12 h-12 bg-blue-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">🎮</div>
-                    <h3 class="text-xl font-bold mb-3">Video Games</h3>
-                    <p class="text-gray-600">When I'm not playing guitar, you'll find me gaming for hours. It's my favorite way to unwind and experience new stories.</p>
+                <div class="bg-slate-900/50 border border-slate-800 p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-1s">
+                    <div class="w-12 h-12 bg-blue-600 rounded-lg flex items-center justify-center mb-6 text-white text-2xl shadow-lg shadow-blue-500/20">🎮</div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Video Games</h3>
+                    <p class="text-slate-400">When I'm not playing guitar, you'll find me gaming for hours. It's my favorite way to unwind and experience new stories.</p>
                 </div>
                 <!-- Programming -->
-                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-2s">
-                    <div class="w-12 h-12 bg-purple-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">💻</div>
-                    <h3 class="text-xl font-bold mb-3">Programming</h3>
-                    <p class="text-gray-600">I strive to be productive by solving coding problems or deep-diving into complex concepts I want to master.</p>
+                <div class="bg-slate-900/50 border border-slate-800 p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-2s">
+                    <div class="w-12 h-12 bg-purple-600 rounded-lg flex items-center justify-center mb-6 text-white text-2xl shadow-lg shadow-purple-500/20">💻</div>
+                    <h3 class="text-xl font-bold mb-3 text-white">Programming</h3>
+                    <p class="text-slate-400">I strive to be productive by solving coding problems or deep-diving into complex concepts I want to master.</p>
                 </div>
             </div>
         </section>
 
         <!-- Projects & Activities Section -->
         <section class="mt-20">
-            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn">Projects & Activities</h2>
+            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn text-white">Projects & Activities</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
                 <!-- Pet Survey -->
-                <a href="Plaras_Pet Survey.html" class="group block bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInLeft">
+                <a href="Plaras_Pet Survey.html" class="group block bg-slate-900/50 border border-slate-800 p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInLeft">
                     <div class="flex items-center justify-between mb-4">
-                        <div class="w-12 h-12 bg-green-500 rounded-lg flex items-center justify-center text-white text-2xl">🐾</div>
-                        <span class="text-indigo-600 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
+                        <div class="w-12 h-12 bg-emerald-600 rounded-lg flex items-center justify-center text-white text-2xl shadow-lg shadow-emerald-500/20">🐾</div>
+                        <span class="text-indigo-400 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
                     </div>
-                    <h3 class="text-2xl font-bold mb-3 group-hover:text-indigo-600 transition-colors">Pet Survey</h3>
-                    <p class="text-gray-600">An interactive form to gather information about your favorite furry friends.</p>
+                    <h3 class="text-2xl font-bold mb-3 text-white group-hover:text-indigo-400 transition-colors">Pet Survey</h3>
+                    <p class="text-slate-400">An interactive form to gather information about your favorite furry friends.</p>
                 </a>
                 <!-- Weekend Routine -->
-                <a href="Plaras_Weekend Routine.html" class="group block bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInRight">
+                <a href="Plaras_Weekend Routine.html" class="group block bg-slate-900/50 border border-slate-800 p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInRight">
                     <div class="flex items-center justify-between mb-4">
-                        <div class="w-12 h-12 bg-orange-500 rounded-lg flex items-center justify-center text-white text-2xl">📅</div>
-                        <span class="text-indigo-600 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
+                        <div class="w-12 h-12 bg-orange-600 rounded-lg flex items-center justify-center text-white text-2xl shadow-lg shadow-orange-500/20">📅</div>
+                        <span class="text-indigo-400 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
                     </div>
-                    <h3 class="text-2xl font-bold mb-3 group-hover:text-indigo-600 transition-colors">Weekend Routine</h3>
-                    <p class="text-gray-600">A detailed look at my typical weekend activities and schedule.</p>
+                    <h3 class="text-2xl font-bold mb-3 text-white group-hover:text-indigo-400 transition-colors">Weekend Routine</h3>
+                    <p class="text-slate-400">A detailed look at my typical weekend activities and schedule.</p>
                 </a>
             </div>
         </section>
 
         <!-- Links Section -->
-        <section class="mt-20 bg-indigo-900 text-white p-12 rounded-3xl shadow-xl animate__animated animate__fadeIn">
-            <h2 class="text-3xl font-bold mb-8">Quick Links</h2>
+        <section class="mt-20 bg-indigo-950 border border-indigo-900/50 text-white p-12 rounded-3xl shadow-xl animate__animated animate__fadeIn">
+            <h2 class="text-3xl font-bold mb-8 text-gradient">Quick Links</h2>
             <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
                 <a href="https://docs.google.com/document/d/1daPPsNUPt1rriOLp8RaB3DT79zbGNEpyPvuzUCFMhmM/edit?usp=sharing" target="_blank"
-                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                   class="flex items-center justify-center p-4 bg-slate-900 bg-opacity-40 hover:bg-opacity-60 rounded-xl transition-all border border-white border-opacity-10 group">
                     <span class="mr-2">🕹️</span> Favorite Games
                     <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
                 </a>
                 <a href="https://www.guitarlessons.com/" target="_blank"
-                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                   class="flex items-center justify-center p-4 bg-slate-900 bg-opacity-40 hover:bg-opacity-60 rounded-xl transition-all border border-white border-opacity-10 group">
                     <span class="mr-2">🎵</span> Guitar Lessons
                     <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
                 </a>
                 <a href="https://www.w3schools.com/html/" target="_blank"
-                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                   class="flex items-center justify-center p-4 bg-slate-900 bg-opacity-40 hover:bg-opacity-60 rounded-xl transition-all border border-white border-opacity-10 group">
                     <span class="mr-2">📚</span> Coding Tutorials
                     <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
                 </a>
@@ -134,7 +144,7 @@
         </section>
     </main>
 
-    <footer class="text-center py-10 text-gray-500 text-sm border-t border-gray-200">
+    <footer class="text-center py-10 text-slate-500 text-sm border-t border-slate-800">
         <p>&copy; 2026 Johnreb Charles E. Plaras. Built with Tailwind CSS & ❤️</p>
     </footer>
 
