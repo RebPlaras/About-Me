@@ -3,64 +3,140 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me</title>
+    <title>Johnreb Charles E. Plaras | About Me</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f0f0f0;
+            font-family: 'Inter', sans-serif;
         }
-        header {
-            background-color: #333;
-            color: #fff;
-            text-align: center;
-            padding: 20px 0;
+        .glass {
+            background: rgba(255, 255, 255, 0.7);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
         }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 0 20px;
+        .gradient-bg {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 20px auto;
+        .card-hover:hover {
+            transform: translateY(-5px);
+            transition: all 0.3s ease;
         }
     </style>
 </head>
-<body>
-    <header>
-        <h1>Plaras, Johnreb Charles E.</h1>
-	<h1>About Me</h1>
-    </header>
-    <div class="container">
-        <h2>My Hobbies</h2>
-        <ul>
-            <li>Playing Guitar</li>
-            <li>Playing Video Games</li>
-            <li>Studying Programming</li>
-        </ul>
-        
-        <h3>Guitar</h3>
-        <p>I spend a lot of my free time learning new songs on my guitar. Playing music brings me satisfaction.</p>
-        
-        <h3>Video Games</h3>
-        <p>When I'm not playing guitar, you can probably find me playing video games for hours on end. It is one of my favorite pastimes that also gives me satisfaction.</p>
+<body class="bg-gray-50 text-gray-900 leading-normal">
 
-        <h3>Studying Programming</h3>
-        <p>When I feel that I want to do something productive with my time, I usually try to solve random coding problems on different websites or read about programming concepts I can't fully grasp.</p>
-        
-        <h2>Links</h2>
-        <ul>
-            <li><a href="https://docs.google.com/document/d/1daPPsNUPt1rriOLp8RaB3DT79zbGNEpyPvuzUCFMhmM/edit?usp=sharing">Favorite Video Games</a></li>
-            <li><a href="https://www.guitarlessons.com/">Guitar Tutorial Website</a></li>
-            <li><a href="https://www.w3schools.com/html/">Coding Tutorial Website</a></li>
-        </ul>
-        
-        <h2>Image</h2>
-        <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/271210723_4947113228667153_7447779840526810619_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHWWRYc07M7_Y6AJ-16onNrTXNkY3xWux9Nc2RjfFa7H-617Y49szM_0t_Jn6Pqk9-lD_tUDSwo4p0VPgDjXYQ0&_nc_ohc=0HvWNhJbzgEAb518D25&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfDrTigZ-WvqFj-s_RtrVQY7aA16iBfrnx2fUjiJQ0GOCQ&oe=662D5DE4" alt="GMy Picture">
-    </div>
+    <!-- Hero Section -->
+    <header class="gradient-bg text-white py-24 px-6 text-center animate__animated animate__fadeIn">
+        <div class="max-w-4xl mx-auto">
+            <h1 class="text-5xl md:text-6xl font-extrabold mb-4 tracking-tight">
+                Johnreb Charles E. Plaras
+            </h1>
+            <p class="text-xl md:text-2xl font-light opacity-90 animate__animated animate__fadeInUp animate__delay-1s">
+                Aspiring Programmer & Music Enthusiast
+            </p>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-6 -mt-16 mb-20">
+        <!-- Profile Image & Intro -->
+        <div class="glass rounded-3xl p-8 shadow-2xl flex flex-col md:flex-row items-center gap-10 animate__animated animate__zoomIn">
+            <div class="w-48 h-48 md:w-64 md:h-64 flex-shrink-0 overflow-hidden rounded-2xl shadow-lg border-4 border-white">
+                <img src="https://scontent.fmnl25-4.fna.fbcdn.net/v/t39.30808-6/271210723_4947113228667153_7447779840526810619_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHWWRYc07M7_Y6AJ-16onNrTXNkY3xWux9Nc2RjfFa7H-617Y49szM_0t_Jn6Pqk9-lD_tUDSwo4p0VPgDjXYQ0&_nc_ohc=0HvWNhJbzgEAb518D25&_nc_ht=scontent.fmnl25-4.fna&oh=00_AfDrTigZ-WvqFj-s_RtrVQY7aA16iBfrnx2fUjiJQ0GOCQ&oe=662D5DE4" 
+                     alt="Johnreb Charles E. Plaras" 
+                     class="w-full h-full object-cover">
+            </div>
+            <div class="flex-1">
+                <h2 class="text-3xl font-bold mb-4 text-indigo-700">About Me</h2>
+                <p class="text-lg text-gray-700 mb-6">
+                    Welcome! I'm Johnreb, a passionate individual who finds harmony between the logic of code and the creativity of music. 
+                    I'm constantly exploring new horizons in technology while keeping my artistic side alive through the guitar.
+                </p>
+                <div class="flex flex-wrap gap-3">
+                    <span class="px-4 py-1 bg-indigo-100 text-indigo-700 rounded-full text-sm font-semibold">Guitarist</span>
+                    <span class="px-4 py-1 bg-blue-100 text-blue-700 rounded-full text-sm font-semibold">Gamer</span>
+                    <span class="px-4 py-1 bg-purple-100 text-purple-700 rounded-full text-sm font-semibold">Student</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Hobbies Section -->
+        <section class="mt-20">
+            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn">My Passions</h2>
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Guitar -->
+                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp">
+                    <div class="w-12 h-12 bg-indigo-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">🎸</div>
+                    <h3 class="text-xl font-bold mb-3">Guitar</h3>
+                    <p class="text-gray-600">I spend a lot of my free time learning new songs. Playing music brings me deep satisfaction and a sense of calm.</p>
+                </div>
+                <!-- Video Games -->
+                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-1s">
+                    <div class="w-12 h-12 bg-blue-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">🎮</div>
+                    <h3 class="text-xl font-bold mb-3">Video Games</h3>
+                    <p class="text-gray-600">When I'm not playing guitar, you'll find me gaming for hours. It's my favorite way to unwind and experience new stories.</p>
+                </div>
+                <!-- Programming -->
+                <div class="bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInUp animate__delay-2s">
+                    <div class="w-12 h-12 bg-purple-500 rounded-lg flex items-center justify-center mb-6 text-white text-2xl">💻</div>
+                    <h3 class="text-xl font-bold mb-3">Programming</h3>
+                    <p class="text-gray-600">I strive to be productive by solving coding problems or deep-diving into complex concepts I want to master.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects & Activities Section -->
+        <section class="mt-20">
+            <h2 class="text-4xl font-bold text-center mb-12 animate__animated animate__fadeIn">Projects & Activities</h2>
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Pet Survey -->
+                <a href="Plaras_Pet Survey.html" class="group block bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInLeft">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 bg-green-500 rounded-lg flex items-center justify-center text-white text-2xl">🐾</div>
+                        <span class="text-indigo-600 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3 group-hover:text-indigo-600 transition-colors">Pet Survey</h3>
+                    <p class="text-gray-600">An interactive form to gather information about your favorite furry friends.</p>
+                </a>
+                <!-- Weekend Routine -->
+                <a href="Plaras_Weekend Routine.html" class="group block bg-white p-8 rounded-2xl shadow-md card-hover animate__animated animate__fadeInRight">
+                    <div class="flex items-center justify-between mb-4">
+                        <div class="w-12 h-12 bg-orange-500 rounded-lg flex items-center justify-center text-white text-2xl">📅</div>
+                        <span class="text-indigo-600 font-semibold group-hover:translate-x-1 transition-transform">View Project →</span>
+                    </div>
+                    <h3 class="text-2xl font-bold mb-3 group-hover:text-indigo-600 transition-colors">Weekend Routine</h3>
+                    <p class="text-gray-600">A detailed look at my typical weekend activities and schedule.</p>
+                </a>
+            </div>
+        </section>
+
+        <!-- Links Section -->
+        <section class="mt-20 bg-indigo-900 text-white p-12 rounded-3xl shadow-xl animate__animated animate__fadeIn">
+            <h2 class="text-3xl font-bold mb-8">Quick Links</h2>
+            <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+                <a href="https://docs.google.com/document/d/1daPPsNUPt1rriOLp8RaB3DT79zbGNEpyPvuzUCFMhmM/edit?usp=sharing" target="_blank"
+                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                    <span class="mr-2">🕹️</span> Favorite Games
+                    <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                </a>
+                <a href="https://www.guitarlessons.com/" target="_blank"
+                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                    <span class="mr-2">🎵</span> Guitar Lessons
+                    <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                </a>
+                <a href="https://www.w3schools.com/html/" target="_blank"
+                   class="flex items-center justify-center p-4 bg-white bg-opacity-10 hover:bg-opacity-20 rounded-xl transition-all border border-white border-opacity-20 group">
+                    <span class="mr-2">📚</span> Coding Tutorials
+                    <span class="ml-auto opacity-0 group-hover:opacity-100 transition-opacity">→</span>
+                </a>
+            </div>
+        </section>
+    </main>
+
+    <footer class="text-center py-10 text-gray-500 text-sm border-t border-gray-200">
+        <p>&copy; 2026 Johnreb Charles E. Plaras. Built with Tailwind CSS & ❤️</p>
+    </footer>
+
 </body>
 </html>
