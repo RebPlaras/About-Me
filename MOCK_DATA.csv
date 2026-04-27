@@ -1,0 +1,1001 @@
+flight_number,airline_name,departure_airport,departure_city,departure_country,departure_time,arrival_airport,arrival_city,duration_hours,date
+SA3924,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:12 PM,Leonardo da Vinci International,Rome,2,2/9/2026
+ET4685,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,1:28 PM,Hamad International,Doha,13,4/22/2026
+EK2646,Emirates,Dubai International,Dubai,UAE,7:44 PM,Hamad International,Doha,21,4/26/2025
+AZ2233,Alitalia,Leonardo da Vinci International,Rome,Italy,12:02 PM,Charles de Gaulle,Paris,14,2/21/2026
+WN4815,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:48 PM,San Francisco International,San Francisco,17,12/4/2025
+KE4924,Korean Air,Incheon International,Seoul,South Korea,1:48 PM,Changi,Singapore,21,11/5/2025
+AA4754,American Airlines,John F. Kennedy International,New York,USA,8:19 PM,Hartsfield-Jackson Atlanta,Atlanta,17,3/29/2026
+AV6609,Avianca,El Dorado International,Bogotá,Colombia,11:00 PM,O'Hare International,Chicago,19,1/4/2026
+QR7949,Qatar Airways,Hamad International,Doha,Qatar,12:10 PM,Jomo Kenyatta International,Nairobi,11,10/31/2025
+ET4246,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:38 PM,Benito Juárez International,Mexico City,10,5/20/2025
+AF3520,Air France,Charles de Gaulle,Paris,France,2:10 PM,Frankfurt Airport,Frankfurt,5,10/23/2025
+KE6728,Korean Air,Incheon International,Seoul,South Korea,4:27 PM,Bole International,Addis Ababa,10,6/26/2025
+QF1757,Qantas,Sydney Airport,Sydney,Australia,2:20 AM,Melbourne Airport,Melbourne,7,9/23/2025
+IB5209,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:31 AM,Dubai International,Dubai,13,8/6/2025
+WN7069,Southwest Airlines,Los Angeles International,Los Angeles,USA,6:37 PM,Adolfo Suárez Madrid–Barajas,Madrid,23,12/15/2025
+QR5361,Qatar Airways,Hamad International,Doha,Qatar,5:31 PM,Jomo Kenyatta International,Nairobi,9,6/20/2025
+QR5213,Qatar Airways,Hamad International,Doha,Qatar,4:24 PM,Charles de Gaulle,Paris,7,4/21/2026
+NZ7026,Air New Zealand,Auckland Airport,Auckland,New Zealand,8:59 PM,Sydney Airport,Sydney,2,5/27/2025
+AF2048,Air France,Charles de Gaulle,Paris,France,9:42 PM,Frankfurt Airport,Frankfurt,3,10/24/2025
+WN9844,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:48 PM,San Francisco International,San Francisco,3,5/12/2025
+QF3876,Qantas,Sydney Airport,Sydney,Australia,6:17 PM,Melbourne Airport,Melbourne,12,8/29/2025
+QF8944,Qantas,Sydney Airport,Sydney,Australia,4:41 PM,Melbourne Airport,Melbourne,18,6/29/2025
+SK7701,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,11:17 PM,Leonardo da Vinci International,Rome,19,9/2/2025
+AV8641,Avianca,El Dorado International,Bogotá,Colombia,5:33 AM,O'Hare International,Chicago,7,2/25/2026
+DL9400,Delta Air Lines,John F. Kennedy International,New York,USA,7:23 AM,Hartsfield-Jackson Atlanta,Atlanta,16,7/21/2025
+IB1305,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:42 PM,Charles de Gaulle,Paris,15,11/25/2025
+LA5570,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:09 PM,Miami International,Miami,14,11/18/2025
+SQ3533,Singapore Airlines,Changi,Singapore,Singapore,9:56 AM,Suvarnabhumi,Bangkok,19,5/14/2025
+KE7989,Korean Air,Incheon International,Seoul,South Korea,7:42 PM,Haneda,Tokyo,3,4/24/2026
+CX3235,Cathay Pacific,Hong Kong International,Hong Kong,China,6:51 PM,Changi,Singapore,8,2/10/2026
+AF7165,Air France,Charles de Gaulle,Paris,France,10:08 AM,Frankfurt Airport,Frankfurt,23,6/26/2025
+AM1046,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:01 PM,O'Hare International,Chicago,3,9/20/2025
+QF5776,Qantas,Sydney Airport,Sydney,Australia,6:44 PM,Melbourne Airport,Melbourne,6,6/15/2025
+AF8531,Air France,Charles de Gaulle,Paris,France,1:56 AM,Frankfurt Airport,Frankfurt,2,2/16/2026
+AM6577,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:14 PM,O'Hare International,Chicago,19,1/1/2026
+AC8541,Air Canada,Toronto Pearson,Toronto,Canada,10:15 AM,John F. Kennedy International,New York,7,10/2/2025
+KE8449,Korean Air,Incheon International,Seoul,South Korea,12:01 AM,Suvarnabhumi,Bangkok,11,4/11/2025
+TG2562,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:28 AM,Kuala Lumpur International,Kuala Lumpur,24,10/8/2025
+AA1935,American Airlines,John F. Kennedy International,New York,USA,8:03 PM,Hartsfield-Jackson Atlanta,Atlanta,4,9/11/2025
+UA2062,United Airlines,Los Angeles International,Los Angeles,USA,10:37 PM,Hamad International,Doha,12,11/25/2025
+UA6626,United Airlines,Los Angeles International,Los Angeles,USA,6:19 PM,San Francisco International,San Francisco,13,1/30/2026
+QR7176,Qatar Airways,Hamad International,Doha,Qatar,8:51 PM,Bole International,Addis Ababa,16,2/7/2026
+CX9953,Cathay Pacific,Hong Kong International,Hong Kong,China,1:53 PM,Sydney Airport,Sydney,1,6/10/2025
+AM5336,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:04 PM,O'Hare International,Chicago,5,9/25/2025
+BA5886,British Airways,Heathrow,London,UK,11:36 PM,Brisbane Airport,Brisbane,20,5/19/2025
+AV4884,Avianca,El Dorado International,Bogotá,Colombia,10:07 AM,O'Hare International,Chicago,9,8/5/2025
+AA1003,American Airlines,John F. Kennedy International,New York,USA,2:48 PM,Hartsfield-Jackson Atlanta,Atlanta,23,1/14/2026
+QR6757,Qatar Airways,Hamad International,Doha,Qatar,9:25 AM,Bole International,Addis Ababa,11,6/21/2025
+AV2122,Avianca,El Dorado International,Bogotá,Colombia,12:21 PM,O'Hare International,Chicago,12,12/18/2025
+SQ4535,Singapore Airlines,Changi,Singapore,Singapore,5:06 PM,Beijing Capital International,Beijing,14,1/23/2026
+UA2957,United Airlines,Los Angeles International,Los Angeles,USA,11:49 PM,San Francisco International,San Francisco,11,9/13/2025
+WN2114,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:57 PM,San Francisco International,San Francisco,11,7/21/2025
+BA4656,British Airways,Heathrow,London,UK,2:01 AM,Charles de Gaulle,Paris,10,11/11/2025
+TG9115,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:32 PM,Changi,Singapore,19,9/5/2025
+NH4186,All Nippon Airways,Haneda,Tokyo,Japan,3:49 PM,Cairo International,Cairo,4,7/1/2025
+AI4621,Air India,Indira Gandhi International,Delhi,India,12:53 AM,Chhatrapati Shivaji International,Mumbai,9,6/27/2025
+DL3425,Delta Air Lines,John F. Kennedy International,New York,USA,8:20 PM,Logan International,Boston,24,10/3/2025
+KE7908,Korean Air,Incheon International,Seoul,South Korea,3:32 AM,Haneda,Tokyo,17,7/22/2025
+KE3449,Korean Air,Incheon International,Seoul,South Korea,1:49 PM,Haneda,Tokyo,16,3/9/2026
+AZ6460,Alitalia,Leonardo da Vinci International,Rome,Italy,11:27 AM,Charles de Gaulle,Paris,22,5/2/2025
+SK1081,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,1:36 PM,Charles de Gaulle,Paris,21,12/17/2025
+NH4238,All Nippon Airways,Haneda,Tokyo,Japan,11:28 AM,Incheon International,Seoul,24,10/19/2025
+LH3554,Lufthansa,Frankfurt Airport,Frankfurt,Germany,6:17 PM,Charles de Gaulle,Paris,16,7/15/2025
+BA3245,British Airways,Heathrow,London,UK,7:22 AM,Charles de Gaulle,Paris,17,4/3/2025
+KL8123,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:26 AM,Heathrow,London,12,9/25/2025
+TG8512,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:30 AM,Changi,Singapore,6,7/12/2025
+SA1576,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:38 PM,Leonardo da Vinci International,Rome,1,4/10/2025
+KE5026,Korean Air,Incheon International,Seoul,South Korea,3:48 PM,Haneda,Tokyo,22,8/13/2025
+SA2908,South African Airways,O.R. Tambo International,Johannesburg,South Africa,2:24 AM,Charles de Gaulle,Paris,15,7/25/2025
+IB1482,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:40 AM,Charles de Gaulle,Paris,8,4/24/2025
+LA1025,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:06 AM,Ministro Pistarini International,Buenos Aires,18,9/17/2025
+WN4429,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:33 AM,San Francisco International,San Francisco,7,9/6/2025
+BA3644,British Airways,Heathrow,London,UK,2:15 AM,Beijing Capital International,Beijing,23,7/30/2025
+WN2152,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:05 PM,San Francisco International,San Francisco,18,7/31/2025
+DL1787,Delta Air Lines,John F. Kennedy International,New York,USA,6:31 PM,Hartsfield-Jackson Atlanta,Atlanta,14,2/25/2026
+AV1619,Avianca,El Dorado International,Bogotá,Colombia,12:03 AM,Hong Kong International,Hong Kong,21,7/21/2025
+NH5022,All Nippon Airways,Haneda,Tokyo,Japan,12:01 PM,Incheon International,Seoul,13,4/25/2026
+DL1739,Delta Air Lines,John F. Kennedy International,New York,USA,2:15 PM,Hamad International,Doha,20,3/11/2026
+LA8828,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,11:04 PM,Ministro Pistarini International,Buenos Aires,23,10/24/2025
+QR5248,Qatar Airways,Hamad International,Doha,Qatar,9:17 PM,Vienna International,Vienna,20,11/4/2025
+AF7952,Air France,Charles de Gaulle,Paris,France,3:48 PM,Frankfurt Airport,Frankfurt,23,1/1/2026
+QR7627,Qatar Airways,Hamad International,Doha,Qatar,3:06 PM,Bole International,Addis Ababa,21,9/15/2025
+DL7317,Delta Air Lines,John F. Kennedy International,New York,USA,11:36 PM,Hartsfield-Jackson Atlanta,Atlanta,20,12/22/2025
+ET2517,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:35 AM,Cape Town International,Cape Town,18,11/27/2025
+UA4868,United Airlines,Los Angeles International,Los Angeles,USA,11:43 AM,San Francisco International,San Francisco,16,10/5/2025
+IB3454,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:52 AM,Leonardo da Vinci International,Rome,21,11/24/2025
+WN9468,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:37 AM,San Francisco International,San Francisco,23,5/18/2025
+NZ4073,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:32 AM,Sydney Airport,Sydney,7,1/26/2026
+TG2024,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:25 AM,Changi,Singapore,23,1/25/2026
+SQ4430,Singapore Airlines,Changi,Singapore,Singapore,1:18 AM,Chhatrapati Shivaji International,Mumbai,2,6/10/2025
+LH8573,Lufthansa,Frankfurt Airport,Frankfurt,Germany,10:41 PM,Charles de Gaulle,Paris,24,8/31/2025
+AM6972,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:53 AM,O'Hare International,Chicago,15,4/18/2025
+SK7279,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,12:05 PM,Zurich Airport,Zurich,4,6/9/2025
+ET1450,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,5:21 AM,Copenhagen Airport,Copenhagen,9,1/22/2026
+AC8527,Air Canada,Toronto Pearson,Toronto,Canada,12:05 AM,John F. Kennedy International,New York,13,4/24/2026
+NH5355,All Nippon Airways,Haneda,Tokyo,Japan,7:42 AM,Cape Town International,Cape Town,22,9/26/2025
+NZ6947,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:36 PM,Sydney Airport,Sydney,20,4/20/2026
+LH3957,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:07 PM,Charles de Gaulle,Paris,20,2/3/2026
+CX4991,Cathay Pacific,Hong Kong International,Hong Kong,China,3:48 AM,Changi,Singapore,7,5/12/2025
+SA9098,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:13 PM,Jomo Kenyatta International,Nairobi,22,11/25/2025
+NH3518,All Nippon Airways,Haneda,Tokyo,Japan,4:27 PM,Indira Gandhi International,Delhi,14,5/5/2025
+KE7613,Korean Air,Incheon International,Seoul,South Korea,7:16 AM,Haneda,Tokyo,7,11/26/2025
+ET9507,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,9:55 PM,Amsterdam Airport Schiphol,Amsterdam,22,11/9/2025
+QF7248,Qantas,Sydney Airport,Sydney,Australia,2:50 PM,Beijing Capital International,Beijing,18,1/24/2026
+SQ5679,Singapore Airlines,Changi,Singapore,Singapore,6:07 PM,Beijing Capital International,Beijing,20,9/11/2025
+AM1449,Aeroméxico,Benito Juárez International,Mexico City,Mexico,5:37 PM,O'Hare International,Chicago,8,4/23/2025
+EK6878,Emirates,Dubai International,Dubai,UAE,9:03 AM,Hamad International,Doha,18,6/12/2025
+AM5776,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:39 AM,O'Hare International,Chicago,5,7/4/2025
+KE4039,Korean Air,Incheon International,Seoul,South Korea,7:49 PM,Auckland Airport,Auckland,24,4/1/2025
+NZ7909,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:21 AM,Sydney Airport,Sydney,5,1/12/2026
+AI4924,Air India,Indira Gandhi International,Delhi,India,2:55 PM,Chhatrapati Shivaji International,Mumbai,22,7/15/2025
+QR8829,Qatar Airways,Hamad International,Doha,Qatar,1:08 PM,Bole International,Addis Ababa,1,4/20/2026
+CX2657,Cathay Pacific,Hong Kong International,Hong Kong,China,5:01 AM,Dubai International,Dubai,13,3/3/2026
+EK7825,Emirates,Dubai International,Dubai,UAE,2:58 AM,Hamad International,Doha,23,10/14/2025
+NH4113,All Nippon Airways,Haneda,Tokyo,Japan,12:42 AM,Incheon International,Seoul,14,6/24/2025
+AZ3269,Alitalia,Leonardo da Vinci International,Rome,Italy,10:18 AM,Charles de Gaulle,Paris,16,11/19/2025
+NH6128,All Nippon Airways,Haneda,Tokyo,Japan,7:30 PM,Incheon International,Seoul,7,4/16/2026
+KL1835,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:07 PM,Charles de Gaulle,Paris,21,4/18/2026
+KE1926,Korean Air,Incheon International,Seoul,South Korea,1:25 PM,Haneda,Tokyo,17,3/20/2026
+QR7129,Qatar Airways,Hamad International,Doha,Qatar,4:53 PM,Bole International,Addis Ababa,24,8/10/2025
+AZ5006,Alitalia,Leonardo da Vinci International,Rome,Italy,12:28 PM,Charles de Gaulle,Paris,1,4/22/2025
+DL9974,Delta Air Lines,John F. Kennedy International,New York,USA,10:53 AM,Hong Kong International,Hong Kong,21,8/31/2025
+NZ6301,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:58 AM,Sydney Airport,Sydney,2,3/28/2026
+KL4678,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,1:31 AM,Charles de Gaulle,Paris,17,3/8/2026
+LH3991,Lufthansa,Frankfurt Airport,Frankfurt,Germany,4:51 AM,Charles de Gaulle,Paris,2,10/15/2025
+KL8992,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:20 AM,Charles de Gaulle,Paris,24,8/15/2025
+TG1736,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:36 AM,Changi,Singapore,18,5/25/2025
+NH7606,All Nippon Airways,Haneda,Tokyo,Japan,3:27 AM,Incheon International,Seoul,2,7/11/2025
+WN3720,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:22 PM,San Francisco International,San Francisco,24,4/28/2025
+NZ5122,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:50 AM,Sydney Airport,Sydney,15,1/2/2026
+WN2862,Southwest Airlines,Los Angeles International,Los Angeles,USA,9:48 PM,São Paulo/Guarulhos International,São Paulo,15,4/23/2025
+EK7294,Emirates,Dubai International,Dubai,UAE,3:57 PM,Hamad International,Doha,12,12/26/2025
+SK6280,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:38 PM,Charles de Gaulle,Paris,15,11/10/2025
+SQ3260,Singapore Airlines,Changi,Singapore,Singapore,9:37 PM,Beijing Capital International,Beijing,14,2/19/2026
+LA3944,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,11:50 AM,Ministro Pistarini International,Buenos Aires,22,4/10/2026
+AA6725,American Airlines,John F. Kennedy International,New York,USA,9:39 PM,Hartsfield-Jackson Atlanta,Atlanta,10,6/8/2025
+SK9628,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:13 PM,Charles de Gaulle,Paris,3,5/7/2025
+BA6693,British Airways,Heathrow,London,UK,1:36 AM,Charles de Gaulle,Paris,24,2/17/2026
+TG7588,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:44 AM,Changi,Singapore,7,11/10/2025
+SQ5593,Singapore Airlines,Changi,Singapore,Singapore,5:31 AM,Hamad International,Doha,24,7/16/2025
+NH4113,All Nippon Airways,Haneda,Tokyo,Japan,2:20 AM,Incheon International,Seoul,4,7/29/2025
+AI4651,Air India,Indira Gandhi International,Delhi,India,2:06 AM,Chhatrapati Shivaji International,Mumbai,3,1/12/2026
+DL8533,Delta Air Lines,John F. Kennedy International,New York,USA,11:00 AM,Hartsfield-Jackson Atlanta,Atlanta,20,3/7/2026
+AV2432,Avianca,El Dorado International,Bogotá,Colombia,5:29 PM,O'Hare International,Chicago,9,8/1/2025
+QR5213,Qatar Airways,Hamad International,Doha,Qatar,6:23 AM,Charles de Gaulle,Paris,15,11/24/2025
+AI6015,Air India,Indira Gandhi International,Delhi,India,1:08 PM,Dubai International,Dubai,2,4/4/2026
+SK7367,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,6:22 PM,Charles de Gaulle,Paris,10,2/10/2026
+AZ8989,Alitalia,Leonardo da Vinci International,Rome,Italy,4:26 PM,Adolfo Suárez Madrid–Barajas,Madrid,24,4/4/2026
+DL5196,Delta Air Lines,John F. Kennedy International,New York,USA,3:37 PM,Hartsfield-Jackson Atlanta,Atlanta,9,2/16/2026
+ET3500,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:15 PM,Frankfurt Airport,Frankfurt,9,6/6/2025
+LH5030,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:05 AM,Charles de Gaulle,Paris,11,11/13/2025
+SA1075,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:43 PM,Charles de Gaulle,Paris,11,4/12/2026
+AZ3288,Alitalia,Leonardo da Vinci International,Rome,Italy,10:43 AM,Charles de Gaulle,Paris,7,11/14/2025
+IB7668,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1:32 AM,Charles de Gaulle,Paris,16,4/27/2025
+BA9110,British Airways,Heathrow,London,UK,7:06 AM,Charles de Gaulle,Paris,19,2/28/2026
+AC8159,Air Canada,Toronto Pearson,Toronto,Canada,3:16 PM,John F. Kennedy International,New York,21,12/23/2025
+AI7015,Air India,Indira Gandhi International,Delhi,India,11:05 AM,Chhatrapati Shivaji International,Mumbai,1,5/27/2025
+AI1775,Air India,Indira Gandhi International,Delhi,India,11:28 AM,Arturo Merino Benítez International,Santiago,21,1/14/2026
+AA1824,American Airlines,John F. Kennedy International,New York,USA,8:14 AM,Dallas/Fort Worth International,Dallas,7,8/29/2025
+SK6204,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:35 AM,Vienna International,Vienna,8,12/31/2025
+AI8128,Air India,Indira Gandhi International,Delhi,India,6:05 AM,Chhatrapati Shivaji International,Mumbai,12,1/13/2026
+NZ1419,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:02 PM,Sydney Airport,Sydney,10,4/2/2026
+QF5089,Qantas,Sydney Airport,Sydney,Australia,11:14 PM,Melbourne Airport,Melbourne,23,4/24/2025
+ET7368,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:33 PM,Hamad International,Doha,8,4/24/2025
+AM5814,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:32 PM,O'Hare International,Chicago,7,7/8/2025
+KE3954,Korean Air,Incheon International,Seoul,South Korea,9:12 PM,Hong Kong International,Hong Kong,1,5/29/2025
+KL9083,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:07 AM,Munich Airport,Munich,14,6/2/2025
+LA1025,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,11:43 PM,Ministro Pistarini International,Buenos Aires,12,12/2/2025
+AC4071,Air Canada,Toronto Pearson,Toronto,Canada,8:35 AM,Logan International,Boston,2,7/20/2025
+LA4554,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,6:11 AM,Ministro Pistarini International,Buenos Aires,15,1/10/2026
+AI8395,Air India,Indira Gandhi International,Delhi,India,8:19 PM,Beijing Capital International,Beijing,6,3/14/2026
+IB8450,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,11:35 PM,Charles de Gaulle,Paris,8,1/2/2026
+AI5999,Air India,Indira Gandhi International,Delhi,India,9:45 AM,Chhatrapati Shivaji International,Mumbai,15,4/28/2026
+SA9869,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:44 AM,Charles de Gaulle,Paris,9,7/31/2025
+SQ1939,Singapore Airlines,Changi,Singapore,Singapore,7:11 PM,Beijing Capital International,Beijing,4,12/22/2025
+DL1925,Delta Air Lines,John F. Kennedy International,New York,USA,7:59 PM,Hartsfield-Jackson Atlanta,Atlanta,14,11/25/2025
+SQ8522,Singapore Airlines,Changi,Singapore,Singapore,5:31 AM,Beijing Capital International,Beijing,2,3/4/2026
+NZ2102,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:28 PM,Sydney Airport,Sydney,8,5/3/2025
+UA6060,United Airlines,Los Angeles International,Los Angeles,USA,9:11 AM,San Francisco International,San Francisco,21,10/27/2025
+BA2542,British Airways,Heathrow,London,UK,5:02 AM,Charles de Gaulle,Paris,1,8/2/2025
+IB9980,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:25 AM,Charles de Gaulle,Paris,14,1/28/2026
+DL2657,Delta Air Lines,John F. Kennedy International,New York,USA,10:46 AM,Hartsfield-Jackson Atlanta,Atlanta,12,7/11/2025
+AV9981,Avianca,El Dorado International,Bogotá,Colombia,5:04 PM,O'Hare International,Chicago,1,6/2/2025
+AM7778,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:13 PM,O'Hare International,Chicago,5,12/30/2025
+AV3423,Avianca,El Dorado International,Bogotá,Colombia,12:45 PM,O'Hare International,Chicago,12,2/20/2026
+WN3451,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:01 PM,Jomo Kenyatta International,Nairobi,21,4/11/2026
+AV9554,Avianca,El Dorado International,Bogotá,Colombia,7:30 AM,O'Hare International,Chicago,5,4/27/2025
+QF8711,Qantas,Sydney Airport,Sydney,Australia,8:51 PM,Melbourne Airport,Melbourne,13,4/27/2025
+DL1233,Delta Air Lines,John F. Kennedy International,New York,USA,2:36 PM,Hartsfield-Jackson Atlanta,Atlanta,23,8/27/2025
+AV6383,Avianca,El Dorado International,Bogotá,Colombia,8:08 PM,O'Hare International,Chicago,21,1/13/2026
+BA4656,British Airways,Heathrow,London,UK,3:22 AM,Charles de Gaulle,Paris,16,4/13/2026
+DL1991,Delta Air Lines,John F. Kennedy International,New York,USA,10:30 AM,Vancouver International,Vancouver,17,5/29/2025
+SQ8449,Singapore Airlines,Changi,Singapore,Singapore,11:23 AM,Cairo International,Cairo,24,8/12/2025
+AF9202,Air France,Charles de Gaulle,Paris,France,12:43 PM,Frankfurt Airport,Frankfurt,10,11/5/2025
+KL6659,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5:41 AM,Charles de Gaulle,Paris,8,7/12/2025
+QF4855,Qantas,Sydney Airport,Sydney,Australia,5:50 AM,Melbourne Airport,Melbourne,7,4/8/2025
+ET7205,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:18 AM,Hamad International,Doha,21,4/10/2026
+QF5020,Qantas,Sydney Airport,Sydney,Australia,1:56 PM,Melbourne Airport,Melbourne,20,10/7/2025
+ET5654,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:56 AM,Vienna International,Vienna,24,12/26/2025
+DL2791,Delta Air Lines,John F. Kennedy International,New York,USA,2:22 PM,São Paulo/Guarulhos International,São Paulo,7,1/24/2026
+LA4242,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,11:28 AM,Ministro Pistarini International,Buenos Aires,1,12/25/2025
+AZ3803,Alitalia,Leonardo da Vinci International,Rome,Italy,5:43 AM,Charles de Gaulle,Paris,9,3/16/2026
+AZ1863,Alitalia,Leonardo da Vinci International,Rome,Italy,12:06 AM,Frankfurt Airport,Frankfurt,16,8/31/2025
+UA3991,United Airlines,Los Angeles International,Los Angeles,USA,8:00 PM,Seattle-Tacoma International,Seattle,6,12/26/2025
+AA1003,American Airlines,John F. Kennedy International,New York,USA,5:21 AM,Hartsfield-Jackson Atlanta,Atlanta,21,9/10/2025
+QR5248,Qatar Airways,Hamad International,Doha,Qatar,7:41 PM,Vienna International,Vienna,2,6/24/2025
+TG5220,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:07 AM,Changi,Singapore,20,9/29/2025
+ET3606,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,9:13 AM,Hamad International,Doha,5,1/24/2026
+AM2984,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:32 AM,Seattle-Tacoma International,Seattle,6,4/6/2025
+AF9603,Air France,Charles de Gaulle,Paris,France,6:36 PM,Frankfurt Airport,Frankfurt,6,8/7/2025
+QF6810,Qantas,Sydney Airport,Sydney,Australia,7:20 PM,Melbourne Airport,Melbourne,15,9/15/2025
+ET1712,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:05 PM,Jomo Kenyatta International,Nairobi,13,10/17/2025
+AF8029,Air France,Charles de Gaulle,Paris,France,8:53 AM,Frankfurt Airport,Frankfurt,10,4/8/2025
+LA4035,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:17 PM,Hamad International,Doha,17,8/25/2025
+KE6076,Korean Air,Incheon International,Seoul,South Korea,4:35 AM,Haneda,Tokyo,5,6/1/2025
+NZ3326,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:47 AM,Sydney Airport,Sydney,7,1/24/2026
+TG4861,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:35 AM,Changi,Singapore,15,9/5/2025
+NZ9098,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:55 PM,Ministro Pistarini International,Buenos Aires,19,12/5/2025
+IB5135,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:40 PM,Dallas/Fort Worth International,Dallas,17,3/10/2026
+WN7692,Southwest Airlines,Los Angeles International,Los Angeles,USA,1:19 AM,San Francisco International,San Francisco,20,12/24/2025
+AA2833,American Airlines,John F. Kennedy International,New York,USA,4:15 AM,Hartsfield-Jackson Atlanta,Atlanta,19,1/5/2026
+AI3155,Air India,Indira Gandhi International,Delhi,India,7:58 PM,Chhatrapati Shivaji International,Mumbai,2,2/3/2026
+DL4972,Delta Air Lines,John F. Kennedy International,New York,USA,10:29 AM,Hartsfield-Jackson Atlanta,Atlanta,23,5/23/2025
+TG5312,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:39 AM,Logan International,Boston,4,2/21/2026
+NH2176,All Nippon Airways,Haneda,Tokyo,Japan,7:19 AM,Incheon International,Seoul,9,10/26/2025
+AA7995,American Airlines,John F. Kennedy International,New York,USA,8:50 PM,San Francisco International,San Francisco,8,8/7/2025
+KE6218,Korean Air,Incheon International,Seoul,South Korea,12:09 AM,Haneda,Tokyo,11,9/13/2025
+SA8516,South African Airways,O.R. Tambo International,Johannesburg,South Africa,4:54 PM,Charles de Gaulle,Paris,10,5/7/2025
+AM4717,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:54 PM,O'Hare International,Chicago,24,6/5/2025
+NZ2559,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:59 AM,Heathrow,London,22,8/4/2025
+AZ8759,Alitalia,Leonardo da Vinci International,Rome,Italy,5:05 PM,Charles de Gaulle,Paris,3,3/3/2026
+AZ2773,Alitalia,Leonardo da Vinci International,Rome,Italy,4:08 AM,Charles de Gaulle,Paris,6,6/10/2025
+TG6065,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:59 AM,Changi,Singapore,2,11/7/2025
+AM3278,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:42 PM,O'Hare International,Chicago,13,1/26/2026
+AF7900,Air France,Charles de Gaulle,Paris,France,12:00 AM,Frankfurt Airport,Frankfurt,21,4/18/2025
+DL4495,Delta Air Lines,John F. Kennedy International,New York,USA,3:44 AM,Miami International,Miami,1,2/26/2026
+ET3850,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:04 AM,Hamad International,Doha,12,6/1/2025
+NH6529,All Nippon Airways,Haneda,Tokyo,Japan,1:04 PM,Incheon International,Seoul,6,6/26/2025
+IB8511,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1:06 AM,Charles de Gaulle,Paris,9,4/19/2026
+AV8581,Avianca,El Dorado International,Bogotá,Colombia,12:15 AM,O'Hare International,Chicago,22,3/1/2026
+LH1304,Lufthansa,Frankfurt Airport,Frankfurt,Germany,4:00 PM,Charles de Gaulle,Paris,19,8/10/2025
+QR8726,Qatar Airways,Hamad International,Doha,Qatar,2:09 AM,O.R. Tambo International,Johannesburg,18,9/27/2025
+DL6952,Delta Air Lines,John F. Kennedy International,New York,USA,3:02 PM,Hartsfield-Jackson Atlanta,Atlanta,15,3/13/2026
+QF8711,Qantas,Sydney Airport,Sydney,Australia,3:30 AM,Melbourne Airport,Melbourne,1,11/26/2025
+SA8008,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:17 PM,Vancouver International,Vancouver,18,3/1/2026
+IB2906,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:31 AM,Charles de Gaulle,Paris,8,5/9/2025
+AF6719,Air France,Charles de Gaulle,Paris,France,2:07 PM,Frankfurt Airport,Frankfurt,1,4/27/2026
+AA7899,American Airlines,John F. Kennedy International,New York,USA,7:54 PM,Hartsfield-Jackson Atlanta,Atlanta,14,2/1/2026
+AV1794,Avianca,El Dorado International,Bogotá,Colombia,8:55 AM,Leonardo da Vinci International,Rome,6,4/6/2025
+SA3782,South African Airways,O.R. Tambo International,Johannesburg,South Africa,12:56 AM,Haneda,Tokyo,19,11/22/2025
+QR4568,Qatar Airways,Hamad International,Doha,Qatar,3:35 PM,Jomo Kenyatta International,Nairobi,17,6/14/2025
+NZ8966,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:29 AM,Logan International,Boston,21,10/15/2025
+QR9598,Qatar Airways,Hamad International,Doha,Qatar,9:39 PM,Charles de Gaulle,Paris,5,12/18/2025
+KL8769,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:30 PM,Charles de Gaulle,Paris,1,10/28/2025
+AM7841,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:58 PM,O'Hare International,Chicago,10,4/8/2026
+KE1111,Korean Air,Incheon International,Seoul,South Korea,1:09 PM,Changi,Singapore,9,7/12/2025
+UA5817,United Airlines,Los Angeles International,Los Angeles,USA,10:52 AM,San Francisco International,San Francisco,14,8/15/2025
+DL8502,Delta Air Lines,John F. Kennedy International,New York,USA,3:46 AM,Hartsfield-Jackson Atlanta,Atlanta,3,1/13/2026
+NZ5050,Air New Zealand,Auckland Airport,Auckland,New Zealand,8:38 AM,Haneda,Tokyo,22,6/21/2025
+LA5663,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:45 AM,Ministro Pistarini International,Buenos Aires,23,6/29/2025
+NZ1172,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:21 AM,Munich Airport,Munich,6,1/24/2026
+SK7094,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:59 PM,Leonardo da Vinci International,Rome,5,6/5/2025
+AM7831,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:30 AM,O'Hare International,Chicago,18,7/12/2025
+UA8290,United Airlines,Los Angeles International,Los Angeles,USA,10:46 AM,San Francisco International,San Francisco,2,10/21/2025
+QF2751,Qantas,Sydney Airport,Sydney,Australia,9:34 AM,Melbourne Airport,Melbourne,17,1/21/2026
+KE9732,Korean Air,Incheon International,Seoul,South Korea,8:28 AM,Haneda,Tokyo,9,7/11/2025
+NZ8208,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:54 PM,Sydney Airport,Sydney,16,8/20/2025
+AC6947,Air Canada,Toronto Pearson,Toronto,Canada,4:23 AM,John F. Kennedy International,New York,3,1/25/2026
+EK7341,Emirates,Dubai International,Dubai,UAE,4:40 PM,Hamad International,Doha,21,1/1/2026
+ET6876,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:28 PM,Hamad International,Doha,6,1/5/2026
+QR4802,Qatar Airways,Hamad International,Doha,Qatar,12:39 AM,Haneda,Tokyo,20,4/12/2025
+KL5867,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,1:45 PM,Frankfurt Airport,Frankfurt,4,9/19/2025
+IB7148,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:58 AM,Charles de Gaulle,Paris,19,3/20/2026
+BA3245,British Airways,Heathrow,London,UK,9:43 AM,Charles de Gaulle,Paris,10,8/16/2025
+KE5983,Korean Air,Incheon International,Seoul,South Korea,8:01 AM,Haneda,Tokyo,19,5/20/2025
+AZ5484,Alitalia,Leonardo da Vinci International,Rome,Italy,5:33 PM,Charles de Gaulle,Paris,5,3/8/2026
+TG1711,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:46 PM,Incheon International,Seoul,22,2/26/2026
+IB5209,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:24 PM,Dubai International,Dubai,8,3/25/2026
+UA6595,United Airlines,Los Angeles International,Los Angeles,USA,4:09 PM,San Francisco International,San Francisco,2,7/8/2025
+NZ9286,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:42 PM,Sydney Airport,Sydney,22,4/12/2025
+NZ2363,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:22 PM,Sydney Airport,Sydney,10,6/24/2025
+UA6785,United Airlines,Los Angeles International,Los Angeles,USA,10:22 PM,San Francisco International,San Francisco,1,6/27/2025
+UA9363,United Airlines,Los Angeles International,Los Angeles,USA,2:11 PM,San Francisco International,San Francisco,20,8/22/2025
+AC9854,Air Canada,Toronto Pearson,Toronto,Canada,2:53 AM,John F. Kennedy International,New York,13,2/9/2026
+KE4411,Korean Air,Incheon International,Seoul,South Korea,6:46 PM,Munich Airport,Munich,10,4/23/2025
+NZ4525,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:24 AM,Kuala Lumpur International,Kuala Lumpur,18,11/19/2025
+SA3089,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:36 AM,Copenhagen Airport,Copenhagen,19,8/10/2025
+SA8685,South African Airways,O.R. Tambo International,Johannesburg,South Africa,12:29 PM,Charles de Gaulle,Paris,15,7/25/2025
+SQ4603,Singapore Airlines,Changi,Singapore,Singapore,12:33 PM,Beijing Capital International,Beijing,11,4/6/2026
+AA8464,American Airlines,John F. Kennedy International,New York,USA,6:12 PM,Hartsfield-Jackson Atlanta,Atlanta,12,6/30/2025
+AF9908,Air France,Charles de Gaulle,Paris,France,8:04 AM,Frankfurt Airport,Frankfurt,15,2/27/2026
+EK5171,Emirates,Dubai International,Dubai,UAE,12:25 AM,Hamad International,Doha,11,12/28/2025
+TG9254,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:14 PM,Beijing Capital International,Beijing,21,9/1/2025
+AV4396,Avianca,El Dorado International,Bogotá,Colombia,12:18 AM,O'Hare International,Chicago,4,6/25/2025
+SQ8046,Singapore Airlines,Changi,Singapore,Singapore,4:31 PM,Haneda,Tokyo,16,7/17/2025
+IB6405,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:58 AM,Charles de Gaulle,Paris,10,10/26/2025
+KE9981,Korean Air,Incheon International,Seoul,South Korea,4:46 PM,Haneda,Tokyo,8,10/11/2025
+QR5248,Qatar Airways,Hamad International,Doha,Qatar,10:21 AM,Vienna International,Vienna,1,7/30/2025
+BA7302,British Airways,Heathrow,London,UK,1:51 AM,Charles de Gaulle,Paris,13,4/22/2025
+LH2858,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:07 PM,Charles de Gaulle,Paris,14,6/21/2025
+QF7187,Qantas,Sydney Airport,Sydney,Australia,5:54 PM,Auckland Airport,Auckland,18,5/4/2025
+LH3297,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:33 AM,Charles de Gaulle,Paris,6,12/3/2025
+EK7978,Emirates,Dubai International,Dubai,UAE,9:36 PM,Hamad International,Doha,11,7/31/2025
+IB5628,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:19 PM,Vienna International,Vienna,20,9/10/2025
+LA3026,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,6:58 PM,Ministro Pistarini International,Buenos Aires,10,12/5/2025
+NZ8857,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:20 PM,Incheon International,Seoul,9,4/10/2025
+LA1344,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:59 PM,Ministro Pistarini International,Buenos Aires,20,7/14/2025
+WN7987,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:52 PM,John F. Kennedy International,New York,14,7/21/2025
+SK9022,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:06 AM,Charles de Gaulle,Paris,14,11/27/2025
+AF8009,Air France,Charles de Gaulle,Paris,France,4:30 AM,Frankfurt Airport,Frankfurt,9,10/21/2025
+LH3163,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:14 AM,Indira Gandhi International,Delhi,17,1/25/2026
+WN6462,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:36 PM,San Francisco International,San Francisco,3,8/23/2025
+SQ5580,Singapore Airlines,Changi,Singapore,Singapore,9:48 AM,Melbourne Airport,Melbourne,2,4/1/2025
+SK3122,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:00 AM,Charles de Gaulle,Paris,23,11/20/2025
+AI2188,Air India,Indira Gandhi International,Delhi,India,1:35 PM,Chhatrapati Shivaji International,Mumbai,17,8/24/2025
+EK7699,Emirates,Dubai International,Dubai,UAE,6:27 PM,Bole International,Addis Ababa,7,5/9/2025
+CX7552,Cathay Pacific,Hong Kong International,Hong Kong,China,2:31 AM,Changi,Singapore,21,12/20/2025
+AZ9034,Alitalia,Leonardo da Vinci International,Rome,Italy,2:27 PM,Amsterdam Airport Schiphol,Amsterdam,13,8/11/2025
+KL2709,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:28 PM,Miami International,Miami,8,4/11/2025
+NZ6454,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:22 AM,Sydney Airport,Sydney,17,11/16/2025
+IB7103,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:37 AM,Charles de Gaulle,Paris,20,8/22/2025
+ET4570,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:37 PM,Hamad International,Doha,6,7/25/2025
+QR3181,Qatar Airways,Hamad International,Doha,Qatar,6:46 PM,Bole International,Addis Ababa,23,2/17/2026
+EK5772,Emirates,Dubai International,Dubai,UAE,6:08 AM,Hamad International,Doha,18,1/4/2026
+SQ3366,Singapore Airlines,Changi,Singapore,Singapore,9:06 AM,Hong Kong International,Hong Kong,24,4/15/2026
+AF2120,Air France,Charles de Gaulle,Paris,France,8:03 AM,Frankfurt Airport,Frankfurt,23,3/24/2026
+QR3382,Qatar Airways,Hamad International,Doha,Qatar,3:05 PM,Bole International,Addis Ababa,24,8/25/2025
+UA4570,United Airlines,Los Angeles International,Los Angeles,USA,6:44 PM,El Dorado International,Bogotá,3,6/15/2025
+QF4855,Qantas,Sydney Airport,Sydney,Australia,1:33 PM,Melbourne Airport,Melbourne,24,3/15/2026
+AA6703,American Airlines,John F. Kennedy International,New York,USA,3:54 AM,Hartsfield-Jackson Atlanta,Atlanta,20,4/25/2025
+QR2311,Qatar Airways,Hamad International,Doha,Qatar,7:43 PM,Frankfurt Airport,Frankfurt,11,5/30/2025
+SQ5037,Singapore Airlines,Changi,Singapore,Singapore,6:31 AM,Beijing Capital International,Beijing,12,7/11/2025
+LA9766,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,6:45 AM,Ministro Pistarini International,Buenos Aires,12,7/10/2025
+BA8980,British Airways,Heathrow,London,UK,5:52 AM,Charles de Gaulle,Paris,5,2/18/2026
+WN3451,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:48 PM,Jomo Kenyatta International,Nairobi,4,11/4/2025
+LA7916,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,8:57 PM,Amsterdam Airport Schiphol,Amsterdam,22,6/27/2025
+AC2255,Air Canada,Toronto Pearson,Toronto,Canada,6:05 PM,John F. Kennedy International,New York,1,8/30/2025
+SA5186,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:26 AM,Charles de Gaulle,Paris,12,1/25/2026
+EK1351,Emirates,Dubai International,Dubai,UAE,12:19 AM,Cairo International,Cairo,9,11/13/2025
+DL9737,Delta Air Lines,John F. Kennedy International,New York,USA,6:08 PM,Hartsfield-Jackson Atlanta,Atlanta,15,3/2/2026
+KL2768,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11:31 PM,Charles de Gaulle,Paris,6,1/25/2026
+QR1765,Qatar Airways,Hamad International,Doha,Qatar,11:46 AM,Adolfo Suárez Madrid–Barajas,Madrid,5,10/31/2025
+KL6990,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:58 AM,Charles de Gaulle,Paris,1,11/4/2025
+TG5265,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:46 PM,Changi,Singapore,6,10/3/2025
+AZ3803,Alitalia,Leonardo da Vinci International,Rome,Italy,3:08 AM,Charles de Gaulle,Paris,20,4/28/2025
+QF8392,Qantas,Sydney Airport,Sydney,Australia,10:33 AM,Jomo Kenyatta International,Nairobi,12,5/8/2025
+CX6613,Cathay Pacific,Hong Kong International,Hong Kong,China,2:00 PM,Changi,Singapore,1,12/8/2025
+AI5502,Air India,Indira Gandhi International,Delhi,India,4:01 PM,Chhatrapati Shivaji International,Mumbai,22,6/27/2025
+BA6235,British Airways,Heathrow,London,UK,12:29 AM,Arturo Merino Benítez International,Santiago,23,10/24/2025
+WN4159,Southwest Airlines,Los Angeles International,Los Angeles,USA,5:24 AM,San Francisco International,San Francisco,9,1/30/2026
+WN5430,Southwest Airlines,Los Angeles International,Los Angeles,USA,5:29 AM,San Francisco International,San Francisco,13,4/21/2026
+LH6097,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:10 AM,Leonardo da Vinci International,Rome,12,11/8/2025
+AA1630,American Airlines,John F. Kennedy International,New York,USA,1:06 PM,Hartsfield-Jackson Atlanta,Atlanta,19,5/20/2025
+QR8922,Qatar Airways,Hamad International,Doha,Qatar,2:43 AM,Charles de Gaulle,Paris,24,3/22/2026
+NH3141,All Nippon Airways,Haneda,Tokyo,Japan,6:35 PM,Incheon International,Seoul,16,7/2/2025
+EK4479,Emirates,Dubai International,Dubai,UAE,8:07 PM,Hamad International,Doha,10,10/17/2025
+WN9133,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:26 AM,San Francisco International,San Francisco,16,10/23/2025
+EK2095,Emirates,Dubai International,Dubai,UAE,6:33 PM,Munich Airport,Munich,6,11/30/2025
+IB4367,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:10 PM,São Paulo/Guarulhos International,São Paulo,17,3/18/2026
+EK5091,Emirates,Dubai International,Dubai,UAE,10:30 AM,Hamad International,Doha,22,1/17/2026
+AZ5907,Alitalia,Leonardo da Vinci International,Rome,Italy,11:38 PM,Charles de Gaulle,Paris,13,9/26/2025
+AI9507,Air India,Indira Gandhi International,Delhi,India,1:44 PM,Bole International,Addis Ababa,14,7/9/2025
+NH5739,All Nippon Airways,Haneda,Tokyo,Japan,10:25 AM,Incheon International,Seoul,3,4/18/2025
+DL3021,Delta Air Lines,John F. Kennedy International,New York,USA,2:29 PM,Hartsfield-Jackson Atlanta,Atlanta,5,8/25/2025
+DL5812,Delta Air Lines,John F. Kennedy International,New York,USA,11:27 PM,Hartsfield-Jackson Atlanta,Atlanta,17,9/18/2025
+AC5234,Air Canada,Toronto Pearson,Toronto,Canada,1:12 AM,John F. Kennedy International,New York,3,10/1/2025
+IB5378,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:26 PM,Charles de Gaulle,Paris,12,1/21/2026
+AA2935,American Airlines,John F. Kennedy International,New York,USA,4:18 PM,Hartsfield-Jackson Atlanta,Atlanta,3,6/25/2025
+LA5926,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:46 PM,Ministro Pistarini International,Buenos Aires,8,7/16/2025
+AF3394,Air France,Charles de Gaulle,Paris,France,6:59 PM,Amsterdam Airport Schiphol,Amsterdam,15,4/8/2026
+AV3280,Avianca,El Dorado International,Bogotá,Colombia,9:11 AM,O'Hare International,Chicago,6,4/1/2026
+LA7916,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,9:00 PM,Amsterdam Airport Schiphol,Amsterdam,15,9/5/2025
+LA1544,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:55 AM,Ministro Pistarini International,Buenos Aires,12,2/23/2026
+AI6534,Air India,Indira Gandhi International,Delhi,India,10:19 PM,Chhatrapati Shivaji International,Mumbai,9,2/17/2026
+QF7218,Qantas,Sydney Airport,Sydney,Australia,5:18 AM,Melbourne Airport,Melbourne,4,1/5/2026
+AZ6261,Alitalia,Leonardo da Vinci International,Rome,Italy,9:24 AM,Charles de Gaulle,Paris,14,10/22/2025
+LH1606,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:14 PM,Zurich Airport,Zurich,14,2/2/2026
+TG9905,Thai Airways,Suvarnabhumi,Bangkok,Thailand,6:59 PM,Changi,Singapore,5,3/22/2026
+KE6519,Korean Air,Incheon International,Seoul,South Korea,12:24 AM,Charles de Gaulle,Paris,18,11/5/2025
+SQ1577,Singapore Airlines,Changi,Singapore,Singapore,8:42 PM,Melbourne Airport,Melbourne,18,2/5/2026
+WN9133,Southwest Airlines,Los Angeles International,Los Angeles,USA,6:10 AM,San Francisco International,San Francisco,3,5/30/2025
+NH6403,All Nippon Airways,Haneda,Tokyo,Japan,1:10 PM,Incheon International,Seoul,9,5/8/2025
+ET3363,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:24 AM,El Dorado International,Bogotá,7,7/14/2025
+ET5520,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:29 PM,Hamad International,Doha,18,6/12/2025
+AF4971,Air France,Charles de Gaulle,Paris,France,12:38 PM,O.R. Tambo International,Johannesburg,18,7/30/2025
+UA8589,United Airlines,Los Angeles International,Los Angeles,USA,5:46 AM,Adolfo Suárez Madrid–Barajas,Madrid,6,7/19/2025
+CX4520,Cathay Pacific,Hong Kong International,Hong Kong,China,5:38 AM,Changi,Singapore,24,2/12/2026
+ET2935,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:11 AM,Beijing Capital International,Beijing,6,12/16/2025
+IB6162,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:47 AM,Charles de Gaulle,Paris,18,4/12/2025
+QR9059,Qatar Airways,Hamad International,Doha,Qatar,11:23 PM,Bole International,Addis Ababa,13,3/10/2026
+LH1697,Lufthansa,Frankfurt Airport,Frankfurt,Germany,11:45 AM,Charles de Gaulle,Paris,2,5/17/2025
+AA1658,American Airlines,John F. Kennedy International,New York,USA,10:00 AM,Hartsfield-Jackson Atlanta,Atlanta,3,6/17/2025
+SQ2999,Singapore Airlines,Changi,Singapore,Singapore,9:00 AM,Beijing Capital International,Beijing,6,6/5/2025
+CX5974,Cathay Pacific,Hong Kong International,Hong Kong,China,4:06 PM,Suvarnabhumi,Bangkok,20,8/1/2025
+AM1013,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:07 AM,Denver International,Denver,17,4/15/2026
+AV3075,Avianca,El Dorado International,Bogotá,Colombia,5:19 PM,Haneda,Tokyo,2,12/9/2025
+LA3180,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:18 AM,Kuala Lumpur International,Kuala Lumpur,2,5/1/2025
+AM2437,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:38 PM,San Francisco International,San Francisco,1,10/9/2025
+QR6223,Qatar Airways,Hamad International,Doha,Qatar,5:30 PM,Amsterdam Airport Schiphol,Amsterdam,1,4/26/2025
+QR2822,Qatar Airways,Hamad International,Doha,Qatar,3:56 PM,Bole International,Addis Ababa,12,6/4/2025
+LA7080,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:11 PM,Ministro Pistarini International,Buenos Aires,17,6/25/2025
+AC6753,Air Canada,Toronto Pearson,Toronto,Canada,7:51 PM,John F. Kennedy International,New York,1,1/19/2026
+TG3173,Thai Airways,Suvarnabhumi,Bangkok,Thailand,9:01 AM,Beijing Capital International,Beijing,5,9/27/2025
+SK1135,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:00 AM,Vienna International,Vienna,12,4/23/2025
+BA2318,British Airways,Heathrow,London,UK,8:10 PM,Indira Gandhi International,Delhi,17,9/6/2025
+AV7378,Avianca,El Dorado International,Bogotá,Colombia,7:29 AM,O.R. Tambo International,Johannesburg,5,4/18/2026
+NZ9821,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:32 AM,Sydney Airport,Sydney,24,9/30/2025
+AM8764,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:46 PM,O'Hare International,Chicago,19,9/10/2025
+LH6315,Lufthansa,Frankfurt Airport,Frankfurt,Germany,9:52 PM,O.R. Tambo International,Johannesburg,21,4/5/2025
+AA6559,American Airlines,John F. Kennedy International,New York,USA,1:07 AM,Hartsfield-Jackson Atlanta,Atlanta,14,2/5/2026
+IB9376,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:23 PM,Charles de Gaulle,Paris,13,11/16/2025
+NH7569,All Nippon Airways,Haneda,Tokyo,Japan,10:37 AM,Incheon International,Seoul,10,2/9/2026
+SA8526,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:27 PM,Charles de Gaulle,Paris,14,12/26/2025
+SK5938,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,12:00 AM,Melbourne Airport,Melbourne,6,6/3/2025
+ET4246,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,5:45 PM,Benito Juárez International,Mexico City,7,9/17/2025
+LA3260,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:31 PM,Chhatrapati Shivaji International,Mumbai,21,4/22/2026
+SA4429,South African Airways,O.R. Tambo International,Johannesburg,South Africa,12:03 AM,Charles de Gaulle,Paris,9,10/12/2025
+AZ1011,Alitalia,Leonardo da Vinci International,Rome,Italy,9:29 PM,Charles de Gaulle,Paris,5,8/28/2025
+EK5658,Emirates,Dubai International,Dubai,UAE,6:13 PM,Hamad International,Doha,9,1/24/2026
+AA2932,American Airlines,John F. Kennedy International,New York,USA,5:25 PM,Hartsfield-Jackson Atlanta,Atlanta,15,12/18/2025
+AM3761,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:20 AM,Ministro Pistarini International,Buenos Aires,16,12/20/2025
+QF8191,Qantas,Sydney Airport,Sydney,Australia,12:41 PM,Melbourne Airport,Melbourne,9,11/21/2025
+AM8774,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:24 PM,O'Hare International,Chicago,11,4/23/2025
+AM9388,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:53 PM,O'Hare International,Chicago,8,12/1/2025
+AV5027,Avianca,El Dorado International,Bogotá,Colombia,5:46 AM,O'Hare International,Chicago,23,4/21/2026
+TG4328,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:27 PM,Changi,Singapore,2,12/23/2025
+AI4444,Air India,Indira Gandhi International,Delhi,India,9:15 PM,Chhatrapati Shivaji International,Mumbai,1,8/31/2025
+IB6696,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:12 PM,Charles de Gaulle,Paris,20,1/31/2026
+BA1624,British Airways,Heathrow,London,UK,9:09 AM,Amsterdam Airport Schiphol,Amsterdam,16,7/5/2025
+KL9596,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:43 PM,Charles de Gaulle,Paris,7,9/16/2025
+IB5029,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,10:12 PM,Charles de Gaulle,Paris,8,10/21/2025
+BA4740,British Airways,Heathrow,London,UK,11:05 AM,Charles de Gaulle,Paris,10,5/29/2025
+EK1142,Emirates,Dubai International,Dubai,UAE,9:27 AM,Hamad International,Doha,12,6/29/2025
+AI5205,Air India,Indira Gandhi International,Delhi,India,8:05 PM,Dubai International,Dubai,13,7/28/2025
+NZ6527,Air New Zealand,Auckland Airport,Auckland,New Zealand,8:37 PM,Suvarnabhumi,Bangkok,10,7/24/2025
+AZ5827,Alitalia,Leonardo da Vinci International,Rome,Italy,11:31 PM,Charles de Gaulle,Paris,11,4/1/2025
+AA4087,American Airlines,John F. Kennedy International,New York,USA,10:35 PM,Miami International,Miami,13,4/24/2026
+IB3960,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,10:25 PM,Charles de Gaulle,Paris,15,1/31/2026
+BA3679,British Airways,Heathrow,London,UK,3:57 PM,Charles de Gaulle,Paris,14,9/14/2025
+AF7307,Air France,Charles de Gaulle,Paris,France,2:49 AM,Frankfurt Airport,Frankfurt,24,9/27/2025
+NZ3010,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:59 PM,Sydney Airport,Sydney,8,4/18/2025
+LA5763,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:19 PM,Ministro Pistarini International,Buenos Aires,16,7/21/2025
+AF7177,Air France,Charles de Gaulle,Paris,France,6:00 AM,Frankfurt Airport,Frankfurt,3,11/11/2025
+EK8073,Emirates,Dubai International,Dubai,UAE,1:19 PM,Bole International,Addis Ababa,3,1/30/2026
+AF3094,Air France,Charles de Gaulle,Paris,France,7:24 PM,Frankfurt Airport,Frankfurt,5,4/30/2025
+WN9468,Southwest Airlines,Los Angeles International,Los Angeles,USA,6:14 PM,San Francisco International,San Francisco,7,10/26/2025
+AM6970,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:30 PM,O'Hare International,Chicago,20,11/13/2025
+QF2974,Qantas,Sydney Airport,Sydney,Australia,8:33 PM,Melbourne Airport,Melbourne,11,7/28/2025
+KE2015,Korean Air,Incheon International,Seoul,South Korea,6:07 PM,Haneda,Tokyo,5,6/14/2025
+DL7687,Delta Air Lines,John F. Kennedy International,New York,USA,7:35 AM,Hartsfield-Jackson Atlanta,Atlanta,4,4/2/2025
+NZ8553,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:56 AM,Sydney Airport,Sydney,10,10/23/2025
+ET3363,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:42 PM,El Dorado International,Bogotá,24,2/8/2026
+QR9747,Qatar Airways,Hamad International,Doha,Qatar,6:47 PM,Bole International,Addis Ababa,14,9/1/2025
+IB3862,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:54 AM,Charles de Gaulle,Paris,23,12/15/2025
+AA1719,American Airlines,John F. Kennedy International,New York,USA,1:55 PM,Miami International,Miami,10,3/6/2026
+WN8565,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:14 AM,San Francisco International,San Francisco,8,2/4/2026
+NZ1915,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:28 AM,Brisbane Airport,Brisbane,1,3/20/2026
+AZ2796,Alitalia,Leonardo da Vinci International,Rome,Italy,9:46 AM,Charles de Gaulle,Paris,18,8/25/2025
+LH2485,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:17 AM,Charles de Gaulle,Paris,12,4/20/2026
+AM3516,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:56 AM,Dallas/Fort Worth International,Dallas,3,4/17/2025
+CX7004,Cathay Pacific,Hong Kong International,Hong Kong,China,6:17 AM,Changi,Singapore,23,1/19/2026
+NZ4525,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:49 AM,Kuala Lumpur International,Kuala Lumpur,2,10/19/2025
+SA9586,South African Airways,O.R. Tambo International,Johannesburg,South Africa,2:50 PM,Charles de Gaulle,Paris,3,3/29/2026
+EK1205,Emirates,Dubai International,Dubai,UAE,12:07 PM,Sydney Airport,Sydney,18,1/13/2026
+QF4698,Qantas,Sydney Airport,Sydney,Australia,7:30 PM,Melbourne Airport,Melbourne,23,9/15/2025
+NZ2113,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:30 PM,Sydney Airport,Sydney,8,5/19/2025
+SQ8804,Singapore Airlines,Changi,Singapore,Singapore,8:49 AM,Beijing Capital International,Beijing,10,9/14/2025
+NZ4078,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:12 PM,Sydney Airport,Sydney,12,9/24/2025
+AI2702,Air India,Indira Gandhi International,Delhi,India,4:58 AM,Chhatrapati Shivaji International,Mumbai,6,1/21/2026
+KL1090,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:14 PM,Adolfo Suárez Madrid–Barajas,Madrid,21,2/6/2026
+SA3726,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:36 AM,Charles de Gaulle,Paris,17,5/8/2025
+IB6191,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:21 AM,Charles de Gaulle,Paris,1,8/1/2025
+WN4945,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:04 AM,Amsterdam Airport Schiphol,Amsterdam,19,10/17/2025
+SQ8074,Singapore Airlines,Changi,Singapore,Singapore,2:38 AM,Beijing Capital International,Beijing,16,6/26/2025
+LA7114,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,12:44 AM,Ministro Pistarini International,Buenos Aires,7,8/24/2025
+AM2579,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:46 AM,Hartsfield-Jackson Atlanta,Atlanta,10,12/19/2025
+AI1343,Air India,Indira Gandhi International,Delhi,India,1:54 AM,Dubai International,Dubai,21,9/2/2025
+KE1111,Korean Air,Incheon International,Seoul,South Korea,10:03 AM,Changi,Singapore,13,5/20/2025
+NH7999,All Nippon Airways,Haneda,Tokyo,Japan,5:03 AM,Incheon International,Seoul,10,7/4/2025
+SA4784,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:35 PM,Charles de Gaulle,Paris,13,5/19/2025
+IB1902,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:40 AM,Charles de Gaulle,Paris,18,2/9/2026
+KL9443,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:21 AM,Charles de Gaulle,Paris,10,4/19/2026
+TG1544,Thai Airways,Suvarnabhumi,Bangkok,Thailand,9:55 PM,Beijing Capital International,Beijing,23,4/11/2025
+IB6789,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:02 AM,Zurich Airport,Zurich,7,1/20/2026
+NZ1419,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:08 PM,Sydney Airport,Sydney,16,12/17/2025
+SK4476,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,8:17 AM,Charles de Gaulle,Paris,19,10/16/2025
+KE4109,Korean Air,Incheon International,Seoul,South Korea,11:31 PM,Hong Kong International,Hong Kong,16,10/11/2025
+QF3355,Qantas,Sydney Airport,Sydney,Australia,4:01 AM,Melbourne Airport,Melbourne,20,4/3/2025
+WN6588,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:27 AM,San Francisco International,San Francisco,5,10/20/2025
+NZ3206,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:16 PM,Sydney Airport,Sydney,11,7/30/2025
+LH3854,Lufthansa,Frankfurt Airport,Frankfurt,Germany,10:07 AM,Charles de Gaulle,Paris,16,9/4/2025
+WN3136,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:11 AM,John F. Kennedy International,New York,19,9/15/2025
+QF3355,Qantas,Sydney Airport,Sydney,Australia,7:29 PM,Melbourne Airport,Melbourne,22,4/23/2026
+IB3042,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:33 AM,Vienna International,Vienna,13,4/15/2026
+AF8660,Air France,Charles de Gaulle,Paris,France,10:52 PM,Frankfurt Airport,Frankfurt,8,8/5/2025
+TG3173,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:52 AM,Beijing Capital International,Beijing,17,9/12/2025
+ET4246,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:15 AM,Benito Juárez International,Mexico City,2,4/16/2026
+LA3448,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:39 AM,Ministro Pistarini International,Buenos Aires,14,3/2/2026
+AF5273,Air France,Charles de Gaulle,Paris,France,1:57 PM,Frankfurt Airport,Frankfurt,6,7/26/2025
+AM4613,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:45 AM,O'Hare International,Chicago,1,3/12/2026
+SQ1881,Singapore Airlines,Changi,Singapore,Singapore,9:35 PM,Beijing Capital International,Beijing,21,5/17/2025
+KE5512,Korean Air,Incheon International,Seoul,South Korea,1:31 AM,Haneda,Tokyo,22,1/31/2026
+AC5204,Air Canada,Toronto Pearson,Toronto,Canada,2:48 AM,Cape Town International,Cape Town,14,5/27/2025
+SA8444,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:23 AM,Charles de Gaulle,Paris,7,4/17/2026
+BA1044,British Airways,Heathrow,London,UK,5:53 PM,Charles de Gaulle,Paris,23,10/31/2025
+EK3314,Emirates,Dubai International,Dubai,UAE,10:54 PM,Leonardo da Vinci International,Rome,6,6/3/2025
+LA2996,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,2:45 AM,Ministro Pistarini International,Buenos Aires,13,9/3/2025
+SQ8332,Singapore Airlines,Changi,Singapore,Singapore,8:05 PM,Beijing Capital International,Beijing,7,3/27/2026
+KL7867,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:17 PM,Hamad International,Doha,23,1/25/2026
+QR4142,Qatar Airways,Hamad International,Doha,Qatar,1:02 AM,Jomo Kenyatta International,Nairobi,14,10/2/2025
+KL3432,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,2:32 PM,Beijing Capital International,Beijing,15,4/7/2026
+SQ2482,Singapore Airlines,Changi,Singapore,Singapore,3:25 AM,Beijing Capital International,Beijing,23,8/1/2025
+BA5112,British Airways,Heathrow,London,UK,9:38 PM,Charles de Gaulle,Paris,10,4/16/2026
+LH7901,Lufthansa,Frankfurt Airport,Frankfurt,Germany,4:23 PM,Charles de Gaulle,Paris,10,8/15/2025
+AV2551,Avianca,El Dorado International,Bogotá,Colombia,2:46 PM,Dallas/Fort Worth International,Dallas,20,5/3/2025
+DL2579,Delta Air Lines,John F. Kennedy International,New York,USA,6:23 PM,San Francisco International,San Francisco,22,8/17/2025
+NH4005,All Nippon Airways,Haneda,Tokyo,Japan,6:39 AM,Incheon International,Seoul,6,2/17/2026
+AM5087,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:22 AM,O'Hare International,Chicago,5,11/27/2025
+ET6494,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,4:09 PM,Hamad International,Doha,4,4/1/2025
+LH9450,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:02 PM,Charles de Gaulle,Paris,8,7/12/2025
+AM6972,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:04 AM,O'Hare International,Chicago,24,4/21/2025
+WN9686,Southwest Airlines,Los Angeles International,Los Angeles,USA,9:07 PM,Dallas/Fort Worth International,Dallas,2,5/2/2025
+KL5959,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:11 AM,Charles de Gaulle,Paris,21,7/22/2025
+CX4309,Cathay Pacific,Hong Kong International,Hong Kong,China,7:39 AM,Adolfo Suárez Madrid–Barajas,Madrid,16,7/9/2025
+QF5903,Qantas,Sydney Airport,Sydney,Australia,8:06 PM,Changi,Singapore,24,7/15/2025
+KL9285,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,2:13 PM,Leonardo da Vinci International,Rome,13,1/22/2026
+ET3231,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:23 AM,Hamad International,Doha,20,7/25/2025
+AF9068,Air France,Charles de Gaulle,Paris,France,8:44 PM,Leonardo da Vinci International,Rome,2,11/12/2025
+ET5694,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:03 PM,Amsterdam Airport Schiphol,Amsterdam,7,7/29/2025
+KL2024,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5:19 AM,Charles de Gaulle,Paris,17,1/26/2026
+WN1044,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:56 PM,San Francisco International,San Francisco,23,2/10/2026
+CX2045,Cathay Pacific,Hong Kong International,Hong Kong,China,12:07 AM,Changi,Singapore,24,8/18/2025
+ET6876,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:20 PM,Hamad International,Doha,11,12/25/2025
+BA6203,British Airways,Heathrow,London,UK,3:02 PM,Charles de Gaulle,Paris,15,11/18/2025
+SA1377,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:49 AM,Charles de Gaulle,Paris,5,12/11/2025
+SA1209,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:36 PM,Charles de Gaulle,Paris,20,1/20/2026
+ET5683,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,11:53 PM,Hamad International,Doha,6,5/24/2025
+LH7260,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:38 AM,Amsterdam Airport Schiphol,Amsterdam,13,4/17/2025
+QR5322,Qatar Airways,Hamad International,Doha,Qatar,8:48 PM,Munich Airport,Munich,13,1/8/2026
+DL8386,Delta Air Lines,John F. Kennedy International,New York,USA,11:41 AM,Hartsfield-Jackson Atlanta,Atlanta,5,9/4/2025
+QF6795,Qantas,Sydney Airport,Sydney,Australia,8:54 PM,Melbourne Airport,Melbourne,17,10/25/2025
+IB8185,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1:52 AM,Charles de Gaulle,Paris,3,9/20/2025
+SQ7182,Singapore Airlines,Changi,Singapore,Singapore,6:34 AM,Beijing Capital International,Beijing,13,9/19/2025
+QR3757,Qatar Airways,Hamad International,Doha,Qatar,2:42 PM,Bole International,Addis Ababa,5,6/8/2025
+AC5199,Air Canada,Toronto Pearson,Toronto,Canada,9:38 AM,Amsterdam Airport Schiphol,Amsterdam,19,1/19/2026
+AA3791,American Airlines,John F. Kennedy International,New York,USA,7:54 AM,O'Hare International,Chicago,22,6/15/2025
+KE1537,Korean Air,Incheon International,Seoul,South Korea,1:01 AM,Changi,Singapore,5,12/16/2025
+AF3394,Air France,Charles de Gaulle,Paris,France,2:05 PM,Amsterdam Airport Schiphol,Amsterdam,10,10/27/2025
+AC2475,Air Canada,Toronto Pearson,Toronto,Canada,4:58 AM,John F. Kennedy International,New York,2,9/8/2025
+NH4186,All Nippon Airways,Haneda,Tokyo,Japan,5:23 PM,Cairo International,Cairo,23,2/7/2026
+EK1409,Emirates,Dubai International,Dubai,UAE,6:57 PM,Bole International,Addis Ababa,13,5/23/2025
+AV7378,Avianca,El Dorado International,Bogotá,Colombia,4:27 AM,O.R. Tambo International,Johannesburg,18,2/6/2026
+KE1770,Korean Air,Incheon International,Seoul,South Korea,11:46 PM,Jomo Kenyatta International,Nairobi,1,9/4/2025
+ET5583,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:21 PM,Hamad International,Doha,13,7/3/2025
+CX4520,Cathay Pacific,Hong Kong International,Hong Kong,China,12:48 PM,Changi,Singapore,18,5/3/2025
+KL6659,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:26 PM,Charles de Gaulle,Paris,12,4/22/2026
+SQ8339,Singapore Airlines,Changi,Singapore,Singapore,8:52 PM,Beijing Capital International,Beijing,3,6/15/2025
+AZ2233,Alitalia,Leonardo da Vinci International,Rome,Italy,10:41 PM,Charles de Gaulle,Paris,21,4/2/2026
+AZ4341,Alitalia,Leonardo da Vinci International,Rome,Italy,8:41 PM,Frankfurt Airport,Frankfurt,5,6/29/2025
+CX3392,Cathay Pacific,Hong Kong International,Hong Kong,China,7:51 AM,Changi,Singapore,7,10/18/2025
+LH6171,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:38 PM,Charles de Gaulle,Paris,9,6/14/2025
+LH8334,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:46 AM,Charles de Gaulle,Paris,18,7/5/2025
+SQ1946,Singapore Airlines,Changi,Singapore,Singapore,11:37 AM,Beijing Capital International,Beijing,15,10/17/2025
+KE7452,Korean Air,Incheon International,Seoul,South Korea,12:35 PM,Benito Juárez International,Mexico City,6,5/26/2025
+AC1394,Air Canada,Toronto Pearson,Toronto,Canada,12:14 AM,El Dorado International,Bogotá,22,4/24/2025
+QF1141,Qantas,Sydney Airport,Sydney,Australia,5:19 PM,Melbourne Airport,Melbourne,22,11/6/2025
+IB1310,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:24 AM,Munich Airport,Munich,19,8/1/2025
+AM9678,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:13 AM,O'Hare International,Chicago,7,10/13/2025
+AV9933,Avianca,El Dorado International,Bogotá,Colombia,12:52 AM,O'Hare International,Chicago,10,9/13/2025
+QR5364,Qatar Airways,Hamad International,Doha,Qatar,5:26 AM,Bole International,Addis Ababa,8,10/20/2025
+QR5057,Qatar Airways,Hamad International,Doha,Qatar,10:19 AM,Bole International,Addis Ababa,17,11/19/2025
+AF4682,Air France,Charles de Gaulle,Paris,France,2:55 PM,Frankfurt Airport,Frankfurt,10,4/7/2025
+AA4087,American Airlines,John F. Kennedy International,New York,USA,2:56 AM,Miami International,Miami,23,4/17/2025
+EK2669,Emirates,Dubai International,Dubai,UAE,4:19 AM,Leonardo da Vinci International,Rome,5,5/11/2025
+WN5339,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:10 AM,San Francisco International,San Francisco,16,9/6/2025
+AA1824,American Airlines,John F. Kennedy International,New York,USA,4:15 AM,Dallas/Fort Worth International,Dallas,20,10/8/2025
+UA9709,United Airlines,Los Angeles International,Los Angeles,USA,2:46 PM,San Francisco International,San Francisco,8,9/12/2025
+LA1545,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:18 PM,Ministro Pistarini International,Buenos Aires,3,2/13/2026
+NZ1091,Air New Zealand,Auckland Airport,Auckland,New Zealand,5:20 AM,Sydney Airport,Sydney,15,4/11/2025
+CX9679,Cathay Pacific,Hong Kong International,Hong Kong,China,3:13 PM,Changi,Singapore,18,5/30/2025
+AI3823,Air India,Indira Gandhi International,Delhi,India,2:12 AM,Chhatrapati Shivaji International,Mumbai,18,7/6/2025
+TG8956,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:56 PM,Changi,Singapore,15,10/26/2025
+SQ8046,Singapore Airlines,Changi,Singapore,Singapore,11:20 PM,Haneda,Tokyo,9,8/31/2025
+EK1605,Emirates,Dubai International,Dubai,UAE,3:03 PM,Hamad International,Doha,7,12/12/2025
+AZ8963,Alitalia,Leonardo da Vinci International,Rome,Italy,11:24 PM,Munich Airport,Munich,18,5/4/2025
+AV6310,Avianca,El Dorado International,Bogotá,Colombia,3:28 AM,O'Hare International,Chicago,24,2/11/2026
+WN9145,Southwest Airlines,Los Angeles International,Los Angeles,USA,1:41 PM,San Francisco International,San Francisco,8,3/27/2026
+ET5520,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:58 PM,Hamad International,Doha,22,4/27/2025
+AV3075,Avianca,El Dorado International,Bogotá,Colombia,1:50 PM,Haneda,Tokyo,8,3/24/2026
+LH7901,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:59 PM,Charles de Gaulle,Paris,10,6/4/2025
+QR3757,Qatar Airways,Hamad International,Doha,Qatar,7:30 AM,Bole International,Addis Ababa,7,9/22/2025
+SQ2554,Singapore Airlines,Changi,Singapore,Singapore,4:01 AM,Haneda,Tokyo,21,4/1/2025
+AI4546,Air India,Indira Gandhi International,Delhi,India,1:05 PM,Chhatrapati Shivaji International,Mumbai,12,7/6/2025
+BA9018,British Airways,Heathrow,London,UK,10:27 PM,Charles de Gaulle,Paris,9,9/29/2025
+QF2308,Qantas,Sydney Airport,Sydney,Australia,10:59 AM,Melbourne Airport,Melbourne,4,3/7/2026
+DL3595,Delta Air Lines,John F. Kennedy International,New York,USA,5:11 AM,Hartsfield-Jackson Atlanta,Atlanta,8,4/24/2026
+AM3367,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:01 AM,O'Hare International,Chicago,17,1/18/2026
+NZ8247,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:45 PM,Sydney Airport,Sydney,4,5/30/2025
+SA3924,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:10 PM,Leonardo da Vinci International,Rome,1,8/10/2025
+AF3301,Air France,Charles de Gaulle,Paris,France,12:16 AM,Cairo International,Cairo,7,3/10/2026
+NZ6301,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:33 PM,Sydney Airport,Sydney,11,4/8/2025
+LA9846,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:37 AM,Ministro Pistarini International,Buenos Aires,15,8/12/2025
+SQ4535,Singapore Airlines,Changi,Singapore,Singapore,6:55 AM,Beijing Capital International,Beijing,13,4/21/2026
+SQ4852,Singapore Airlines,Changi,Singapore,Singapore,11:18 PM,Frankfurt Airport,Frankfurt,24,9/26/2025
+NZ6812,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:09 AM,Melbourne Airport,Melbourne,19,3/11/2026
+AM3307,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:24 PM,O'Hare International,Chicago,4,2/22/2026
+AV4698,Avianca,El Dorado International,Bogotá,Colombia,5:42 AM,O'Hare International,Chicago,12,5/18/2025
+DL1921,Delta Air Lines,John F. Kennedy International,New York,USA,7:34 AM,Hartsfield-Jackson Atlanta,Atlanta,23,4/3/2026
+AI2516,Air India,Indira Gandhi International,Delhi,India,7:21 PM,Chhatrapati Shivaji International,Mumbai,2,3/29/2026
+CX2366,Cathay Pacific,Hong Kong International,Hong Kong,China,4:34 AM,Copenhagen Airport,Copenhagen,4,5/17/2025
+AM1449,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:29 PM,O'Hare International,Chicago,19,4/22/2025
+SK9897,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,12:39 AM,Amsterdam Airport Schiphol,Amsterdam,10,3/3/2026
+IB2065,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:51 PM,Cape Town International,Cape Town,20,8/5/2025
+ET4833,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,9:18 PM,Hamad International,Doha,3,9/4/2025
+AM3135,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:07 AM,O'Hare International,Chicago,18,4/24/2026
+AC3468,Air Canada,Toronto Pearson,Toronto,Canada,2:58 AM,John F. Kennedy International,New York,6,10/5/2025
+AZ6191,Alitalia,Leonardo da Vinci International,Rome,Italy,10:28 AM,Frankfurt Airport,Frankfurt,2,1/3/2026
+SQ8769,Singapore Airlines,Changi,Singapore,Singapore,2:53 AM,Beijing Capital International,Beijing,10,4/13/2026
+AV4922,Avianca,El Dorado International,Bogotá,Colombia,12:41 AM,Sydney Airport,Sydney,10,9/11/2025
+SA2695,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:34 AM,Sydney Airport,Sydney,23,12/27/2025
+TG2389,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:37 PM,Changi,Singapore,14,10/31/2025
+WN3456,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:45 AM,San Francisco International,San Francisco,19,8/22/2025
+AF1042,Air France,Charles de Gaulle,Paris,France,2:11 AM,Frankfurt Airport,Frankfurt,11,4/11/2025
+SK6503,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:29 AM,Charles de Gaulle,Paris,6,8/25/2025
+AZ2434,Alitalia,Leonardo da Vinci International,Rome,Italy,4:19 AM,Adolfo Suárez Madrid–Barajas,Madrid,7,5/3/2025
+AZ1923,Alitalia,Leonardo da Vinci International,Rome,Italy,8:35 AM,Charles de Gaulle,Paris,5,10/3/2025
+QR8684,Qatar Airways,Hamad International,Doha,Qatar,6:54 AM,Copenhagen Airport,Copenhagen,22,5/6/2025
+LA5610,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:30 PM,Zurich Airport,Zurich,9,7/29/2025
+UA2278,United Airlines,Los Angeles International,Los Angeles,USA,6:47 AM,San Francisco International,San Francisco,12,4/14/2026
+WN8701,Southwest Airlines,Los Angeles International,Los Angeles,USA,2:24 PM,San Francisco International,San Francisco,7,1/4/2026
+AM7295,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:51 AM,Seattle-Tacoma International,Seattle,8,1/15/2026
+KE3818,Korean Air,Incheon International,Seoul,South Korea,1:31 AM,Haneda,Tokyo,4,7/16/2025
+CX9568,Cathay Pacific,Hong Kong International,Hong Kong,China,3:38 PM,Changi,Singapore,15,3/8/2026
+UA4990,United Airlines,Los Angeles International,Los Angeles,USA,12:47 PM,San Francisco International,San Francisco,2,12/13/2025
+NH5949,All Nippon Airways,Haneda,Tokyo,Japan,9:36 PM,Frankfurt Airport,Frankfurt,17,7/27/2025
+LH6417,Lufthansa,Frankfurt Airport,Frankfurt,Germany,10:43 PM,Ministro Pistarini International,Buenos Aires,11,4/2/2025
+EK4464,Emirates,Dubai International,Dubai,UAE,3:33 AM,Bole International,Addis Ababa,9,5/2/2025
+DL8789,Delta Air Lines,John F. Kennedy International,New York,USA,11:33 AM,Hartsfield-Jackson Atlanta,Atlanta,7,12/25/2025
+TG6736,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:02 AM,Changi,Singapore,10,9/12/2025
+AZ5549,Alitalia,Leonardo da Vinci International,Rome,Italy,3:53 PM,Charles de Gaulle,Paris,9,9/19/2025
+AM6125,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:53 PM,Hartsfield-Jackson Atlanta,Atlanta,12,11/6/2025
+AM4015,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:43 PM,O'Hare International,Chicago,20,11/21/2025
+SQ9432,Singapore Airlines,Changi,Singapore,Singapore,7:22 PM,Beijing Capital International,Beijing,16,2/26/2026
+SK4013,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:17 AM,Charles de Gaulle,Paris,1,7/18/2025
+AF8267,Air France,Charles de Gaulle,Paris,France,10:25 PM,Frankfurt Airport,Frankfurt,2,10/4/2025
+KE4629,Korean Air,Incheon International,Seoul,South Korea,8:43 PM,Ministro Pistarini International,Buenos Aires,6,4/9/2025
+LA9571,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:40 PM,Ministro Pistarini International,Buenos Aires,23,6/16/2025
+ET8142,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:42 PM,Chhatrapati Shivaji International,Mumbai,4,4/3/2026
+SQ8152,Singapore Airlines,Changi,Singapore,Singapore,6:03 PM,Beijing Capital International,Beijing,8,6/28/2025
+AI3208,Air India,Indira Gandhi International,Delhi,India,11:52 AM,Chhatrapati Shivaji International,Mumbai,5,8/6/2025
+SA8115,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:25 PM,Charles de Gaulle,Paris,9,11/30/2025
+SQ6336,Singapore Airlines,Changi,Singapore,Singapore,1:47 PM,Beijing Capital International,Beijing,4,4/25/2026
+AC7595,Air Canada,Toronto Pearson,Toronto,Canada,10:43 AM,John F. Kennedy International,New York,10,3/14/2026
+AV8569,Avianca,El Dorado International,Bogotá,Colombia,1:07 PM,O'Hare International,Chicago,23,4/27/2026
+TG7029,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:58 AM,Changi,Singapore,9,6/13/2025
+KE8496,Korean Air,Incheon International,Seoul,South Korea,12:06 PM,Sydney Airport,Sydney,14,1/8/2026
+LH3591,Lufthansa,Frankfurt Airport,Frankfurt,Germany,5:22 AM,Charles de Gaulle,Paris,16,8/4/2025
+AZ2159,Alitalia,Leonardo da Vinci International,Rome,Italy,4:37 AM,Charles de Gaulle,Paris,10,12/6/2025
+AC4575,Air Canada,Toronto Pearson,Toronto,Canada,4:18 AM,Dallas/Fort Worth International,Dallas,5,10/26/2025
+CX7274,Cathay Pacific,Hong Kong International,Hong Kong,China,8:30 AM,Changi,Singapore,24,4/4/2026
+SA8070,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:31 AM,Charles de Gaulle,Paris,11,4/25/2026
+TG4572,Thai Airways,Suvarnabhumi,Bangkok,Thailand,6:16 PM,Beijing Capital International,Beijing,7,3/31/2026
+TG7965,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:58 AM,Brisbane Airport,Brisbane,3,12/27/2025
+CX7552,Cathay Pacific,Hong Kong International,Hong Kong,China,9:52 PM,Changi,Singapore,15,2/18/2026
+SA4674,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:24 AM,Charles de Gaulle,Paris,2,2/6/2026
+SQ6336,Singapore Airlines,Changi,Singapore,Singapore,8:21 PM,Beijing Capital International,Beijing,24,4/14/2025
+AM9388,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:29 PM,O'Hare International,Chicago,3,11/2/2025
+AZ9026,Alitalia,Leonardo da Vinci International,Rome,Italy,2:20 AM,Charles de Gaulle,Paris,24,9/25/2025
+LA2826,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,8:59 PM,Ministro Pistarini International,Buenos Aires,9,8/10/2025
+SQ4591,Singapore Airlines,Changi,Singapore,Singapore,7:49 PM,Bole International,Addis Ababa,16,1/6/2026
+LA3215,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,8:16 PM,Ministro Pistarini International,Buenos Aires,16,6/5/2025
+CX3703,Cathay Pacific,Hong Kong International,Hong Kong,China,9:55 AM,Changi,Singapore,9,1/21/2026
+AZ7903,Alitalia,Leonardo da Vinci International,Rome,Italy,2:43 AM,Charles de Gaulle,Paris,6,4/5/2025
+LA7781,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:25 PM,Ministro Pistarini International,Buenos Aires,17,12/29/2025
+QF7073,Qantas,Sydney Airport,Sydney,Australia,7:29 PM,Melbourne Airport,Melbourne,17,10/12/2025
+DL7036,Delta Air Lines,John F. Kennedy International,New York,USA,12:12 AM,Hartsfield-Jackson Atlanta,Atlanta,2,3/29/2026
+AI6849,Air India,Indira Gandhi International,Delhi,India,5:32 AM,Chhatrapati Shivaji International,Mumbai,16,7/25/2025
+SQ8844,Singapore Airlines,Changi,Singapore,Singapore,5:07 AM,Beijing Capital International,Beijing,22,7/22/2025
+IB4989,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:36 AM,Charles de Gaulle,Paris,21,6/8/2025
+AZ7831,Alitalia,Leonardo da Vinci International,Rome,Italy,8:54 PM,Charles de Gaulle,Paris,14,11/15/2025
+TG3467,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:37 AM,Changi,Singapore,13,3/13/2026
+WN9155,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:30 AM,San Francisco International,San Francisco,8,6/27/2025
+AI6454,Air India,Indira Gandhi International,Delhi,India,3:15 PM,Chhatrapati Shivaji International,Mumbai,16,4/6/2026
+CX3529,Cathay Pacific,Hong Kong International,Hong Kong,China,8:00 PM,Changi,Singapore,22,11/27/2025
+AV6858,Avianca,El Dorado International,Bogotá,Colombia,6:54 PM,Dallas/Fort Worth International,Dallas,18,4/24/2025
+CX2918,Cathay Pacific,Hong Kong International,Hong Kong,China,7:21 PM,Changi,Singapore,21,11/22/2025
+NZ2679,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:23 PM,Sydney Airport,Sydney,7,4/18/2026
+SQ4474,Singapore Airlines,Changi,Singapore,Singapore,11:09 PM,Beijing Capital International,Beijing,5,11/14/2025
+SA3542,South African Airways,O.R. Tambo International,Johannesburg,South Africa,12:02 PM,Charles de Gaulle,Paris,7,2/25/2026
+SA7408,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:00 PM,Frankfurt Airport,Frankfurt,12,5/19/2025
+TG1736,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:20 AM,Changi,Singapore,12,12/16/2025
+AF9644,Air France,Charles de Gaulle,Paris,France,10:43 PM,Frankfurt Airport,Frankfurt,20,4/2/2026
+QR8923,Qatar Airways,Hamad International,Doha,Qatar,4:30 PM,Bole International,Addis Ababa,6,8/25/2025
+NZ5604,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:44 PM,São Paulo/Guarulhos International,São Paulo,2,6/8/2025
+BA9707,British Airways,Heathrow,London,UK,8:38 PM,Charles de Gaulle,Paris,5,9/12/2025
+QF5189,Qantas,Sydney Airport,Sydney,Australia,6:13 PM,Melbourne Airport,Melbourne,21,9/9/2025
+WN7987,Southwest Airlines,Los Angeles International,Los Angeles,USA,5:56 AM,John F. Kennedy International,New York,6,12/29/2025
+AC3468,Air Canada,Toronto Pearson,Toronto,Canada,12:53 AM,John F. Kennedy International,New York,14,1/25/2026
+AM1067,Aeroméxico,Benito Juárez International,Mexico City,Mexico,5:50 AM,O'Hare International,Chicago,7,1/12/2026
+TG7112,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:59 PM,Dubai International,Dubai,16,2/11/2026
+DL6952,Delta Air Lines,John F. Kennedy International,New York,USA,10:36 PM,Hartsfield-Jackson Atlanta,Atlanta,7,4/20/2025
+AF2783,Air France,Charles de Gaulle,Paris,France,5:31 PM,Frankfurt Airport,Frankfurt,13,12/18/2025
+IB3752,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:58 AM,Charles de Gaulle,Paris,2,1/5/2026
+SQ4809,Singapore Airlines,Changi,Singapore,Singapore,6:27 AM,Leonardo da Vinci International,Rome,5,4/6/2025
+QR1240,Qatar Airways,Hamad International,Doha,Qatar,4:30 PM,Bole International,Addis Ababa,16,5/2/2025
+UA2278,United Airlines,Los Angeles International,Los Angeles,USA,8:37 PM,San Francisco International,San Francisco,16,6/29/2025
+EK4646,Emirates,Dubai International,Dubai,UAE,6:39 PM,Hamad International,Doha,4,6/3/2025
+SA5698,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:05 PM,Charles de Gaulle,Paris,14,6/1/2025
+UA2787,United Airlines,Los Angeles International,Los Angeles,USA,7:47 PM,Vancouver International,Vancouver,18,10/5/2025
+AV3075,Avianca,El Dorado International,Bogotá,Colombia,4:08 PM,Haneda,Tokyo,10,4/9/2025
+AM5087,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:21 PM,O'Hare International,Chicago,23,9/7/2025
+SA9373,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:15 AM,Ministro Pistarini International,Buenos Aires,19,7/2/2025
+SA3736,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:08 AM,Amsterdam Airport Schiphol,Amsterdam,8,4/25/2025
+AV2245,Avianca,El Dorado International,Bogotá,Colombia,5:21 AM,O'Hare International,Chicago,21,5/8/2025
+AM8244,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:15 PM,O'Hare International,Chicago,21,11/12/2025
+AM5180,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:47 PM,O'Hare International,Chicago,5,4/4/2025
+AI8120,Air India,Indira Gandhi International,Delhi,India,10:15 AM,Chhatrapati Shivaji International,Mumbai,4,9/26/2025
+SK7157,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:40 AM,Charles de Gaulle,Paris,12,5/20/2025
+ET7440,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:09 AM,Hamad International,Doha,22,2/16/2026
+CX8226,Cathay Pacific,Hong Kong International,Hong Kong,China,10:05 AM,Incheon International,Seoul,20,4/20/2025
+QF1403,Qantas,Sydney Airport,Sydney,Australia,11:34 AM,Dallas/Fort Worth International,Dallas,7,4/13/2025
+AC7189,Air Canada,Toronto Pearson,Toronto,Canada,4:17 PM,Ministro Pistarini International,Buenos Aires,8,9/7/2025
+AM4015,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:07 AM,O'Hare International,Chicago,10,4/15/2025
+QF6081,Qantas,Sydney Airport,Sydney,Australia,4:34 PM,Melbourne Airport,Melbourne,18,2/18/2026
+AA4866,American Airlines,John F. Kennedy International,New York,USA,6:03 AM,Miami International,Miami,4,4/13/2026
+EK6651,Emirates,Dubai International,Dubai,UAE,3:57 AM,Vienna International,Vienna,2,12/23/2025
+AF8267,Air France,Charles de Gaulle,Paris,France,2:24 PM,Frankfurt Airport,Frankfurt,21,11/17/2025
+AM7826,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:07 AM,O'Hare International,Chicago,4,3/10/2026
+BA6286,British Airways,Heathrow,London,UK,1:43 AM,Munich Airport,Munich,20,2/3/2026
+AA9409,American Airlines,John F. Kennedy International,New York,USA,9:57 PM,Hartsfield-Jackson Atlanta,Atlanta,2,2/20/2026
+AC8527,Air Canada,Toronto Pearson,Toronto,Canada,3:48 AM,John F. Kennedy International,New York,22,8/2/2025
+AC6343,Air Canada,Toronto Pearson,Toronto,Canada,12:07 PM,San Francisco International,San Francisco,10,4/7/2026
+KL9083,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:48 PM,Munich Airport,Munich,3,3/17/2026
+UA8934,United Airlines,Los Angeles International,Los Angeles,USA,3:45 AM,San Francisco International,San Francisco,8,3/4/2026
+NH9924,All Nippon Airways,Haneda,Tokyo,Japan,6:34 PM,Incheon International,Seoul,2,1/18/2026
+UA2787,United Airlines,Los Angeles International,Los Angeles,USA,7:50 AM,Vancouver International,Vancouver,10,12/29/2025
+AC5615,Air Canada,Toronto Pearson,Toronto,Canada,5:27 PM,John F. Kennedy International,New York,6,10/20/2025
+UA8748,United Airlines,Los Angeles International,Los Angeles,USA,9:41 AM,Seattle-Tacoma International,Seattle,9,4/27/2026
+LA6287,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:47 AM,Ministro Pistarini International,Buenos Aires,10,4/17/2025
+TG3782,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:47 PM,Changi,Singapore,12,7/18/2025
+QR5078,Qatar Airways,Hamad International,Doha,Qatar,2:55 PM,Ministro Pistarini International,Buenos Aires,17,7/18/2025
+WN5978,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:20 PM,Vancouver International,Vancouver,4,9/2/2025
+AC2255,Air Canada,Toronto Pearson,Toronto,Canada,7:32 PM,John F. Kennedy International,New York,11,12/18/2025
+SA3890,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:14 AM,Charles de Gaulle,Paris,12,5/31/2025
+AM2354,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:20 PM,O'Hare International,Chicago,8,6/11/2025
+LH7416,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:23 PM,Charles de Gaulle,Paris,19,4/27/2026
+IB3568,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:35 AM,Logan International,Boston,9,11/10/2025
+AM9560,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:52 PM,Adolfo Suárez Madrid–Barajas,Madrid,16,2/4/2026
+KE5966,Korean Air,Incheon International,Seoul,South Korea,6:04 PM,Haneda,Tokyo,4,8/27/2025
+DL4964,Delta Air Lines,John F. Kennedy International,New York,USA,3:51 PM,Hartsfield-Jackson Atlanta,Atlanta,18,10/28/2025
+AA6633,American Airlines,John F. Kennedy International,New York,USA,6:00 AM,Hartsfield-Jackson Atlanta,Atlanta,8,2/2/2026
+QR5057,Qatar Airways,Hamad International,Doha,Qatar,10:27 PM,Bole International,Addis Ababa,22,6/5/2025
+NZ2679,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:52 PM,Sydney Airport,Sydney,9,2/25/2026
+KE9981,Korean Air,Incheon International,Seoul,South Korea,8:59 PM,Haneda,Tokyo,16,9/14/2025
+TG3255,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:25 PM,Changi,Singapore,21,9/6/2025
+AZ3288,Alitalia,Leonardo da Vinci International,Rome,Italy,12:34 PM,Charles de Gaulle,Paris,3,8/29/2025
+QR7315,Qatar Airways,Hamad International,Doha,Qatar,11:28 PM,Jomo Kenyatta International,Nairobi,13,11/2/2025
+AI1775,Air India,Indira Gandhi International,Delhi,India,6:35 PM,Arturo Merino Benítez International,Santiago,18,12/10/2025
+BA1635,British Airways,Heathrow,London,UK,3:04 PM,Leonardo da Vinci International,Rome,13,7/9/2025
+EK2146,Emirates,Dubai International,Dubai,UAE,8:10 AM,Hamad International,Doha,6,6/28/2025
+WN7987,Southwest Airlines,Los Angeles International,Los Angeles,USA,5:03 PM,John F. Kennedy International,New York,22,5/25/2025
+AF8882,Air France,Charles de Gaulle,Paris,France,8:02 AM,Frankfurt Airport,Frankfurt,13,5/9/2025
+WN3368,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:35 AM,San Francisco International,San Francisco,23,4/20/2026
+QF1789,Qantas,Sydney Airport,Sydney,Australia,9:25 PM,Kuala Lumpur International,Kuala Lumpur,24,11/13/2025
+SK2088,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:20 AM,Charles de Gaulle,Paris,16,8/13/2025
+EK2830,Emirates,Dubai International,Dubai,UAE,6:05 PM,Chhatrapati Shivaji International,Mumbai,10,3/17/2026
+NH8896,All Nippon Airways,Haneda,Tokyo,Japan,8:20 PM,Incheon International,Seoul,8,5/26/2025
+NZ7374,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:30 PM,Sydney Airport,Sydney,14,11/28/2025
+ET2639,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:49 PM,Hamad International,Doha,3,7/6/2025
+AC5211,Air Canada,Toronto Pearson,Toronto,Canada,2:18 AM,Dallas/Fort Worth International,Dallas,16,5/11/2025
+AZ8759,Alitalia,Leonardo da Vinci International,Rome,Italy,7:10 AM,Charles de Gaulle,Paris,9,10/3/2025
+SQ1881,Singapore Airlines,Changi,Singapore,Singapore,11:16 PM,Beijing Capital International,Beijing,11,6/2/2025
+AC5992,Air Canada,Toronto Pearson,Toronto,Canada,1:32 PM,John F. Kennedy International,New York,12,3/30/2026
+AV8136,Avianca,El Dorado International,Bogotá,Colombia,4:19 PM,O'Hare International,Chicago,9,5/10/2025
+IB6191,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,7:16 PM,Charles de Gaulle,Paris,18,3/15/2026
+UA4657,United Airlines,Los Angeles International,Los Angeles,USA,3:19 AM,San Francisco International,San Francisco,1,1/9/2026
+SK3759,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:01 PM,Charles de Gaulle,Paris,4,7/6/2025
+AC8527,Air Canada,Toronto Pearson,Toronto,Canada,6:01 AM,John F. Kennedy International,New York,24,4/9/2026
+CX3691,Cathay Pacific,Hong Kong International,Hong Kong,China,2:41 AM,Frankfurt Airport,Frankfurt,19,5/22/2025
+AA7995,American Airlines,John F. Kennedy International,New York,USA,6:42 PM,San Francisco International,San Francisco,16,11/17/2025
+BA4990,British Airways,Heathrow,London,UK,11:19 PM,Charles de Gaulle,Paris,17,5/20/2025
+AC5659,Air Canada,Toronto Pearson,Toronto,Canada,2:12 AM,John F. Kennedy International,New York,2,8/5/2025
+AV5220,Avianca,El Dorado International,Bogotá,Colombia,7:24 AM,O'Hare International,Chicago,23,12/9/2025
+LA9082,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,2:10 AM,Ministro Pistarini International,Buenos Aires,23,4/10/2026
+AC7315,Air Canada,Toronto Pearson,Toronto,Canada,4:17 PM,John F. Kennedy International,New York,23,2/4/2026
+CX4393,Cathay Pacific,Hong Kong International,Hong Kong,China,3:54 AM,Changi,Singapore,4,6/7/2025
+WN1265,Southwest Airlines,Los Angeles International,Los Angeles,USA,2:37 AM,Vancouver International,Vancouver,19,4/9/2025
+NH1537,All Nippon Airways,Haneda,Tokyo,Japan,1:15 AM,Changi,Singapore,3,8/28/2025
+AM8244,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:41 AM,O'Hare International,Chicago,14,6/24/2025
+LH2460,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:41 AM,Amsterdam Airport Schiphol,Amsterdam,20,3/25/2026
+NZ7379,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:55 PM,Sydney Airport,Sydney,14,4/28/2026
+SK8133,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:06 AM,Charles de Gaulle,Paris,2,8/18/2025
+QF6947,Qantas,Sydney Airport,Sydney,Australia,7:59 AM,Haneda,Tokyo,16,4/2/2025
+AA1004,American Airlines,John F. Kennedy International,New York,USA,10:12 PM,Hartsfield-Jackson Atlanta,Atlanta,17,10/22/2025
+KE4403,Korean Air,Incheon International,Seoul,South Korea,7:45 AM,Haneda,Tokyo,2,5/27/2025
+SA8444,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:22 PM,Charles de Gaulle,Paris,16,4/29/2025
+AV9282,Avianca,El Dorado International,Bogotá,Colombia,12:49 PM,Jorge Chávez International,Lima,2,12/4/2025
+NZ1988,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:11 PM,Melbourne Airport,Melbourne,16,12/16/2025
+AM4411,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:33 AM,O'Hare International,Chicago,11,9/29/2025
+AV9918,Avianca,El Dorado International,Bogotá,Colombia,1:58 PM,Los Angeles International,Los Angeles,4,9/7/2025
+AC8533,Air Canada,Toronto Pearson,Toronto,Canada,7:33 AM,El Dorado International,Bogotá,15,1/24/2026
+EK8568,Emirates,Dubai International,Dubai,UAE,5:50 AM,Chhatrapati Shivaji International,Mumbai,5,8/1/2025
+SQ2561,Singapore Airlines,Changi,Singapore,Singapore,4:18 AM,Vancouver International,Vancouver,19,8/25/2025
+LA7890,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:51 AM,Ministro Pistarini International,Buenos Aires,6,4/27/2025
+QR3556,Qatar Airways,Hamad International,Doha,Qatar,7:49 AM,Miami International,Miami,2,4/24/2025
+TG3677,Thai Airways,Suvarnabhumi,Bangkok,Thailand,7:07 PM,Changi,Singapore,2,9/16/2025
+TG7327,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:16 AM,Changi,Singapore,3,9/14/2025
+AZ8989,Alitalia,Leonardo da Vinci International,Rome,Italy,7:20 PM,Adolfo Suárez Madrid–Barajas,Madrid,1,6/6/2025
+SK4327,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,8:46 AM,Charles de Gaulle,Paris,5,3/5/2026
+AC8565,Air Canada,Toronto Pearson,Toronto,Canada,4:56 PM,John F. Kennedy International,New York,1,9/10/2025
+EK7680,Emirates,Dubai International,Dubai,UAE,9:37 PM,Bole International,Addis Ababa,1,3/23/2026
+SQ8522,Singapore Airlines,Changi,Singapore,Singapore,3:51 AM,Beijing Capital International,Beijing,20,1/14/2026
+NH1262,All Nippon Airways,Haneda,Tokyo,Japan,10:29 PM,Incheon International,Seoul,24,12/4/2025
+IB8450,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:18 PM,Charles de Gaulle,Paris,17,4/22/2026
+AC5211,Air Canada,Toronto Pearson,Toronto,Canada,10:44 PM,Dallas/Fort Worth International,Dallas,16,4/8/2025
+TG3467,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:32 PM,Changi,Singapore,14,7/31/2025
+BA8980,British Airways,Heathrow,London,UK,8:35 PM,Charles de Gaulle,Paris,15,7/12/2025
+WN2114,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:54 PM,San Francisco International,San Francisco,8,6/11/2025
+BA1599,British Airways,Heathrow,London,UK,9:12 AM,Charles de Gaulle,Paris,21,8/7/2025
+TG3165,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:04 PM,Indira Gandhi International,Delhi,14,4/13/2025
+BA8723,British Airways,Heathrow,London,UK,3:56 AM,Charles de Gaulle,Paris,5,10/11/2025
+AF7593,Air France,Charles de Gaulle,Paris,France,7:07 PM,Frankfurt Airport,Frankfurt,22,10/18/2025
+LH7027,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:58 AM,Amsterdam Airport Schiphol,Amsterdam,17,11/15/2025
+SA5810,South African Airways,O.R. Tambo International,Johannesburg,South Africa,4:39 AM,Charles de Gaulle,Paris,3,9/18/2025
+WN2810,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:08 AM,San Francisco International,San Francisco,5,6/8/2025
+SQ5942,Singapore Airlines,Changi,Singapore,Singapore,2:58 AM,Brisbane Airport,Brisbane,12,10/29/2025
+DL8968,Delta Air Lines,John F. Kennedy International,New York,USA,12:20 PM,Hartsfield-Jackson Atlanta,Atlanta,9,1/14/2026
+QF3525,Qantas,Sydney Airport,Sydney,Australia,4:55 AM,Melbourne Airport,Melbourne,14,10/10/2025
+ET7859,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:30 PM,Hamad International,Doha,24,8/29/2025
+EK1142,Emirates,Dubai International,Dubai,UAE,3:50 PM,Hamad International,Doha,6,1/21/2026
+AV1619,Avianca,El Dorado International,Bogotá,Colombia,2:55 PM,Hong Kong International,Hong Kong,22,3/16/2026
+KL1814,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,8:54 AM,Charles de Gaulle,Paris,6,6/30/2025
+WN3384,Southwest Airlines,Los Angeles International,Los Angeles,USA,10:22 AM,Seattle-Tacoma International,Seattle,4,9/17/2025
+NZ5122,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:58 AM,Sydney Airport,Sydney,21,10/29/2025
+SK6280,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:18 AM,Charles de Gaulle,Paris,22,12/11/2025
+NZ7151,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:09 PM,Sydney Airport,Sydney,16,11/18/2025
+KL8568,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11:22 AM,Charles de Gaulle,Paris,22,7/16/2025
+ET3908,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,5:26 PM,Hamad International,Doha,19,4/29/2026
+CX1637,Cathay Pacific,Hong Kong International,Hong Kong,China,4:48 PM,Changi,Singapore,12,2/15/2026
+SQ7791,Singapore Airlines,Changi,Singapore,Singapore,11:19 PM,Beijing Capital International,Beijing,11,5/6/2025
+LH6904,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:48 AM,Charles de Gaulle,Paris,5,11/9/2025
+IB1843,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:25 AM,Charles de Gaulle,Paris,17,8/23/2025
+KE9074,Korean Air,Incheon International,Seoul,South Korea,11:47 AM,Haneda,Tokyo,19,8/20/2025
+BA7579,British Airways,Heathrow,London,UK,4:38 AM,Charles de Gaulle,Paris,4,4/13/2026
+AI9127,Air India,Indira Gandhi International,Delhi,India,3:00 PM,Chhatrapati Shivaji International,Mumbai,9,11/29/2025
+EK4610,Emirates,Dubai International,Dubai,UAE,10:00 AM,Cairo International,Cairo,7,7/6/2025
+LH1926,Lufthansa,Frankfurt Airport,Frankfurt,Germany,6:04 PM,Charles de Gaulle,Paris,1,4/27/2026
+TG4235,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:39 AM,Changi,Singapore,12,4/22/2026
+ET6234,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,4:28 PM,Hamad International,Doha,8,8/5/2025
+CX7663,Cathay Pacific,Hong Kong International,Hong Kong,China,3:28 PM,Changi,Singapore,24,10/27/2025
+TG5846,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:21 AM,Changi,Singapore,15,5/14/2025
+AI1298,Air India,Indira Gandhi International,Delhi,India,1:42 AM,Chhatrapati Shivaji International,Mumbai,22,10/15/2025
+SQ8501,Singapore Airlines,Changi,Singapore,Singapore,6:40 AM,Beijing Capital International,Beijing,8,1/12/2026
+EK1649,Emirates,Dubai International,Dubai,UAE,7:07 PM,Hamad International,Doha,5,2/15/2026
+TG2287,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:31 PM,Changi,Singapore,18,1/7/2026
+IB2413,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:57 AM,Cape Town International,Cape Town,18,2/27/2026
+AM2109,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:00 PM,Dallas/Fort Worth International,Dallas,23,7/30/2025
+NZ5791,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:37 PM,Toronto Pearson,Toronto,15,4/2/2025
+UA5154,United Airlines,Los Angeles International,Los Angeles,USA,6:40 AM,Jorge Chávez International,Lima,7,2/15/2026
+AM9388,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:59 PM,O'Hare International,Chicago,17,9/6/2025
+KE6079,Korean Air,Incheon International,Seoul,South Korea,8:59 AM,Haneda,Tokyo,12,6/15/2025
+AF1364,Air France,Charles de Gaulle,Paris,France,6:34 PM,Frankfurt Airport,Frankfurt,19,4/1/2025
+ET3948,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:50 PM,Changi,Singapore,12,7/6/2025
+SQ3533,Singapore Airlines,Changi,Singapore,Singapore,8:35 PM,Suvarnabhumi,Bangkok,8,4/13/2025
+LH1518,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:39 PM,Arturo Merino Benítez International,Santiago,8,6/4/2025
+SQ8281,Singapore Airlines,Changi,Singapore,Singapore,11:34 PM,Amsterdam Airport Schiphol,Amsterdam,19,6/12/2025
+SA3071,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:05 AM,Charles de Gaulle,Paris,19,2/24/2026
+IB1036,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:08 AM,Charles de Gaulle,Paris,21,9/9/2025
+AA6821,American Airlines,John F. Kennedy International,New York,USA,9:19 PM,Hartsfield-Jackson Atlanta,Atlanta,1,2/9/2026
+SA8877,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:57 PM,Bole International,Addis Ababa,7,4/20/2026
+UA6826,United Airlines,Los Angeles International,Los Angeles,USA,1:35 PM,San Francisco International,San Francisco,19,5/15/2025
+AI3656,Air India,Indira Gandhi International,Delhi,India,3:21 PM,Chhatrapati Shivaji International,Mumbai,18,12/3/2025
+AA5822,American Airlines,John F. Kennedy International,New York,USA,7:35 PM,Hartsfield-Jackson Atlanta,Atlanta,1,4/15/2025
+LA4554,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:03 PM,Ministro Pistarini International,Buenos Aires,3,9/24/2025
+AC2732,Air Canada,Toronto Pearson,Toronto,Canada,9:20 AM,John F. Kennedy International,New York,17,3/26/2026
+DL2527,Delta Air Lines,John F. Kennedy International,New York,USA,11:15 AM,Hartsfield-Jackson Atlanta,Atlanta,22,4/21/2026
+IB2744,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:45 PM,Charles de Gaulle,Paris,16,11/12/2025
+AC8594,Air Canada,Toronto Pearson,Toronto,Canada,9:52 PM,Hartsfield-Jackson Atlanta,Atlanta,17,12/18/2025
+AF4630,Air France,Charles de Gaulle,Paris,France,2:32 PM,Frankfurt Airport,Frankfurt,18,11/20/2025
+UA9030,United Airlines,Los Angeles International,Los Angeles,USA,10:56 PM,San Francisco International,San Francisco,12,12/2/2025
+TG3327,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:58 AM,Changi,Singapore,10,4/17/2026
+AV3547,Avianca,El Dorado International,Bogotá,Colombia,11:15 PM,Copenhagen Airport,Copenhagen,20,3/3/2026
+IB3428,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:08 AM,Charles de Gaulle,Paris,18,12/6/2025
+AI1800,Air India,Indira Gandhi International,Delhi,India,1:51 PM,Chhatrapati Shivaji International,Mumbai,13,8/5/2025
+SQ4535,Singapore Airlines,Changi,Singapore,Singapore,8:34 AM,Beijing Capital International,Beijing,8,5/26/2025
+LA4733,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:23 AM,Ministro Pistarini International,Buenos Aires,6,8/9/2025
+QF3265,Qantas,Sydney Airport,Sydney,Australia,10:50 PM,Melbourne Airport,Melbourne,17,12/15/2025
+EK8169,Emirates,Dubai International,Dubai,UAE,9:21 AM,Hamad International,Doha,21,6/22/2025
+NZ9915,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:42 PM,Sydney Airport,Sydney,10,3/24/2026
+QF1737,Qantas,Sydney Airport,Sydney,Australia,2:52 AM,Ministro Pistarini International,Buenos Aires,2,8/8/2025
+AZ7452,Alitalia,Leonardo da Vinci International,Rome,Italy,4:01 PM,Frankfurt Airport,Frankfurt,23,8/6/2025
+QR1441,Qatar Airways,Hamad International,Doha,Qatar,12:52 AM,Bole International,Addis Ababa,20,6/19/2025
+TG6097,Thai Airways,Suvarnabhumi,Bangkok,Thailand,9:46 AM,Changi,Singapore,16,5/28/2025
+AA7485,American Airlines,John F. Kennedy International,New York,USA,11:20 AM,Hartsfield-Jackson Atlanta,Atlanta,24,5/7/2025
+AC8669,Air Canada,Toronto Pearson,Toronto,Canada,10:42 AM,John F. Kennedy International,New York,4,5/12/2025
+QF3006,Qantas,Sydney Airport,Sydney,Australia,12:45 AM,Melbourne Airport,Melbourne,3,1/10/2026
+AM7227,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:49 AM,O'Hare International,Chicago,6,8/7/2025
+AC8181,Air Canada,Toronto Pearson,Toronto,Canada,2:34 AM,John F. Kennedy International,New York,20,2/14/2026
+QF3865,Qantas,Sydney Airport,Sydney,Australia,12:59 AM,Melbourne Airport,Melbourne,12,7/21/2025
+AC5234,Air Canada,Toronto Pearson,Toronto,Canada,2:29 PM,John F. Kennedy International,New York,19,8/4/2025
+AZ6718,Alitalia,Leonardo da Vinci International,Rome,Italy,5:10 PM,Charles de Gaulle,Paris,11,9/13/2025
+BA2819,British Airways,Heathrow,London,UK,10:45 AM,Charles de Gaulle,Paris,9,11/20/2025
+NZ3010,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:19 AM,Sydney Airport,Sydney,15,11/21/2025
+BA3445,British Airways,Heathrow,London,UK,4:00 AM,Stockholm Arlanda,Stockholm,6,10/6/2025
+AI6621,Air India,Indira Gandhi International,Delhi,India,5:29 PM,Chhatrapati Shivaji International,Mumbai,11,6/4/2025
+SA2287,South African Airways,O.R. Tambo International,Johannesburg,South Africa,4:45 PM,Copenhagen Airport,Copenhagen,1,11/11/2025
+UA8029,United Airlines,Los Angeles International,Los Angeles,USA,11:36 PM,San Francisco International,San Francisco,5,4/16/2026
+AZ3825,Alitalia,Leonardo da Vinci International,Rome,Italy,4:41 AM,Charles de Gaulle,Paris,15,1/21/2026
+NZ4284,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:42 PM,Beijing Capital International,Beijing,12,9/20/2025
+KL1814,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5:00 AM,Charles de Gaulle,Paris,24,6/2/2025
+QR2866,Qatar Airways,Hamad International,Doha,Qatar,2:08 PM,Bole International,Addis Ababa,4,2/25/2026
+NH5700,All Nippon Airways,Haneda,Tokyo,Japan,5:59 PM,Hartsfield-Jackson Atlanta,Atlanta,11,7/9/2025
+QR6552,Qatar Airways,Hamad International,Doha,Qatar,1:47 AM,Heathrow,London,6,4/16/2026
+TG7509,Thai Airways,Suvarnabhumi,Bangkok,Thailand,6:11 PM,Indira Gandhi International,Delhi,20,11/15/2025
+AZ2159,Alitalia,Leonardo da Vinci International,Rome,Italy,4:00 AM,Charles de Gaulle,Paris,6,1/29/2026
+BA1985,British Airways,Heathrow,London,UK,6:08 AM,Charles de Gaulle,Paris,8,6/18/2025
+SQ3539,Singapore Airlines,Changi,Singapore,Singapore,6:16 AM,Incheon International,Seoul,21,9/16/2025
+CX8341,Cathay Pacific,Hong Kong International,Hong Kong,China,10:54 AM,Incheon International,Seoul,5,5/27/2025
+KL6095,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5:07 AM,Charles de Gaulle,Paris,9,10/25/2025
+BA5073,British Airways,Heathrow,London,UK,2:41 PM,Charles de Gaulle,Paris,23,9/1/2025
+WN8861,Southwest Airlines,Los Angeles International,Los Angeles,USA,10:50 PM,Seattle-Tacoma International,Seattle,10,8/22/2025
+EK2095,Emirates,Dubai International,Dubai,UAE,3:18 PM,Munich Airport,Munich,18,12/19/2025
+ET2460,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:04 PM,Hamad International,Doha,19,5/23/2025
+SK1258,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:01 PM,Charles de Gaulle,Paris,7,3/20/2026
+UA7283,United Airlines,Los Angeles International,Los Angeles,USA,10:03 PM,San Francisco International,San Francisco,14,2/19/2026
+AI7504,Air India,Indira Gandhi International,Delhi,India,12:33 AM,Chhatrapati Shivaji International,Mumbai,6,2/6/2026
+DL5812,Delta Air Lines,John F. Kennedy International,New York,USA,6:13 PM,Hartsfield-Jackson Atlanta,Atlanta,9,3/17/2026
+NZ6454,Air New Zealand,Auckland Airport,Auckland,New Zealand,8:37 AM,Sydney Airport,Sydney,17,10/20/2025
+LA9122,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:50 AM,Dallas/Fort Worth International,Dallas,6,10/26/2025
+UA1453,United Airlines,Los Angeles International,Los Angeles,USA,3:49 PM,San Francisco International,San Francisco,17,10/29/2025
+WN1644,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:03 PM,San Francisco International,San Francisco,10,4/25/2025
+IB1036,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:26 PM,Charles de Gaulle,Paris,6,3/11/2026
+WN7777,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:26 AM,San Francisco International,San Francisco,6,7/2/2025
+LA5369,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,6:16 AM,Ministro Pistarini International,Buenos Aires,22,4/21/2025
+SA4500,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:10 AM,Stockholm Arlanda,Stockholm,4,5/18/2025
+AI5828,Air India,Indira Gandhi International,Delhi,India,4:18 PM,Chhatrapati Shivaji International,Mumbai,2,4/28/2025
+DL2593,Delta Air Lines,John F. Kennedy International,New York,USA,1:06 PM,Hartsfield-Jackson Atlanta,Atlanta,19,9/18/2025
+KE1526,Korean Air,Incheon International,Seoul,South Korea,11:07 AM,Chhatrapati Shivaji International,Mumbai,2,4/20/2026
+AZ7862,Alitalia,Leonardo da Vinci International,Rome,Italy,10:17 PM,Charles de Gaulle,Paris,12,4/8/2026
+QR3146,Qatar Airways,Hamad International,Doha,Qatar,3:34 AM,Bole International,Addis Ababa,22,12/15/2025
+AI4218,Air India,Indira Gandhi International,Delhi,India,4:04 AM,Chhatrapati Shivaji International,Mumbai,14,4/14/2025
+QF4544,Qantas,Sydney Airport,Sydney,Australia,12:40 AM,Melbourne Airport,Melbourne,3,9/17/2025
+QR6792,Qatar Airways,Hamad International,Doha,Qatar,5:36 AM,Bole International,Addis Ababa,2,7/17/2025
+KL4516,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:01 AM,Charles de Gaulle,Paris,3,11/12/2025
+IB4338,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1:13 AM,Charles de Gaulle,Paris,15,10/13/2025
+QR3487,Qatar Airways,Hamad International,Doha,Qatar,2:55 PM,Jomo Kenyatta International,Nairobi,23,6/4/2025
+IB9873,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:14 AM,Charles de Gaulle,Paris,8,4/2/2026
+WN1051,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:00 AM,San Francisco International,San Francisco,19,4/29/2025
+KE7979,Korean Air,Incheon International,Seoul,South Korea,5:53 PM,Haneda,Tokyo,10,1/5/2026
+SK9831,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,1:41 AM,Charles de Gaulle,Paris,10,9/4/2025
+AZ3819,Alitalia,Leonardo da Vinci International,Rome,Italy,1:08 AM,Denver International,Denver,22,4/16/2025
+SK4122,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:51 AM,Charles de Gaulle,Paris,11,10/26/2025
+AI6681,Air India,Indira Gandhi International,Delhi,India,10:34 PM,Chhatrapati Shivaji International,Mumbai,12,9/21/2025
+CX7920,Cathay Pacific,Hong Kong International,Hong Kong,China,9:32 PM,Dubai International,Dubai,8,3/18/2026
+NH6529,All Nippon Airways,Haneda,Tokyo,Japan,9:26 AM,Incheon International,Seoul,4,4/6/2026
+SA2417,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:38 PM,Charles de Gaulle,Paris,15,2/27/2026
+AZ1859,Alitalia,Leonardo da Vinci International,Rome,Italy,6:33 PM,Vienna International,Vienna,17,8/18/2025
+NZ3102,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:34 AM,Sydney Airport,Sydney,5,4/15/2025
+SQ2999,Singapore Airlines,Changi,Singapore,Singapore,1:27 PM,Beijing Capital International,Beijing,3,4/3/2025
+AA7634,American Airlines,John F. Kennedy International,New York,USA,10:03 PM,Hartsfield-Jackson Atlanta,Atlanta,9,9/5/2025
+LH5030,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:41 AM,Charles de Gaulle,Paris,18,8/31/2025
+LA2523,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:38 AM,Benito Juárez International,Mexico City,20,3/6/2026
+AZ6840,Alitalia,Leonardo da Vinci International,Rome,Italy,6:23 AM,Copenhagen Airport,Copenhagen,3,4/23/2026
+SA7036,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:12 AM,Charles de Gaulle,Paris,12,8/28/2025
+KE7499,Korean Air,Incheon International,Seoul,South Korea,10:24 PM,Haneda,Tokyo,16,5/29/2025
+NZ6357,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:17 AM,Sydney Airport,Sydney,4,2/2/2026
+AF8924,Air France,Charles de Gaulle,Paris,France,4:34 AM,Dallas/Fort Worth International,Dallas,20,3/25/2026
+KL4376,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:04 PM,Munich Airport,Munich,13,9/6/2025
+KL8781,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:43 AM,Charles de Gaulle,Paris,14,3/6/2026
+IB9662,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:31 PM,Hamad International,Doha,3,8/14/2025
+NZ8672,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:55 PM,Haneda,Tokyo,7,6/24/2025
+UA1148,United Airlines,Los Angeles International,Los Angeles,USA,1:14 AM,Dallas/Fort Worth International,Dallas,14,6/16/2025
+UA8020,United Airlines,Los Angeles International,Los Angeles,USA,11:03 AM,San Francisco International,San Francisco,20,4/10/2026
+SK2193,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:58 AM,Charles de Gaulle,Paris,11,2/18/2026
+LA9846,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,11:25 PM,Ministro Pistarini International,Buenos Aires,2,11/18/2025
+AF3476,Air France,Charles de Gaulle,Paris,France,9:17 PM,Leonardo da Vinci International,Rome,17,10/3/2025
+TG2367,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:51 PM,Changi,Singapore,15,7/22/2025
+AZ4087,Alitalia,Leonardo da Vinci International,Rome,Italy,7:54 PM,Charles de Gaulle,Paris,4,11/2/2025
+AA3263,American Airlines,John F. Kennedy International,New York,USA,3:53 AM,Hartsfield-Jackson Atlanta,Atlanta,2,3/23/2026
+LA4827,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:51 PM,Frankfurt Airport,Frankfurt,8,1/29/2026
+AI7015,Air India,Indira Gandhi International,Delhi,India,2:17 AM,Chhatrapati Shivaji International,Mumbai,5,3/17/2026
+IB8620,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:49 PM,Charles de Gaulle,Paris,14,1/31/2026
+UA7542,United Airlines,Los Angeles International,Los Angeles,USA,12:23 PM,San Francisco International,San Francisco,1,3/13/2026
+AZ7009,Alitalia,Leonardo da Vinci International,Rome,Italy,10:23 AM,Cairo International,Cairo,7,3/17/2026
+SA9164,South African Airways,O.R. Tambo International,Johannesburg,South Africa,8:39 PM,Charles de Gaulle,Paris,18,3/9/2026
+AC9723,Air Canada,Toronto Pearson,Toronto,Canada,10:28 PM,Vienna International,Vienna,19,5/12/2025
+KE9265,Korean Air,Incheon International,Seoul,South Korea,12:14 AM,Haneda,Tokyo,24,9/3/2025
+KL9046,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:19 AM,Charles de Gaulle,Paris,7,4/7/2025
+AC1314,Air Canada,Toronto Pearson,Toronto,Canada,12:07 AM,Logan International,Boston,11,1/12/2026
+SK4476,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,8:05 PM,Charles de Gaulle,Paris,23,1/24/2026
+UA8290,United Airlines,Los Angeles International,Los Angeles,USA,11:29 PM,San Francisco International,San Francisco,8,4/19/2025
+WN6726,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:04 AM,San Francisco International,San Francisco,19,2/10/2026
+LA3971,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,12:19 AM,Ministro Pistarini International,Buenos Aires,8,12/16/2025
+LA6417,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:38 AM,Ministro Pistarini International,Buenos Aires,3,4/19/2025
+AF8349,Air France,Charles de Gaulle,Paris,France,6:36 AM,Frankfurt Airport,Frankfurt,10,5/19/2025
+WN6914,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:05 PM,Toronto Pearson,Toronto,3,4/29/2026
+WN1167,Southwest Airlines,Los Angeles International,Los Angeles,USA,6:16 PM,San Francisco International,San Francisco,22,1/8/2026
+TG2641,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:11 PM,Changi,Singapore,2,2/19/2026
+SK6280,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:25 PM,Charles de Gaulle,Paris,9,8/17/2025
+LH5462,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:21 PM,Charles de Gaulle,Paris,11,3/20/2026
