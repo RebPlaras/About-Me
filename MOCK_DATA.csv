@@ -1,0 +1,1001 @@
+flight_number,pilot_name,departure_airport,departure_city,departure_country,arrival_airport,arrival_city,arrival_country,duration_hours,departure_time,date,isLate
+IB7269,Reeva,Adolfo Suárez Madrid–Barajas,Ceerigaabo,Somalia,Charles de Gaulle,Plottier,Argentina,16.42,2:36 AM,3/4/2026,false
+LH3192,Mickey,Frankfurt Airport,Kota Kinabalu,Malaysia,Charles de Gaulle,Laxou,France,12.56,11:52 AM,7/15/2025,true
+SQ2983,Carlie,Changi,Hualingang,China,Suvarnabhumi,Fentange,Luxembourg,13.19,3:40 AM,9/24/2025,true
+UA7050,Gianina,Los Angeles International,Pomahuaca,Peru,San Francisco International,Lalībela,Ethiopia,1.67,12:49 AM,7/9/2025,false
+SQ8281,Kelsey,Changi,Weixin,China,Amsterdam Airport Schiphol,Anulid,Philippines,3.11,12:05 PM,7/16/2025,true
+NZ6301,Liza,Auckland Airport,Jiuxian,China,Sydney Airport,Chaoyang,China,22.28,6:50 AM,2/8/2026,true
+SQ6821,Warden,Changi,Budayuan,China,Beijing Capital International,Plomárion,Greece,21.99,11:20 AM,8/15/2025,true
+AC7018,Ian,Toronto Pearson,Paris 14,France,John F. Kennedy International,Şabbūrah,Syria,2.79,7:53 AM,8/23/2025,false
+AF9595,Ailsun,Charles de Gaulle,Open Stage,Maldives,Frankfurt Airport,Jiangchi,China,1.6,6:08 AM,12/11/2025,true
+AM2984,Brew,Benito Juárez International,Kapotnya,Russia,Seattle-Tacoma International,Nagu,Finland,18.26,1:23 PM,7/16/2025,false
+QR8903,Bartolemo,Hamad International,Darvi,Mongolia,Bole International,Almaguer,Colombia,10.62,7:02 AM,9/4/2025,true
+NZ4746,Archy,Auckland Airport,Puerto Quellón,Chile,Sydney Airport,Kovdor,Russia,2.97,12:25 PM,10/29/2025,false
+NZ7734,Krystyna,Auckland Airport,Xinglong,China,Sydney Airport,Xinji,China,18.13,12:06 AM,9/16/2025,true
+UA2781,Margaretha,Los Angeles International,San Miguel Dueñas,Guatemala,San Francisco International,Itaberaí,Brazil,10.63,8:04 AM,4/7/2026,true
+EK2645,Sayers,Dubai International,Fanzhen,China,Chhatrapati Shivaji International,Estela,Portugal,7.85,4:03 PM,2/28/2026,false
+AZ7903,Ermin,Leonardo da Vinci International,Palopat,Indonesia,Charles de Gaulle,Lueng Putu,Indonesia,19.48,1:25 PM,5/4/2025,false
+LA7812,Edwin,São Paulo/Guarulhos International,Bieligutai,China,Seattle-Tacoma International,Alor Setar,Malaysia,4.08,5:03 AM,6/25/2025,false
+AA2277,Garrek,John F. Kennedy International,Tejen,Turkmenistan,Hartsfield-Jackson Atlanta,Selizharovo,Russia,17.88,10:49 PM,9/10/2025,true
+QR4953,Idell,Hamad International,Kumanovo,Macedonia,Bole International,Grzybowa Góra,Poland,2.53,5:03 AM,10/7/2025,false
+NZ9663,Sarge,Auckland Airport,Gedera,Israel,Sydney Airport,Karangharjo,Indonesia,16.16,2:08 PM,4/9/2026,true
+KL3748,Alix,Amsterdam Airport Schiphol,Paka,Indonesia,San Francisco International,Prozor,Bosnia and Herzegovina,10.5,12:05 AM,3/2/2026,false
+TG8972,Esdras,Suvarnabhumi,Millerovo,Russia,Changi,Novovorontsovka,Ukraine,8.19,9:00 PM,9/26/2025,true
+AF3520,Nissy,Charles de Gaulle,Qiaochong,China,Frankfurt Airport,Sidomulyo,Indonesia,23.18,11:23 AM,6/1/2025,false
+SA8899,Anderson,O.R. Tambo International,Täby,Sweden,Charles de Gaulle,Panaytayon,Philippines,4.01,7:32 AM,3/12/2026,true
+AM2354,Gladi,Benito Juárez International,Jajce,Bosnia and Herzegovina,O'Hare International,Yanmenguan,China,15.85,4:52 AM,8/3/2025,true
+AF1519,Caroljean,Charles de Gaulle,Daying,China,Cairo International,Jinbo,China,13.61,10:45 PM,3/9/2026,true
+AI8841,Malinda,Indira Gandhi International,Mętków,Poland,Chhatrapati Shivaji International,Dūrā al Qar‘,Palestinian Territory,21.01,12:19 PM,10/30/2025,false
+WN2811,Rorke,Los Angeles International,Schellenberg,Liechtenstein,San Francisco International,Dongyu,China,12.2,2:45 PM,10/3/2025,false
+IB8511,Corabel,Adolfo Suárez Madrid–Barajas,Hellevoetsluis,Netherlands,Charles de Gaulle,Ystad,Sweden,8.56,9:14 PM,9/12/2025,false
+LH3233,Serena,Frankfurt Airport,Presidente Epitácio,Brazil,Charles de Gaulle,Jisegumen,China,13.6,2:33 AM,12/14/2025,true
+KE5668,Juliet,Incheon International,Paringin,Indonesia,Haneda,Victoria,Grenada,15.91,7:16 AM,6/22/2025,true
+QR4865,Rock,Hamad International,Pinheiro,Portugal,Bole International,Banatsko Karađorđevo,Serbia,7.01,1:37 AM,8/26/2025,true
+AA8399,Tailor,John F. Kennedy International,Shitan,China,Hartsfield-Jackson Atlanta,Haligue,Philippines,5.1,7:41 AM,1/12/2026,true
+ET8204,Selma,Bole International,Daliuhang,China,Hamad International,Aimin,China,1.61,3:13 PM,8/26/2025,true
+AV7529,Giacopo,El Dorado International,Aţ Ţafīlah,Jordan,O'Hare International,Casal de Cambra,Portugal,14.13,4:12 AM,9/21/2025,false
+KL7528,Walt,Amsterdam Airport Schiphol,Sydney,Australia,Charles de Gaulle,Offa,Nigeria,7.17,5:38 AM,10/23/2025,false
+AF5854,Nate,Charles de Gaulle,Oof,Indonesia,Frankfurt Airport,Santo Tomas,Philippines,16.1,8:13 AM,2/13/2026,false
+SA4231,Weylin,O.R. Tambo International,Guadalupe,Mexico,Zurich Airport,Hisings Kärra,Sweden,5.46,5:42 AM,6/22/2025,true
+AA2486,Giovanna,John F. Kennedy International,Les Cèdres,Canada,Hartsfield-Jackson Atlanta,Agadez,Niger,13.14,2:15 PM,5/21/2025,true
+QR7176,Patin,Hamad International,Kishkenekol’,Kazakhstan,Bole International,Unión de Reyes,Cuba,12.36,8:38 PM,9/5/2025,false
+SA3726,Owen,O.R. Tambo International,Guider,Cameroon,Charles de Gaulle,Gracias,Honduras,20.22,9:30 PM,4/15/2026,true
+KE7799,Heidie,Incheon International,Sępólno Krajeńskie,Poland,Denver International,Heqing,China,9.4,5:23 AM,7/11/2025,true
+QF5679,Theodoric,Sydney Airport,Popovice,Czech Republic,Melbourne Airport,Rivne,Ukraine,7.33,5:15 AM,12/27/2025,false
+AM9697,Corrianne,Benito Juárez International,Milltown,Ireland,El Dorado International,Saurimo,Angola,15.0,3:04 AM,6/25/2025,true
+AZ6013,Averell,Leonardo da Vinci International,Ban Talat Bueng,Thailand,Charles de Gaulle,Murça,Portugal,1.52,2:46 AM,4/10/2026,true
+AZ9023,Ainslee,Leonardo da Vinci International,Jenamas,Indonesia,Charles de Gaulle,Maca,Peru,4.97,2:17 AM,3/1/2026,true
+EK6770,Willabella,Dubai International,Bernay,France,Hamad International,Ningdun,China,11.28,9:45 AM,3/19/2026,true
+UA7542,Jacinthe,Los Angeles International,Tanushimarumachi-toyoki,Japan,San Francisco International,Bearna,Ireland,13.47,11:21 PM,5/8/2025,false
+TG7965,Frants,Suvarnabhumi,Campina Grande,Brazil,Brisbane Airport,Ljutomer,Slovenia,8.86,11:52 PM,7/7/2025,true
+BA6415,Jamie,Heathrow,Kang-neung,South Korea,Charles de Gaulle,Yulin,China,12.76,10:00 AM,6/24/2025,false
+BA8525,Horace,Heathrow,Tosno,Russia,Charles de Gaulle,Soras,Peru,14.08,1:49 AM,1/23/2026,false
+AM8176,Halsy,Benito Juárez International,Balibago,Philippines,Los Angeles International,Ciganaria,Indonesia,10.85,4:12 AM,2/19/2026,false
+QF2974,Simeon,Sydney Airport,Dacun,China,Melbourne Airport,Isiro,Democratic Republic of the Congo,22.95,7:54 AM,4/10/2026,false
+KE9821,Daniella,Incheon International,Menampukrajan,Indonesia,Haneda,Taoxi,China,4.85,8:44 AM,8/17/2025,true
+DL6507,Robenia,John F. Kennedy International,Huwei,China,Hartsfield-Jackson Atlanta,Cikarang,Indonesia,2.08,9:09 PM,5/17/2025,true
+EK9909,Hilary,Dubai International,Báguanos,Cuba,Hamad International,Tsagaanders,Mongolia,20.88,6:03 PM,5/8/2025,true
+AZ1200,Birk,Leonardo da Vinci International,Eqbālīyeh,Iran,Charles de Gaulle,Yubilyeyny,Belarus,18.27,5:23 AM,12/11/2025,true
+IB6826,Gilli,Adolfo Suárez Madrid–Barajas,Embalse,Argentina,Charles de Gaulle,Satis,Russia,15.3,8:11 AM,3/24/2026,true
+UA8275,Ephraim,Los Angeles International,Nestório,Greece,San Francisco International,Kumba,Cameroon,22.1,11:28 PM,1/25/2026,true
+WN8112,Carita,Los Angeles International,Nanterre,France,San Francisco International,Jalalaqsi,Somalia,5.74,4:23 AM,6/2/2025,false
+TG7191,Letisha,Suvarnabhumi,Yongqin,China,Changi,Buawan,Philippines,1.88,9:05 PM,6/22/2025,false
+AF2649,Jaime,Charles de Gaulle,Argostólion,Greece,Frankfurt Airport,Pefkochóri,Greece,12.98,5:46 PM,8/2/2025,false
+SQ7676,Julietta,Changi,Jetis,Indonesia,Incheon International,Taling Chan,Thailand,1.83,9:12 AM,11/2/2025,true
+AV9933,Wyn,El Dorado International,Petäjävesi,Finland,O'Hare International,Youkaichi,Japan,19.08,6:12 PM,3/6/2026,false
+WN6482,Tanny,Los Angeles International,Zhanbei,China,Denver International,Itarana,Brazil,23.93,1:41 AM,3/29/2026,true
+KE7076,Trey,Incheon International,Belén de los Andaquíes,Colombia,Haneda,Liushui,China,11.75,7:08 AM,11/2/2025,false
+NZ7385,Ferris,Auckland Airport,San Pedro de Lloc,Peru,Sydney Airport,Embi,Kazakhstan,15.6,4:01 AM,6/8/2025,false
+AC6293,Teddie,Toronto Pearson,Néa Magnisía,Greece,John F. Kennedy International,København,Denmark,22.5,1:20 PM,8/21/2025,false
+QF4930,Elka,Sydney Airport,Wuyun,China,Stockholm Arlanda,Dingtao,China,22.56,11:13 PM,5/28/2025,true
+NZ6707,Harlie,Auckland Airport,Santa María de Ipire,Venezuela,Sydney Airport,Jabłoń,Poland,8.84,8:01 PM,9/4/2025,true
+SK6761,Babb,Copenhagen Airport,Chemerivtsi,Ukraine,Charles de Gaulle,Kurnia,Indonesia,5.39,6:33 PM,3/20/2026,false
+AA2247,Brant,John F. Kennedy International,Panjing,China,Hartsfield-Jackson Atlanta,Dodol,Indonesia,2.31,4:49 AM,1/21/2026,true
+SA4881,Niko,O.R. Tambo International,Bucheon-si,South Korea,Charles de Gaulle,Anzihao,China,19.02,10:52 PM,12/25/2025,true
+AI1298,Marcos,Indira Gandhi International,Miguel Hidalgo,Mexico,Chhatrapati Shivaji International,Ōi,Japan,11.97,8:58 AM,9/23/2025,false
+NH9219,Brod,Haneda,Srono,Indonesia,Hamad International,Ourtzagh,Morocco,8.64,8:46 AM,12/15/2025,false
+QF6150,Terrance,Sydney Airport,Pasaje,Ecuador,Melbourne Airport,Gaotieling,China,12.34,11:13 PM,8/30/2025,true
+NZ9726,Hugh,Auckland Airport,Loyola,Philippines,Melbourne Airport,Bretaña,Peru,11.05,9:31 AM,5/30/2025,false
+AF5545,Ignace,Charles de Gaulle,Liverpool,United Kingdom,Toronto Pearson,Sonder,Indonesia,11.47,4:00 PM,5/13/2025,true
+KL7867,Emmalee,Amsterdam Airport Schiphol,Chillán,Chile,Hamad International,Shabqadar,Pakistan,8.21,8:04 AM,5/21/2025,false
+AM2164,Gerry,Benito Juárez International,Satipo,Peru,Heathrow,Selydove,Ukraine,13.53,12:12 PM,12/14/2025,true
+ET6441,Joseph,Bole International,Aguelmous,Morocco,Hamad International,Gadingrejo,Indonesia,15.58,9:20 PM,6/12/2025,false
+AM3700,Lilllie,Benito Juárez International,Tours,France,Los Angeles International,Kapsan-ŭp,North Korea,6.59,6:58 PM,12/17/2025,false
+TG1883,Derek,Suvarnabhumi,Krajan Pakel,Indonesia,Changi,Rychtal,Poland,8.09,10:07 AM,9/13/2025,false
+TG3255,Ali,Suvarnabhumi,Bandar-e Torkaman,Iran,Changi,Matozinhos,Brazil,17.52,5:34 AM,9/16/2025,false
+AA2935,Yale,John F. Kennedy International,Klimontów,Poland,Hartsfield-Jackson Atlanta,Dębowa Łąka,Poland,17.96,4:49 PM,10/24/2025,true
+UA1033,Tabor,Los Angeles International,Brloh,Czech Republic,San Francisco International,Lyon,France,22.91,9:49 PM,5/3/2025,true
+BA9628,Rasla,Heathrow,Pobral,Portugal,Charles de Gaulle,Youfang,China,5.18,10:52 AM,11/15/2025,true
+QR9299,Jocko,Hamad International,Fryazino,Russia,Bole International,Redakodi,Indonesia,18.84,4:17 AM,8/26/2025,false
+SK7047,Allix,Copenhagen Airport,Santa Teresita,Philippines,Charles de Gaulle,Quebrada Larga,Honduras,3.01,8:19 PM,2/23/2026,false
+LA7789,Sher,São Paulo/Guarulhos International,Kauswagan,Philippines,Ministro Pistarini International,Longxing,China,15.11,12:11 PM,10/18/2025,false
+QR4865,Zelma,Hamad International,Phú Thái,Vietnam,Bole International,Vila de Sal Rei,Cape Verde,6.79,2:18 PM,5/29/2025,false
+WN5978,Amber,Los Angeles International,Golovinskiy,Russia,Vancouver International,Yichun,China,5.85,10:31 AM,8/19/2025,true
+NH7496,Normy,Haneda,Aqtöbe,Kazakhstan,Incheon International,K Bang,Vietnam,1.88,6:46 PM,9/5/2025,false
+AA1824,Donella,John F. Kennedy International,Mabini,Philippines,Dallas/Fort Worth International,Mikulintsy,Ukraine,11.09,10:55 AM,12/29/2025,true
+BA7948,Keene,Heathrow,Ashcroft,Canada,Leonardo da Vinci International,Pingshi,China,8.1,6:50 PM,9/21/2025,true
+AV7509,Nehemiah,El Dorado International,Deqing,China,O'Hare International,Las Vegas,United States,8.11,11:29 PM,10/26/2025,true
+SA3979,Antony,O.R. Tambo International,Amqui,Canada,Charles de Gaulle,Non Sung,Thailand,5.62,7:29 PM,11/21/2025,false
+LH6269,Morgen,Frankfurt Airport,Rokycany,Czech Republic,Charles de Gaulle,Sviblovo,Russia,9.07,10:33 AM,9/13/2025,true
+KE5551,Bogart,Incheon International,Silae,Philippines,Kuala Lumpur International,Rio das Pedras,Brazil,19.61,1:35 AM,12/12/2025,false
+UA4772,Trefor,Los Angeles International,Lekas,Albania,Denver International,Novo Hamburgo,Brazil,20.75,5:32 AM,1/10/2026,true
+AZ5348,Jere,Leonardo da Vinci International,Przytyk,Poland,Charles de Gaulle,Alvega,Portugal,10.35,12:25 PM,3/28/2026,true
+AI2488,Shena,Indira Gandhi International,Haninge,Sweden,Chhatrapati Shivaji International,Neglasari,Indonesia,18.56,3:56 PM,1/15/2026,true
+EK5416,Piper,Dubai International,Nangka,Philippines,Hamad International,Takeo,Japan,20.35,12:44 AM,5/16/2025,false
+NZ1988,Carmelina,Auckland Airport,Zarzal,Colombia,Melbourne Airport,Bakhmach,Ukraine,16.15,3:07 AM,8/21/2025,false
+KE7700,Hank,Incheon International,Shengci,China,Haneda,Būsh,Egypt,16.55,8:33 AM,11/8/2025,true
+WN9725,Bourke,Los Angeles International,Velikiye Borki,Ukraine,San Francisco International,Cibeureum,Indonesia,15.43,5:20 PM,6/30/2025,false
+AI6572,Heriberto,Indira Gandhi International,Depapre,Indonesia,Chhatrapati Shivaji International,Thị Trấn Mường Khến,Vietnam,11.7,2:26 AM,10/3/2025,true
+SQ2917,Dorie,Changi,Kuching,Malaysia,Beijing Capital International,Yuqian,China,6.07,7:27 PM,1/25/2026,true
+QR9747,Gertie,Hamad International,Järfälla,Sweden,Bole International,Sarbīsheh,Iran,12.88,2:48 AM,9/14/2025,true
+QF5892,Ellsworth,Sydney Airport,Daxin,China,Melbourne Airport,Sumberkenanga,Indonesia,20.46,5:27 AM,3/16/2026,true
+NZ4615,Kendell,Auckland Airport,Zhoutian,China,Munich Airport,Villa Ángela,Argentina,8.15,12:54 PM,11/20/2025,false
+ET5547,Pammy,Bole International,Qianzhou,China,O'Hare International,Anaráchi,Greece,20.67,12:38 AM,5/24/2025,false
+SK6503,Steven,Copenhagen Airport,Irbit,Russia,Charles de Gaulle,Plandi,Indonesia,7.54,12:28 PM,9/16/2025,true
+IB7772,Mommy,Adolfo Suárez Madrid–Barajas,Mbouda,Cameroon,Charles de Gaulle,Gesikan,Indonesia,7.68,9:00 PM,12/30/2025,true
+NZ9915,Berenice,Auckland Airport,Solčava,Slovenia,Sydney Airport,Mosquée,Morocco,10.51,7:30 AM,1/8/2026,false
+AM4377,Hedda,Benito Juárez International,Qiaozhen,China,O'Hare International,Dniprovka,Ukraine,10.07,3:31 AM,4/6/2026,true
+LH4128,Aindrea,Frankfurt Airport,Jingjiang,China,Charles de Gaulle,Tomado,Philippines,18.97,8:17 AM,12/27/2025,true
+AA2860,Thorin,John F. Kennedy International,Cavaillon,France,Hartsfield-Jackson Atlanta,Yakutsk,Russia,10.08,6:47 AM,3/5/2026,false
+UA5079,Janith,Los Angeles International,Sabaneta,Venezuela,San Francisco International,Bettendorf,Luxembourg,9.58,3:03 AM,12/11/2025,true
+SA2730,Pacorro,O.R. Tambo International,Sitampiky,Madagascar,Charles de Gaulle,Huangtu,China,13.63,10:37 PM,2/7/2026,true
+KL9159,Marcelia,Amsterdam Airport Schiphol,Solok,Indonesia,Vienna International,Zalaegerszeg,Hungary,1.16,5:11 AM,2/27/2026,true
+AF7593,Koo,Charles de Gaulle,Yāsūf,Palestinian Territory,Frankfurt Airport,San Francisco,Colombia,17.7,2:32 AM,11/14/2025,true
+TG8956,Nicolais,Suvarnabhumi,Kallinge,Sweden,Changi,Lysice,Czech Republic,8.23,9:26 AM,10/22/2025,true
+WN9690,Wayland,Los Angeles International,Kapyl’,Belarus,San Francisco International,Starobachaty,Russia,19.8,9:27 AM,9/1/2025,false
+SK7017,Whit,Copenhagen Airport,Baiyun,China,Charles de Gaulle,Fastovetskaya,Russia,14.49,2:00 PM,2/4/2026,true
+NZ8553,Melvin,Auckland Airport,Åby,Sweden,Sydney Airport,Foros do Trapo,Portugal,13.19,12:40 AM,5/17/2025,false
+CX5062,Tobias,Hong Kong International,Zhapu,China,Changi,Cidima,Indonesia,19.92,11:33 AM,4/1/2026,false
+SQ6860,Jerad,Changi,Charenton-le-Pont,France,Beijing Capital International,Ribas do Rio Pardo,Brazil,16.42,9:01 PM,4/5/2026,true
+QR7450,Brittni,Hamad International,Blumenau,Brazil,Hong Kong International,Diamantino,Brazil,22.66,2:35 PM,3/28/2026,false
+EK8076,Gilbertina,Dubai International,Krujë,Albania,Hamad International,Datian,China,7.81,4:10 PM,9/6/2025,false
+SA9234,Wilmer,O.R. Tambo International,Kozmice,Czech Republic,Charles de Gaulle,Jetis,Indonesia,8.54,4:35 PM,5/21/2025,false
+UA2787,Kimmi,Los Angeles International,Soko,Indonesia,Vancouver International,Dalkey,Ireland,10.87,4:23 PM,1/3/2026,false
+TG6875,Kareem,Suvarnabhumi,Sao Hai,Thailand,Changi,Obando,Colombia,23.69,12:11 PM,8/12/2025,true
+SQ8804,Lauretta,Changi,Yanxi,China,Beijing Capital International,Aldeia da Bela Vista,Portugal,18.54,9:36 PM,5/7/2025,false
+AC3806,Devonna,Toronto Pearson,Frösön,Sweden,Hartsfield-Jackson Atlanta,Yubileynyy,Russia,23.51,12:48 AM,4/29/2025,true
+QR4365,Gamaliel,Hamad International,Laojun,China,Benito Juárez International,Dinaig,Philippines,16.29,9:54 PM,6/16/2025,true
+EK9410,Nara,Dubai International,San Antonio,Argentina,Charles de Gaulle,Susuman,Russia,10.98,4:41 AM,3/28/2026,false
+LH7516,Marsha,Frankfurt Airport,Tayuan,China,Charles de Gaulle,Stupsk,Poland,14.22,3:47 AM,6/4/2025,false
+AI1710,Keen,Indira Gandhi International,Ōmiya,Japan,Chhatrapati Shivaji International,Munggang,Indonesia,10.99,10:47 PM,1/16/2026,false
+CX3579,Gwynne,Hong Kong International,Şaḩneh,Iran,Changi,Philadelphia,United States,3.61,4:58 AM,7/29/2025,true
+SK4873,Ericka,Copenhagen Airport,Makumbako,Tanzania,Charles de Gaulle,Kulun,China,19.36,8:55 AM,12/20/2025,false
+CX6143,Lewiss,Hong Kong International,Gornji Petrovci,Slovenia,Changi,Qintong,China,14.63,2:28 AM,8/23/2025,false
+NZ6454,Chaim,Auckland Airport,Parthenay,France,Sydney Airport,Pretoria,South Africa,18.2,2:57 PM,6/16/2025,true
+UA6061,Carmita,Los Angeles International,Medellín,Colombia,Vancouver International,Hamburg,Germany,13.35,7:10 AM,6/16/2025,true
+AI4651,Fredek,Indira Gandhi International,Pojok,Indonesia,Chhatrapati Shivaji International,Caijiagang,China,4.23,6:07 AM,6/19/2025,true
+AZ9023,Uta,Leonardo da Vinci International,Caraballeda,Venezuela,Charles de Gaulle,Dolní Rychnov,Czech Republic,19.7,3:11 PM,2/24/2026,false
+UA9951,Renell,Los Angeles International,Candi Prambanan,Indonesia,San Francisco International,Shahrak,Afghanistan,21.93,5:45 AM,3/10/2026,true
+AI8874,Thekla,Indira Gandhi International,San Ramón de la Nueva Orán,Argentina,Chhatrapati Shivaji International,Aizhai,China,16.81,3:56 AM,4/8/2026,true
+SA9239,Davie,O.R. Tambo International,Lužani,Croatia,Charles de Gaulle,Dromiskin,Ireland,1.69,1:31 PM,6/8/2025,true
+KL7602,Loreen,Amsterdam Airport Schiphol,Samut Songkhram,Thailand,Charles de Gaulle,Sol’-Iletsk,Russia,17.36,3:29 PM,10/18/2025,true
+TG7636,Cherish,Suvarnabhumi,Wuyang,China,Changi,Mafeng,China,18.14,8:28 PM,3/21/2026,false
+TG3782,Matteo,Suvarnabhumi,Merton,United Kingdom,Changi,Měřín,Czech Republic,12.92,4:22 AM,10/2/2025,false
+LA9924,Pearla,São Paulo/Guarulhos International,Wenquan,China,Ministro Pistarini International,Sandaoba,China,17.22,8:09 PM,2/24/2026,true
+EK4779,Darcy,Dubai International,Pasrūr,Pakistan,Hamad International,Kebonagung,Indonesia,22.78,5:09 AM,3/6/2026,false
+KE7093,Donal,Incheon International,Barcarena,Brazil,Haneda,Ribeira Grande,Portugal,23.32,12:53 PM,6/18/2025,true
+KE4277,Theda,Incheon International,Karlivka,Ukraine,Haneda,Lere,Nigeria,9.6,5:22 AM,11/3/2025,true
+AZ3819,Arleta,Leonardo da Vinci International,Amiens,France,Denver International,Shiraz,Iran,6.54,10:28 PM,4/1/2026,true
+EK9670,Weider,Dubai International,København,Denmark,Los Angeles International,Uppsala,Sweden,12.2,4:11 PM,11/23/2025,true
+KL4376,Kippar,Amsterdam Airport Schiphol,Örebro,Sweden,Munich Airport,Llipa,Peru,19.25,6:34 PM,1/18/2026,false
+AZ3825,Cherilynn,Leonardo da Vinci International,Amirdzhan,Azerbaijan,Charles de Gaulle,Kaduheuleut,Indonesia,7.0,9:25 AM,10/8/2025,true
+AZ9571,Keven,Leonardo da Vinci International,Huanshi,China,Cairo International,Quebrada de Arena,Honduras,13.74,12:37 AM,12/23/2025,false
+TG8205,Gothart,Suvarnabhumi,Curvelo,Brazil,Hong Kong International,Bački Breg,Serbia,20.31,9:47 AM,11/15/2025,false
+WN2042,Clevey,Los Angeles International,Rebrikha,Russia,San Francisco International,Santiago Puringla,Honduras,2.17,12:27 AM,1/18/2026,true
+UA5184,Odelle,Los Angeles International,Jishui,China,San Francisco International,Grenoble,France,16.1,10:57 PM,5/28/2025,false
+NZ3523,Timmie,Auckland Airport,Sollebrunn,Sweden,Sydney Airport,Tsiombe,Madagascar,18.71,6:52 AM,6/27/2025,false
+AC4014,Philipa,Toronto Pearson,Jaboticabal,Brazil,Hartsfield-Jackson Atlanta,Itsandra,Comoros,23.23,7:02 PM,10/22/2025,true
+SQ1888,Robinette,Changi,Nangalimang,Indonesia,Beijing Capital International,Hatavch,Mongolia,8.85,3:56 AM,12/12/2025,true
+KE6218,Dirk,Incheon International,Farsta,Sweden,Haneda,Maebaru,Japan,8.76,4:57 PM,5/30/2025,true
+AF6288,Timotheus,Charles de Gaulle,Oslo,Norway,Cape Town International,Nykvarn,Sweden,6.69,12:49 AM,4/21/2026,false
+AI8052,Samara,Indira Gandhi International,Torre,Portugal,Chhatrapati Shivaji International,Utajärvi,Finland,19.84,9:23 PM,10/17/2025,false
+SA5535,Nina,O.R. Tambo International,Río Tercero,Argentina,Charles de Gaulle,Stamford,United States,15.43,3:56 PM,9/11/2025,true
+NH4045,Terza,Haneda,Sung Noen,Thailand,Incheon International,Mendefera,Eritrea,21.03,4:35 AM,1/12/2026,false
+LH2851,Rudie,Frankfurt Airport,Kralupy nad Vltavou,Czech Republic,Charles de Gaulle,Machalí,Chile,20.05,7:09 AM,4/12/2026,false
+QR6223,Jeramey,Hamad International,Yambio,South Sudan,Amsterdam Airport Schiphol,Shiqiao,China,22.56,5:40 PM,9/22/2025,true
+AA8129,Dominick,John F. Kennedy International,Yanliang,China,Hartsfield-Jackson Atlanta,Mancos,Peru,11.61,9:31 PM,11/6/2025,false
+AM1632,Quinn,Benito Juárez International,Idalolong,Indonesia,O'Hare International,Adelaide Mail Centre,Australia,9.12,11:43 AM,5/12/2025,false
+LH6949,Merle,Frankfurt Airport,Nerokoúros,Greece,Charles de Gaulle,Daxin,China,7.11,11:23 PM,10/7/2025,true
+LA5369,Cathrin,São Paulo/Guarulhos International,Tabio,Philippines,Ministro Pistarini International,Zürich,Switzerland,22.35,5:41 PM,1/15/2026,false
+NH4003,Hersch,Haneda,Szemud,Poland,Incheon International,Bashtanka,Ukraine,6.6,3:54 PM,11/14/2025,true
+SA9026,Christos,O.R. Tambo International,Birzai,Lithuania,Charles de Gaulle,Liuliping,China,7.03,3:38 PM,8/10/2025,false
+DL4448,Ezechiel,John F. Kennedy International,Maragogi,Brazil,Hartsfield-Jackson Atlanta,Daxindian,China,17.67,6:30 PM,1/18/2026,true
+LA4286,Margarethe,São Paulo/Guarulhos International,Matiompong,Philippines,Ministro Pistarini International,Jinkou,China,9.05,5:40 PM,12/28/2025,false
+ET1908,Jere,Bole International,Soanindrariny,Madagascar,Charles de Gaulle,Simnas,Lithuania,16.97,2:23 AM,8/24/2025,false
+NZ2165,Gannie,Auckland Airport,La Cuesta,Peru,Sydney Airport,Lapuz,Philippines,5.8,5:24 PM,8/14/2025,true
+LH8334,Oralla,Frankfurt Airport,Pesucen,Indonesia,Charles de Gaulle,Puolanka,Finland,22.56,12:52 PM,6/10/2025,true
+IB3853,Brigitta,Adolfo Suárez Madrid–Barajas,Bohai,China,Charles de Gaulle,Maundai,Indonesia,6.3,11:32 AM,4/15/2026,true
+SQ4254,Lennard,Changi,Heping,China,Beijing Capital International,Shurugwi,Zimbabwe,15.75,1:38 AM,6/14/2025,true
+NZ4078,Lauralee,Auckland Airport,Kavār,Iran,Sydney Airport,Seshcha,Russia,14.62,2:09 PM,7/11/2025,false
+CX2774,Katya,Hong Kong International,Mekarsari,Indonesia,Changi,Vohibinany,Madagascar,13.69,7:04 AM,3/25/2026,false
+NZ5223,Fidelio,Auckland Airport,Vereya,Russia,Haneda,Catabola,Angola,5.94,10:30 AM,12/15/2025,true
+WN4624,Charil,Los Angeles International,Imotski,Croatia,San Francisco International,Ząbkowice Śląskie,Poland,17.42,11:55 AM,9/23/2025,true
+LH8386,Arvy,Frankfurt Airport,Stoczek Łukowski,Poland,Charles de Gaulle,Pingle,China,12.6,4:56 AM,3/6/2026,true
+KE5668,Dion,Incheon International,Trélissac,France,Haneda,Babakanloa,Indonesia,14.04,9:57 AM,1/1/2026,true
+KE3093,Ricca,Incheon International,Storuman,Sweden,O.R. Tambo International,Nāṟay,Afghanistan,11.95,12:52 AM,10/21/2025,false
+AM4189,Charissa,Benito Juárez International,Akim Swedru,Ghana,O'Hare International,Tha Ruea,Thailand,1.21,5:06 PM,5/4/2025,false
+SQ6672,Marylee,Changi,Taixi,China,Beijing Capital International,Diourbel,Senegal,16.63,1:09 PM,9/10/2025,false
+CX4991,Lizzie,Hong Kong International,Lawa-an,Philippines,Changi,Luqiao,China,15.71,4:21 AM,3/16/2026,false
+KL5737,Renell,Amsterdam Airport Schiphol,Altenberg bei Linz,Austria,Charles de Gaulle,Jiaoshanhe,China,2.53,3:31 AM,8/8/2025,false
+WN1914,Raviv,Los Angeles International,Debrzno,Poland,San Francisco International,Bantaeng,Indonesia,19.08,5:16 PM,1/22/2026,false
+UA3730,Galvan,Los Angeles International,Gonzalo Pizarro,Ecuador,San Francisco International,Qobu,Azerbaijan,11.65,12:15 PM,1/9/2026,true
+IB2849,Noland,Adolfo Suárez Madrid–Barajas,Minamata,Japan,Charles de Gaulle,Zhanaozen,Kazakhstan,13.62,2:59 PM,2/21/2026,true
+SK1004,Alfy,Copenhagen Airport,Bartsrashen,Armenia,Charles de Gaulle,Kraków,Poland,1.92,8:36 PM,2/13/2026,false
+AA6594,Virginie,John F. Kennedy International,Bentiu,South Sudan,Hartsfield-Jackson Atlanta,Rivas,Nicaragua,5.92,12:25 PM,8/20/2025,true
+BA4649,Susy,Heathrow,Moses,Portugal,Charles de Gaulle,Ardazubre,Portugal,11.53,4:14 PM,10/25/2025,true
+EK1066,Murry,Dubai International,Luzhany,Ukraine,Hamad International,Žďár nad Sázavou Druhy,Czech Republic,21.36,10:01 AM,6/1/2025,false
+AA3540,Tally,John F. Kennedy International,Momignies,Belgium,Hartsfield-Jackson Atlanta,Bayan,Mongolia,2.53,12:23 AM,2/9/2026,true
+AF6875,Jane,Charles de Gaulle,Iwade,Japan,Melbourne Airport,Cercal,Portugal,9.05,9:19 PM,4/18/2026,false
+IB7758,Nickey,Adolfo Suárez Madrid–Barajas,Hradec Králové,Czech Republic,Charles de Gaulle,Almeirim,Portugal,18.25,8:46 PM,6/25/2025,true
+AC1314,Stacee,Toronto Pearson,Bayt Liqyā,Palestinian Territory,Logan International,Santo Tomas,Philippines,11.76,1:00 PM,3/26/2026,true
+TG3327,Meredithe,Suvarnabhumi,Boychinovtsi,Bulgaria,Changi,Mutoko,Zimbabwe,2.31,8:11 PM,8/4/2025,false
+KL4907,Nada,Amsterdam Airport Schiphol,Dalubian,China,Frankfurt Airport,Jitan,China,2.5,1:36 AM,12/13/2025,false
+NZ6947,Herby,Auckland Airport,Repnoye,Russia,Sydney Airport,Gribanovskiy,Russia,18.25,11:43 PM,9/16/2025,false
+AV3166,Odella,El Dorado International,Tombu,Sierra Leone,Benito Juárez International,Mengenkrajan,Indonesia,7.59,4:08 AM,3/18/2026,true
+QR8684,Pearline,Hamad International,Graneros,Chile,Copenhagen Airport,Nemuro,Japan,7.54,7:25 AM,10/17/2025,false
+LH3478,Orsola,Frankfurt Airport,Rodionovo-Nesvetayskaya,Russia,Charles de Gaulle,Talin Hiag,China,3.72,9:14 AM,3/24/2026,false
+IB4045,Ross,Adolfo Suárez Madrid–Barajas,Bayt Ta‘mar,Palestinian Territory,Beijing Capital International,Ðà Lạt,Vietnam,20.18,5:30 AM,2/25/2026,true
+AI8431,Vinny,Indira Gandhi International,Barengkok,Indonesia,Arturo Merino Benítez International,Rybczewice,Poland,8.54,6:28 PM,5/9/2025,true
+AF8531,Jerrine,Charles de Gaulle,Salitral,Costa Rica,Frankfurt Airport,Verkhnya Syrovatka,Ukraine,7.21,5:04 PM,3/3/2026,false
+SQ1946,Midge,Changi,Swedru,Ghana,Beijing Capital International,Dasht-e Archī,Afghanistan,15.14,5:29 AM,4/12/2026,false
+LA9613,Dukey,São Paulo/Guarulhos International,Camalote,Honduras,Ministro Pistarini International,Kambingan,Indonesia,1.45,8:46 PM,4/18/2026,false
+SK6775,Josiah,Copenhagen Airport,San Pedro Jocopilas,Guatemala,Charles de Gaulle,Huayuan,China,19.76,4:36 AM,1/1/2026,true
+AA7962,Felicity,John F. Kennedy International,Aqtaū,Kazakhstan,Logan International,Shchelkovo,Russia,8.45,7:48 PM,4/15/2026,false
+SK6983,Berton,Copenhagen Airport,Falkenberg,Sweden,São Paulo/Guarulhos International,Petrovskoye,Russia,22.36,11:21 PM,12/28/2025,true
+AZ2418,Gerhardt,Leonardo da Vinci International,Graneros,Chile,Charles de Gaulle,Auki,Solomon Islands,19.56,9:45 PM,7/28/2025,true
+NZ6242,Dyanna,Auckland Airport,Bafoussam,Cameroon,Sydney Airport,Novoalekseyevskaya,Russia,7.8,12:36 AM,2/13/2026,false
+AV4492,Hazel,El Dorado International,Dangcalan,Philippines,Hamad International,Jinhe,China,19.86,12:52 PM,7/6/2025,false
+LA2312,Kristoforo,São Paulo/Guarulhos International,São Martinho,Portugal,Ministro Pistarini International,Agía Foteiní,Greece,16.72,2:08 AM,12/21/2025,true
+SQ9982,Leighton,Changi,Jacksonville,United States,Beijing Capital International,Banag,Philippines,23.77,4:18 PM,12/29/2025,false
+ET3060,Conchita,Bole International,Xinbei,China,Hamad International,Bueng Samakkhi,Thailand,16.57,12:59 AM,7/11/2025,false
+NZ8005,Antoinette,Auckland Airport,Skarżysko-Kamienna,Poland,Sydney Airport,Paris 02,France,21.57,1:13 PM,7/17/2025,true
+AM1832,Ingelbert,Benito Juárez International,Barurao,Philippines,O'Hare International,Cangyou,China,3.62,2:41 PM,11/30/2025,true
+AI4251,Eward,Indira Gandhi International,Stockholm,Sweden,Chhatrapati Shivaji International,Lephalale,South Africa,3.39,2:22 AM,5/4/2025,true
+DL7717,Roman,John F. Kennedy International,Pariti,Indonesia,Hartsfield-Jackson Atlanta,Sibagat,Philippines,16.64,5:20 AM,10/12/2025,false
+SA8722,Brendan,O.R. Tambo International,Kajiado,Kenya,Charles de Gaulle,Nicoya,Costa Rica,9.02,5:55 AM,9/23/2025,false
+QR2435,Jeremy,Hamad International,Černošín,Czech Republic,Frankfurt Airport,Aksakovo,Bulgaria,16.31,12:20 AM,1/7/2026,false
+LH4249,Ami,Frankfurt Airport,Ami,Japan,Charles de Gaulle,Tabonok,Philippines,4.45,3:43 PM,10/17/2025,true
+UA3041,Keith,Los Angeles International,Wucun,China,San Francisco International,Totora,Bolivia,9.13,12:28 PM,7/28/2025,false
+AI3656,Ralf,Indira Gandhi International,Herrera,Philippines,Chhatrapati Shivaji International,Antrukan,Indonesia,21.86,6:27 AM,11/28/2025,true
+AM4031,Hermann,Benito Juárez International,Venda Nova,Portugal,O'Hare International,Xiantang,China,19.36,7:50 AM,12/12/2025,false
+AI3155,Misty,Indira Gandhi International,Jiepai,China,Chhatrapati Shivaji International,Amaigbo,Nigeria,20.78,6:28 PM,1/28/2026,true
+IB3454,Gerhard,Adolfo Suárez Madrid–Barajas,Esmoriz,Portugal,Leonardo da Vinci International,Heba,China,19.63,4:35 PM,9/17/2025,false
+KL7317,Farra,Amsterdam Airport Schiphol,Rawuk,Indonesia,Charles de Gaulle,Privas,France,2.88,3:03 AM,12/11/2025,false
+KL7531,Rossy,Amsterdam Airport Schiphol,Poja,Indonesia,Charles de Gaulle,Catia La Mar,Venezuela,12.27,8:39 PM,5/26/2025,false
+CX2366,Dorie,Hong Kong International,Oeiras,Portugal,Copenhagen Airport,Qinghu,China,5.76,3:57 AM,8/15/2025,true
+SK1423,Saw,Copenhagen Airport,Qiaozi,China,Charles de Gaulle,Bizhou,China,21.69,2:14 PM,11/19/2025,false
+KE4971,Eleonore,Incheon International,Ladoeiro,Portugal,Hong Kong International,Popasna,Ukraine,17.28,8:00 AM,7/5/2025,true
+IB3773,Patten,Adolfo Suárez Madrid–Barajas,Palcamayo,Peru,Charles de Gaulle,Granada,Spain,13.82,4:14 PM,5/11/2025,true
+AC9935,Gareth,Toronto Pearson,Jiujie,China,Vancouver International,Maştağa,Azerbaijan,18.19,6:01 PM,5/1/2025,true
+SA3946,Ilene,O.R. Tambo International,Pokhara,Nepal,Charles de Gaulle,Celestynów,Poland,5.11,10:25 AM,1/7/2026,false
+WN3689,Mayor,Los Angeles International,Makoba,Botswana,O'Hare International,Shangping,China,16.89,3:00 PM,1/13/2026,false
+AF2581,Caterina,Charles de Gaulle,Kanye,Botswana,Frankfurt Airport,Gąsocin,Poland,22.63,11:02 AM,1/27/2026,false
+KL9443,Karole,Amsterdam Airport Schiphol,Satka,Russia,Charles de Gaulle,Dresden,Germany,14.34,6:08 AM,6/24/2025,false
+AF9603,Cary,Charles de Gaulle,Lintaca,Bolivia,Frankfurt Airport,Plaridel,Philippines,19.16,4:07 PM,9/3/2025,true
+AM5814,Carlita,Benito Juárez International,Massy,France,O'Hare International,San Miguel de Tucumán,Argentina,4.01,5:43 AM,5/17/2025,false
+CX1682,Nani,Hong Kong International,Hidalgo,Mexico,Melbourne Airport,Evxinoúpolis,Greece,5.73,7:55 AM,10/24/2025,true
+DL4692,Lacie,John F. Kennedy International,Boljevac,Serbia,Hartsfield-Jackson Atlanta,West Palm Beach,United States,9.39,10:15 AM,6/30/2025,false
+AM5743,Niki,Benito Juárez International,Guadalupe Victoria,Mexico,Jomo Kenyatta International,Baghdad,Iraq,20.76,1:05 AM,6/10/2025,true
+EK2258,Noella,Dubai International,Calancuasan Norte,Philippines,Adolfo Suárez Madrid–Barajas,Åhus,Sweden,18.83,12:17 AM,12/16/2025,false
+AC1854,Ryon,Toronto Pearson,Nowlamary,Bangladesh,John F. Kennedy International,Figueira Castelo Rodrigo,Portugal,23.67,4:56 PM,2/15/2026,false
+AC3279,Jon,Toronto Pearson,Ksawerów,Poland,John F. Kennedy International,Znamenskoye,Russia,1.76,10:44 AM,3/14/2026,false
+AA8953,Pietro,John F. Kennedy International,Tasböget,Kazakhstan,Vancouver International,Milano,Italy,7.34,5:27 PM,12/1/2025,true
+UA7542,Verge,Los Angeles International,Daxing,China,San Francisco International,Watari,Japan,22.55,10:59 AM,1/30/2026,true
+AI5828,Lindon,Indira Gandhi International,Garbolovo,Russia,Chhatrapati Shivaji International,Cuispes,Peru,8.83,12:35 PM,9/5/2025,false
+SQ8281,Becki,Changi,Vol’nyy Aul,Russia,Amsterdam Airport Schiphol,Utsunomiya-shi,Japan,14.83,4:22 AM,5/17/2025,false
+EK2243,Daloris,Dubai International,Boca Suno,Ecuador,Hamad International,Tabor,Slovenia,14.37,10:10 PM,4/6/2026,false
+AZ6460,Verla,Leonardo da Vinci International,Yangmingbu,China,Charles de Gaulle,Yangxu,China,8.68,11:05 PM,2/28/2026,true
+SK7279,Ethelda,Copenhagen Airport,Pereiros,Portugal,Zurich Airport,Karawatu,Indonesia,1.13,7:50 AM,7/16/2025,true
+AM9824,Fara,Benito Juárez International,Alīābad,Pakistan,El Dorado International,Grand Forks,United States,9.66,9:56 PM,10/6/2025,false
+DL2404,Aigneis,John F. Kennedy International,Belyye Stolby,Russia,Hartsfield-Jackson Atlanta,Kubachi,Russia,1.83,7:10 PM,4/17/2026,true
+AM6760,Phaedra,Benito Juárez International,Wulipu,China,Los Angeles International,Pátmos,Greece,11.39,5:25 AM,6/8/2025,false
+SQ7786,Jada,Changi,Lidköping,Sweden,Beijing Capital International,Klutuk,Indonesia,4.07,12:58 AM,4/18/2026,false
+KE6531,Bebe,Incheon International,Zlatni Pyasatsi,Bulgaria,Haneda,Liucun,China,14.63,7:54 PM,9/10/2025,true
+KE4629,Aharon,Incheon International,Bouillon,Belgium,Ministro Pistarini International,Dagui,China,6.24,4:56 AM,8/22/2025,false
+SK7366,Patricia,Copenhagen Airport,Pogwizdów,Poland,Charles de Gaulle,Kebunan,Indonesia,5.51,9:27 PM,8/27/2025,false
+AV6390,Lindy,El Dorado International,Gongchang,China,O'Hare International,Citeluk,Indonesia,10.31,4:45 PM,3/17/2026,false
+KL7108,Anatole,Amsterdam Airport Schiphol,Mooka,Japan,Cape Town International,Stoczek,Poland,21.92,5:02 PM,5/11/2025,true
+EK9505,Dorri,Dubai International,Varybóbi,Greece,Bole International,Čair,Macedonia,17.02,11:15 AM,3/2/2026,false
+SK1423,Cicily,Copenhagen Airport,Xieyang,China,Charles de Gaulle,Tilamuta,Indonesia,14.22,6:14 AM,12/24/2025,true
+BA8810,Paddy,Heathrow,Belfast,Canada,Charles de Gaulle,Trnovlje pri Celju,Slovenia,6.44,10:49 PM,3/10/2026,true
+BA2226,Reynold,Heathrow,Norabats’,Armenia,Zurich Airport,Lembanah,Indonesia,4.49,11:35 AM,8/31/2025,false
+LH3115,Rik,Frankfurt Airport,Zliten,Libya,Jorge Chávez International,Ágios Pétros,Greece,22.62,8:42 AM,1/10/2026,true
+TG9392,Aubrey,Suvarnabhumi,Canomoy,Philippines,Changi,Eirunepé,Brazil,14.45,3:04 AM,9/11/2025,false
+NH4113,Faun,Haneda,Sīlat al Ḩārithīyah,Palestinian Territory,Incheon International,Pengulu,Indonesia,20.11,3:15 PM,3/5/2026,false
+AZ7822,Chane,Leonardo da Vinci International,Agarsin,China,Charles de Gaulle,Dobruševo,Macedonia,6.89,8:23 PM,8/19/2025,false
+EK9924,Lonni,Dubai International,Uruçuca,Brazil,Hamad International,Raczki,Poland,10.01,6:30 PM,7/28/2025,true
+IB6581,Lindie,Adolfo Suárez Madrid–Barajas,Pigí,Greece,Charles de Gaulle,Santa Rosa de Cabal,Colombia,8.41,3:08 AM,1/9/2026,true
+DL5702,Klara,John F. Kennedy International,Capioví,Argentina,Dallas/Fort Worth International,Aūa,American Samoa,18.21,8:16 PM,10/21/2025,false
+SQ8501,Marjory,Changi,Perreng,Indonesia,Beijing Capital International,Novoukrayinka,Ukraine,13.17,5:46 AM,6/15/2025,false
+TG3890,Dulci,Suvarnabhumi,Bailiang,China,Sydney Airport,Wetzlar,Germany,19.48,6:27 AM,11/20/2025,true
+QF2308,Manda,Sydney Airport,Périgueux,France,Melbourne Airport,Burūm,Yemen,22.39,3:32 PM,5/10/2025,true
+BA8980,Drusie,Heathrow,Al Maḩwīt,Yemen,Charles de Gaulle,Nizhniye Vyazovyye,Russia,20.18,1:57 PM,3/3/2026,true
+AV9981,Andrea,El Dorado International,Borås,Sweden,O'Hare International,Maroua,Cameroon,11.09,3:56 AM,12/26/2025,false
+LA6020,Gal,São Paulo/Guarulhos International,Khok Charoen,Thailand,Ministro Pistarini International,Oslo,Norway,20.48,9:45 AM,10/11/2025,false
+SK4129,Verge,Copenhagen Airport,Kansas City,United States,Leonardo da Vinci International,Las Flores,Mexico,16.95,8:47 PM,10/3/2025,false
+SQ5036,Clemente,Changi,Laoxingchang,China,Beijing Capital International,Phoenix,United States,21.18,4:15 AM,9/12/2025,false
+AF1670,Moishe,Charles de Gaulle,Bāzārak,Afghanistan,Chhatrapati Shivaji International,Santiago,Paraguay,7.51,3:22 PM,2/9/2026,false
+LH3297,Malinde,Frankfurt Airport,Cantagallo,Colombia,Charles de Gaulle,Ruzhany,Belarus,3.74,2:21 PM,6/17/2025,true
+CX5062,Locke,Hong Kong International,Paris 12,France,Changi,Selouane,Morocco,12.25,12:47 AM,5/31/2025,true
+SQ5441,Veronica,Changi,Pehuajó,Argentina,Beijing Capital International,Hongjiazui,China,15.71,9:21 AM,9/9/2025,false
+QR2087,Bernadette,Hamad International,Libu,China,San Francisco International,Cibeureum,Indonesia,21.6,4:47 AM,3/15/2026,true
+AZ1726,Shelley,Leonardo da Vinci International,Sailaitang,China,Frankfurt Airport,Gon’ba,Russia,5.71,9:15 AM,3/16/2026,false
+KE5770,Julina,Incheon International,Pochuta,Guatemala,Haneda,Chropyně,Czech Republic,4.28,4:45 PM,9/3/2025,true
+NH4125,Anderson,Haneda,Zomba,Malawi,Incheon International,Ping’an,China,11.66,8:32 AM,2/24/2026,false
+SQ9772,Lilla,Changi,Uppsala,Sweden,Munich Airport,Jinshan,China,11.99,11:49 PM,12/6/2025,true
+LH3192,Jud,Frankfurt Airport,Chitagá,Colombia,Charles de Gaulle,Zhapu,China,12.48,8:56 PM,6/19/2025,true
+TG7432,Hagan,Suvarnabhumi,Galovac,Croatia,Changi,Pilcaniyeu,Argentina,2.65,3:10 AM,7/9/2025,true
+AM4751,Lenci,Benito Juárez International,Ilesa,Nigeria,O'Hare International,Lenger,Kazakhstan,15.34,10:38 PM,3/5/2026,true
+AM1859,Rolland,Benito Juárez International,Zaliznychne,Ukraine,O'Hare International,Paris 02,France,2.01,12:13 PM,4/23/2026,true
+KE7505,Nicki,Incheon International,Suraż,Poland,Haneda,Wenshui,China,5.26,5:15 AM,9/25/2025,true
+AI4251,Deirdre,Indira Gandhi International,Porto de Mós,Portugal,Chhatrapati Shivaji International,San Antonio,Colombia,13.63,2:13 PM,3/15/2026,true
+AM5515,Maryann,Benito Juárez International,Lochovice,Czech Republic,O'Hare International,Ginebra,Colombia,23.8,3:41 PM,11/12/2025,false
+SQ4035,Claretta,Changi,San José de Comayagua,Honduras,Beijing Capital International,Driyorejo,Indonesia,15.55,8:18 PM,7/27/2025,true
+TG4162,Ebenezer,Suvarnabhumi,Nakhon Sawan,Thailand,Changi,Catabola,Angola,16.53,1:32 AM,9/16/2025,true
+BA1583,Darlene,Heathrow,Al Wuday‘,Yemen,Charles de Gaulle,Donskoye,Russia,11.99,11:54 PM,4/7/2026,false
+AI4858,Chere,Indira Gandhi International,Amio,Philippines,Chhatrapati Shivaji International,Dobrzeń Wielki,Poland,9.0,10:34 PM,2/25/2026,false
+EK3724,Demeter,Dubai International,Sambava,Madagascar,Hamad International,Västerås,Sweden,19.83,11:24 PM,5/11/2025,false
+AZ7817,Sutherland,Leonardo da Vinci International,Bystra,Poland,Munich Airport,Feng’an,China,10.96,11:03 PM,3/18/2026,false
+KE1052,Fanny,Incheon International,Ipoh,Malaysia,Haneda,Pucara,Peru,21.11,1:32 PM,7/12/2025,true
+SA3071,Delila,O.R. Tambo International,Geneina,Sudan,Charles de Gaulle,Saronída,Greece,13.9,11:38 AM,6/18/2025,true
+LA7268,Miriam,São Paulo/Guarulhos International,Sabanalarga,Colombia,Ministro Pistarini International,Changtian,China,15.26,11:12 PM,1/1/2026,true
+SQ8769,Angeline,Changi,Berëzovskiy,Russia,Beijing Capital International,Sabang,Philippines,20.93,3:37 PM,1/27/2026,false
+LH3233,Isaak,Frankfurt Airport,Zhongling,China,Charles de Gaulle,Hexi,China,5.15,7:18 AM,3/31/2026,true
+QR3479,Michaeline,Hamad International,Gomunice,Poland,Bole International,Arroyito,Argentina,19.3,8:31 PM,7/10/2025,true
+IB4379,Leona,Adolfo Suárez Madrid–Barajas,Casa Branca,Brazil,Charles de Gaulle,María la Baja,Colombia,23.05,3:41 AM,9/4/2025,false
+LH3189,Morse,Frankfurt Airport,Haradzyeya,Belarus,Charles de Gaulle,Meishan,China,2.85,4:12 PM,4/17/2026,true
+EK6023,Jaine,Dubai International,Potou,China,Hamad International,Sizao,China,5.91,9:35 AM,11/19/2025,true
+AC9149,Arley,Toronto Pearson,Wuxiang,China,Arturo Merino Benítez International,Gokwe,Zimbabwe,23.38,1:41 PM,9/4/2025,true
+QR4953,Ailyn,Hamad International,Presa,Portugal,Bole International,Ciwaru,Indonesia,18.83,6:15 PM,8/8/2025,false
+AF3094,Zak,Charles de Gaulle,Cambebba,Brazil,Frankfurt Airport,Puerto Natales,Chile,16.69,2:53 PM,11/11/2025,true
+LH5166,Sibley,Frankfurt Airport,Zográfos,Greece,Charles de Gaulle,Kotuń,Poland,20.68,2:58 AM,2/11/2026,false
+KL3236,Worth,Amsterdam Airport Schiphol,Estique,Peru,Dallas/Fort Worth International,Washington,United States,5.59,4:01 PM,4/18/2026,false
+KE9732,Elisha,Incheon International,Dolores,Argentina,Haneda,Peredovaya,Russia,11.53,4:38 AM,8/11/2025,false
+AC3023,Woody,Toronto Pearson,Macachín,Argentina,Jorge Chávez International,Mundybash,Russia,12.61,5:07 PM,10/14/2025,false
+QR7768,Sandye,Hamad International,Zhuge,China,Bole International,Katyuzhanka,Ukraine,2.57,8:48 AM,8/26/2025,true
+AZ6073,Agnola,Leonardo da Vinci International,Bègles,France,Heathrow,Yanas,Peru,14.46,4:08 PM,5/20/2025,true
+DL4434,Danya,John F. Kennedy International,Panzhou,China,São Paulo/Guarulhos International,Enhtal,Mongolia,5.16,2:57 PM,1/13/2026,false
+NH1887,Heloise,Haneda,Kamirenjaku,Japan,Copenhagen Airport,Antiguo Cuscatlán,El Salvador,13.08,7:13 PM,9/7/2025,true
+NZ2873,Benny,Auckland Airport,Tetyushi,Russia,Melbourne Airport,Ariana,Tunisia,23.56,6:25 AM,9/29/2025,true
+AM3793,Glory,Benito Juárez International,Cordon,Philippines,O'Hare International,Rio Novo do Sul,Brazil,8.59,12:29 PM,12/14/2025,true
+EK9440,Brander,Dubai International,Aiquile,Bolivia,Amsterdam Airport Schiphol,Lunas,Philippines,22.35,4:03 PM,9/5/2025,false
+IB5628,Joelynn,Adolfo Suárez Madrid–Barajas,Mawu,China,Vienna International,Rusnė,Lithuania,23.4,11:48 AM,10/14/2025,false
+DL2308,Mitch,John F. Kennedy International,Stoczek Łukowski,Poland,Hartsfield-Jackson Atlanta,Baiqi,China,21.87,9:27 PM,10/1/2025,true
+NZ5021,Stephen,Auckland Airport,Longgao,China,Sydney Airport,Kuishan,China,21.46,8:27 AM,11/11/2025,true
+KL5381,Harrison,Amsterdam Airport Schiphol,Seropédica,Brazil,Frankfurt Airport,Vistino,Russia,10.99,6:45 PM,5/12/2025,true
+TG3333,Dulci,Suvarnabhumi,Dayr Sāmit,Palestinian Territory,Sydney Airport,Adirejo,Indonesia,12.58,6:46 PM,3/15/2026,false
+IB5832,Page,Adolfo Suárez Madrid–Barajas,Yanwukou,China,Charles de Gaulle,Gabaldon,Philippines,9.91,4:49 AM,1/7/2026,false
+AF1722,Olga,Charles de Gaulle,Krzęcin,Poland,Arturo Merino Benítez International,Laagri,Estonia,3.79,2:48 AM,2/20/2026,false
+QF4877,Hillary,Sydney Airport,Perzów,Poland,Melbourne Airport,Maia,Portugal,11.9,2:33 AM,4/4/2026,false
+UA3321,Gusti,Los Angeles International,Solţānābād,Iran,Vancouver International,Sabá,Honduras,6.91,8:35 PM,4/28/2025,true
+WN3007,Emyle,Los Angeles International,Asnières-sur-Seine,France,San Francisco International,Watergrasshill,Ireland,18.38,4:38 PM,6/24/2025,false
+AF5668,Floris,Charles de Gaulle,Polešovice,Czech Republic,Frankfurt Airport,Palmas de Monte Alto,Brazil,10.17,5:56 PM,1/14/2026,true
+AI2581,Ogden,Indira Gandhi International,Miramichi,Canada,Chhatrapati Shivaji International,Ogden,United States,10.4,8:43 PM,6/30/2025,false
+SA2079,Wilone,O.R. Tambo International,Benešov nad Ploučnicí,Czech Republic,Charles de Gaulle,Cowansville,Canada,14.21,9:16 PM,9/23/2025,false
+AF1454,Junina,Charles de Gaulle,Haysyn,Ukraine,Frankfurt Airport,Štítná nad Vláří,Czech Republic,16.78,10:48 PM,2/19/2026,true
+SQ9239,Reggi,Changi,Katy,United States,Beijing Capital International,Arrepiado,Portugal,20.77,5:01 PM,2/21/2026,true
+QF5669,Marius,Sydney Airport,Krinichnaya,Ukraine,Haneda,Caçador,Brazil,13.08,6:10 AM,7/19/2025,false
+ET9985,Lovell,Bole International,Zagoryanskiy,Russia,Hamad International,Vouani,Comoros,16.14,7:30 AM,7/16/2025,true
+LH4905,Chas,Frankfurt Airport,Mazamet,France,Munich Airport,Yunzhong,China,10.5,7:38 PM,10/2/2025,false
+AZ8697,Goddard,Leonardo da Vinci International,Shakhun’ya,Russia,Haneda,Göteborg,Sweden,16.04,3:49 AM,7/13/2025,false
+AA4410,Josie,John F. Kennedy International,Nizhnyaya Tura,Russia,Leonardo da Vinci International,Wonorejo Dua,Indonesia,6.3,2:29 PM,8/19/2025,false
+SK4122,Gwendolyn,Copenhagen Airport,Karangbayat,Indonesia,Charles de Gaulle,Loufan,China,5.42,6:16 AM,10/13/2025,false
+KE8640,Denis,Incheon International,Ourozinho,Portugal,Jomo Kenyatta International,Dom Pedrito,Brazil,13.19,6:33 AM,3/7/2026,false
+KE5026,Selinda,Incheon International,Senj,Croatia,Haneda,Barreiro,Portugal,2.83,12:07 AM,9/19/2025,true
+UA6353,Pablo,Los Angeles International,Ombarade,Indonesia,San Francisco International,Bagay,Philippines,21.72,1:30 AM,2/22/2026,false
+AV7071,Augustine,El Dorado International,Daban,China,O'Hare International,Yubileynyy,Russia,20.77,12:19 PM,6/6/2025,false
+AC5659,Kenna,Toronto Pearson,Methóni,Greece,John F. Kennedy International,Uppsala,Sweden,11.49,12:44 PM,11/22/2025,true
+NZ1091,Dolly,Auckland Airport,Adamstown,Pitcairn,Sydney Airport,Longcun,China,8.4,6:53 PM,3/7/2026,false
+UA3264,Gunther,Los Angeles International,Арачиново,Macedonia,Seattle-Tacoma International,Yoiqag,China,3.55,11:34 PM,12/21/2025,true
+AM9072,Elysia,Benito Juárez International,Panenggoede,Indonesia,Hamad International,Kabul,Afghanistan,22.62,4:41 AM,11/18/2025,true
+AI2923,Stanfield,Indira Gandhi International,Tumauini,Philippines,Chhatrapati Shivaji International,Curpahuasi,Peru,12.86,7:25 AM,8/9/2025,true
+SA4231,Rusty,O.R. Tambo International,Longfengshan,China,Zurich Airport,Peredovaya,Russia,8.65,8:41 PM,4/16/2026,true
+NH8549,Peta,Haneda,Zilang,China,Jomo Kenyatta International,Cerenti,Indonesia,4.2,3:45 PM,8/29/2025,true
+TG8790,Babbie,Suvarnabhumi,San Clemente,Chile,Changi,Dongshan,China,4.52,10:33 PM,4/21/2026,false
+ET4024,Tillie,Bole International,Batas Barat,Indonesia,Leonardo da Vinci International,Fika,Nigeria,13.0,11:21 AM,10/15/2025,true
+AA8316,Elita,John F. Kennedy International,Yongning,China,Hartsfield-Jackson Atlanta,Chiri-Yurt,Russia,20.23,9:03 PM,6/20/2025,true
+ET7671,Jonie,Bole International,Sabugal,Portugal,Hamad International,Ozatlán,El Salvador,16.79,6:54 PM,12/21/2025,false
+WN2356,Davida,Los Angeles International,Huddinge,Sweden,San Francisco International,Mondlo,South Africa,10.61,3:15 PM,7/12/2025,true
+BA7616,Renell,Heathrow,Donghui,China,Amsterdam Airport Schiphol,Manaloal,Philippines,11.39,1:02 PM,4/29/2025,true
+QR1780,Lauryn,Hamad International,Shangxian,China,Bole International,Rääkkylä,Finland,15.85,7:37 AM,9/5/2025,false
+QF4696,Gardy,Sydney Airport,Bentar Girang,Indonesia,Charles de Gaulle,Chidian,China,1.06,2:54 AM,8/22/2025,true
+AZ9476,Sol,Leonardo da Vinci International,Xiaozhai,China,Charles de Gaulle,Xinfeng,China,11.59,6:23 AM,4/6/2026,true
+IB9873,Payton,Adolfo Suárez Madrid–Barajas,Shilin,China,Charles de Gaulle,Sampagar,Philippines,21.88,7:41 AM,10/1/2025,true
+LH7175,Nicolina,Frankfurt Airport,Kakata,Liberia,Charles de Gaulle,Agbani,Nigeria,7.47,10:35 AM,7/14/2025,false
+WN8327,Tremain,Los Angeles International,Jagabaya Dua,Indonesia,Seattle-Tacoma International,Fort Erie,Canada,20.09,6:54 AM,1/29/2026,true
+IB8190,Cullen,Adolfo Suárez Madrid–Barajas,Pancoran,Indonesia,Charles de Gaulle,La Peña,Panama,17.37,12:32 PM,5/30/2025,false
+AF8924,Reeva,Charles de Gaulle,Amparo,Brazil,Dallas/Fort Worth International,Loma Bonita,Mexico,18.53,7:54 PM,11/12/2025,true
+AM2579,Sunny,Benito Juárez International,Qianjin,China,Hartsfield-Jackson Atlanta,Nzeto,Angola,12.25,12:17 AM,6/3/2025,false
+IB3752,Barbaraanne,Adolfo Suárez Madrid–Barajas,Gersikputih Tengah,Indonesia,Charles de Gaulle,Yenakiyeve,Ukraine,4.47,9:51 PM,3/13/2026,true
+AI2783,Corby,Indira Gandhi International,Néa Ankhíalos,Greece,Chhatrapati Shivaji International,Yeniköy,Turkey,19.06,2:16 PM,3/19/2026,false
+SK4886,Che,Copenhagen Airport,Yurimaguas,Peru,Charles de Gaulle,Quchi,China,22.66,7:14 AM,12/1/2025,false
+AF5390,Hector,Charles de Gaulle,Kulun,China,Frankfurt Airport,Laholm,Sweden,12.99,7:40 AM,9/14/2025,true
+AZ6013,Conn,Leonardo da Vinci International,Courelas Bravas,Portugal,Charles de Gaulle,Mashan,China,6.7,6:39 AM,12/29/2025,false
+BA6398,Amble,Heathrow,Avarua,Cook Islands,Charles de Gaulle,Dzorastan,Armenia,14.25,11:57 PM,5/29/2025,true
+UA8777,Anthea,Los Angeles International,Rochester,United States,San Francisco International,Tugu,Indonesia,8.21,3:29 PM,3/15/2026,true
+QR1240,Yvon,Hamad International,Valencia,Philippines,Bole International,Pélla,Greece,4.1,8:59 PM,4/29/2025,true
+TG7636,Cissiee,Suvarnabhumi,Polo,Indonesia,Changi,Wangliao,China,22.33,8:03 AM,9/17/2025,false
+EK7011,Fara,Dubai International,Wañgan,Philippines,Hamad International,‘Ayn al Bayḑā,Syria,16.47,7:49 PM,10/20/2025,false
+WN7674,Dougy,Los Angeles International,Am Djarass,Chad,San Francisco International,Reston,United States,10.2,1:31 AM,1/11/2026,true
+AV8059,Matilda,El Dorado International,Pil’na,Russia,O'Hare International,Prince Albert,Canada,11.2,12:38 PM,11/3/2025,true
+WN2783,Abram,Los Angeles International,Roma,Italy,San Francisco International,Akonolinga,Cameroon,5.51,5:29 PM,1/8/2026,true
+LA1908,Christean,São Paulo/Guarulhos International,Lijia,China,Ministro Pistarini International,Mont-Saint-Hilaire,Canada,2.8,7:30 AM,9/4/2025,true
+SQ8152,Milli,Changi,Mangqu,China,Beijing Capital International,Drahichyn,Belarus,4.17,3:21 PM,11/16/2025,true
+DL1452,Normand,John F. Kennedy International,Jurva,Finland,Frankfurt Airport,Paniówki,Poland,8.65,11:05 PM,9/26/2025,true
+SA8121,Ladonna,O.R. Tambo International,Morales,Guatemala,Charles de Gaulle,Panjiawan,China,6.44,2:01 PM,8/27/2025,false
+AM5718,Demetris,Benito Juárez International,Laveiras,Portugal,O'Hare International,Naples,United States,17.94,1:40 PM,8/12/2025,false
+BA8525,Wendy,Heathrow,Tongyang,China,Charles de Gaulle,Kuantan,Malaysia,14.75,1:49 AM,11/1/2025,false
+SA3789,Bianka,O.R. Tambo International,Yudai,China,Charles de Gaulle,Queimados,Brazil,19.55,9:21 PM,9/10/2025,false
+KE3093,Blake,Incheon International,Curug,Indonesia,O.R. Tambo International,Timrå,Sweden,5.99,1:58 AM,12/3/2025,false
+BA7701,Reynold,Heathrow,Słupno,Poland,São Paulo/Guarulhos International,Saguing,Philippines,17.72,11:20 PM,1/3/2026,false
+AM9301,Adriena,Benito Juárez International,Magalalag,Philippines,O'Hare International,Ragana,Latvia,20.25,9:21 PM,1/30/2026,false
+AV9422,Harp,El Dorado International,Villa Ángela,Argentina,O'Hare International,Solec Nad Wisłą,Poland,5.54,8:09 PM,8/30/2025,false
+KE2894,Otis,Incheon International,Shaoyang,China,Miami International,Samannūd,Egypt,20.44,1:41 AM,7/15/2025,false
+AM6788,Jules,Benito Juárez International,Awsīm,Egypt,Hartsfield-Jackson Atlanta,Przywidz,Poland,23.38,6:45 PM,4/3/2026,false
+SA8877,Owen,O.R. Tambo International,Cradock,South Africa,Bole International,Trai Ngau,Vietnam,11.88,3:13 PM,4/5/2026,false
+NZ6359,Kaia,Auckland Airport,Uritsk,Russia,Sydney Airport,Asaita,Ethiopia,1.61,2:43 PM,12/21/2025,false
+ET3547,Osborne,Bole International,Robertsport,Liberia,Amsterdam Airport Schiphol,Yidu,China,7.97,11:24 PM,6/18/2025,false
+CX7920,Lianna,Hong Kong International,Chenqiao,China,Dubai International,Mubi,Nigeria,7.58,4:51 PM,11/13/2025,false
+IB5906,Oralle,Adolfo Suárez Madrid–Barajas,Baltimore,United States,Charles de Gaulle,Espumoso,Brazil,18.01,10:22 PM,3/26/2026,false
+QF6069,Annmarie,Sydney Airport,Fundong,Cameroon,Melbourne Airport,Hanjia,China,11.06,7:49 AM,7/7/2025,true
+QF1365,Ulberto,Sydney Airport,Lijiaping,China,Melbourne Airport,Guanmiao,China,2.17,8:33 AM,10/8/2025,false
+AM3602,Joan,Benito Juárez International,Pasirnangka,Indonesia,O'Hare International,Dopang,Indonesia,21.46,8:42 PM,11/8/2025,false
+NZ1648,Ervin,Auckland Airport,Rambouillet,France,Sydney Airport,Kanália,Greece,18.06,10:15 AM,1/15/2026,false
+TG2457,Dorolice,Suvarnabhumi,Agdzhabedy,Azerbaijan,Changi,Twardawa,Poland,14.85,9:36 AM,7/9/2025,false
+AM3158,Filberte,Benito Juárez International,Karabas,Kazakhstan,O'Hare International,Hikone,Japan,23.22,1:00 PM,7/10/2025,false
+SK6106,Clare,Copenhagen Airport,Razan,Iran,Charles de Gaulle,Kremenets’,Ukraine,6.51,3:07 AM,3/1/2026,true
+BA9701,Dexter,Heathrow,Zuénoula,Ivory Coast,Charles de Gaulle,Xylókastro,Greece,4.12,8:24 AM,1/5/2026,true
+SK4698,Loy,Copenhagen Airport,Hebian,China,Charles de Gaulle,Eskilstuna,Sweden,5.87,12:25 PM,5/30/2025,true
+LA9571,Michaelina,São Paulo/Guarulhos International,Patulul,Guatemala,Ministro Pistarini International,Kouloúra,Greece,16.29,5:48 AM,7/28/2025,true
+LH3991,Hetty,Frankfurt Airport,Dayuan,China,Charles de Gaulle,La Charité-sur-Loire,France,1.87,2:53 AM,12/20/2025,true
+AC7951,Adrian,Toronto Pearson,Pedrulheira,Portugal,John F. Kennedy International,Labrador City,Canada,21.75,10:33 PM,8/29/2025,true
+CX2504,Dara,Hong Kong International,Chipoka,Malawi,Kuala Lumpur International,Gamovo,Russia,9.97,1:06 AM,6/5/2025,false
+QF3249,Wittie,Sydney Airport,Thames,New Zealand,Brisbane Airport,Tiksi,Russia,11.93,5:38 AM,9/26/2025,false
+AZ1726,Alejandrina,Leonardo da Vinci International,Sundsvall,Sweden,Frankfurt Airport,Bungalaleng,Indonesia,11.44,3:07 PM,9/29/2025,false
+CX1015,Trudi,Hong Kong International,Embu,Brazil,Melbourne Airport,Rokietnica,Poland,18.57,1:13 AM,1/16/2026,true
+AM1964,Koressa,Benito Juárez International,Charlestown,Saint Kitts and Nevis,O'Hare International,Kuantan,Malaysia,9.7,8:24 AM,12/6/2025,true
+LH1985,Thurstan,Frankfurt Airport,Mó,Portugal,Charles de Gaulle,Pacar,Indonesia,3.51,8:02 AM,9/21/2025,true
+WN8342,Alene,Los Angeles International,Kedungdowo,Indonesia,Denver International,Sandnes,Norway,8.28,7:20 PM,7/26/2025,true
+UA8777,Aggie,Los Angeles International,Sungaikakap,Indonesia,San Francisco International,Hongling,China,10.78,3:33 AM,9/26/2025,false
+NH4813,Ray,Haneda,Chemin Grenier,Mauritius,Incheon International,Bang Bon,Thailand,8.07,1:11 PM,7/7/2025,true
+TG8211,Freddy,Suvarnabhumi,Costa de Rios Frios,Portugal,Changi,Ishikawa,Japan,5.72,10:55 PM,2/25/2026,true
+AF6240,Silvanus,Charles de Gaulle,Sishilichengzi,China,Frankfurt Airport,Gwaram,Nigeria,20.45,5:16 AM,1/11/2026,false
+SA3328,Alina,O.R. Tambo International,Santa Rita,Venezuela,Charles de Gaulle,Kanália,Greece,5.22,7:45 PM,9/17/2025,false
+AZ7862,Gwynne,Leonardo da Vinci International,Vysotsk,Russia,Charles de Gaulle,Wenchang,China,15.42,10:22 PM,1/26/2026,false
+QR5659,Katherine,Hamad International,Nevers,France,Bole International,Al Mawşil al Jadīdah,Iraq,17.74,5:56 AM,10/28/2025,true
+SQ4039,Caritta,Changi,Viljakkala,Finland,Beijing Capital International,Buhe,China,19.97,12:03 PM,3/18/2026,false
+AM3262,Veradis,Benito Juárez International,Chinameca,El Salvador,Dallas/Fort Worth International,Dambořice,Czech Republic,23.16,5:30 PM,6/28/2025,false
+DL5999,Duncan,John F. Kennedy International,Santa Ana,Philippines,Los Angeles International,Tenggun Dajah,Indonesia,10.65,9:22 AM,9/9/2025,false
+AM9145,Sena,Benito Juárez International,Fernandópolis,Brazil,O'Hare International,Buenos Aires,Mexico,4.43,9:49 AM,7/18/2025,true
+SK7263,Dalt,Copenhagen Airport,Thị Trấn Mộc Châu,Vietnam,Charles de Gaulle,General Enrique Mosconi,Argentina,17.02,12:01 PM,11/18/2025,false
+UA5154,Darn,Los Angeles International,Motegi,Japan,Jorge Chávez International,Yumbe,Uganda,23.51,1:28 PM,10/27/2025,true
+AI6362,Fergus,Indira Gandhi International,Hüremt,Mongolia,Chhatrapati Shivaji International,Oju,Nigeria,18.18,7:18 PM,7/24/2025,false
+BA4260,Joelie,Heathrow,Brochów,Poland,Charles de Gaulle,Masaya,Nicaragua,3.23,12:48 PM,9/17/2025,true
+AI8330,Ruben,Indira Gandhi International,Elói Mendes,Brazil,Chhatrapati Shivaji International,Jiangkou,China,7.64,2:58 AM,8/18/2025,false
+AA2833,Nikolaus,John F. Kennedy International,Mae Sai,Thailand,Hartsfield-Jackson Atlanta,Alicia,Philippines,19.29,7:13 PM,9/20/2025,false
+AC1854,Sydney,Toronto Pearson,Gamawa,Nigeria,John F. Kennedy International,Dióni,Greece,5.8,1:59 AM,9/24/2025,true
+DL4436,Elane,John F. Kennedy International,Tanggeung Kolot,Indonesia,Bole International,Huanghu,China,3.25,2:34 AM,2/28/2026,true
+NZ5604,Ravid,Auckland Airport,Capim Grosso,Brazil,São Paulo/Guarulhos International,Abaza,Russia,12.99,6:27 PM,9/16/2025,true
+AI2219,Travus,Indira Gandhi International,Kuala Lumpur,Malaysia,Chhatrapati Shivaji International,Banyuurip,Indonesia,20.11,2:09 AM,7/16/2025,false
+WN2436,Roldan,Los Angeles International,Tungi,Bangladesh,O'Hare International,Amarillo,United States,11.85,11:46 AM,1/11/2026,false
+SA4784,Niels,O.R. Tambo International,Montecarlo,Argentina,Charles de Gaulle,Kototujuh,Indonesia,5.97,2:41 PM,5/2/2025,false
+KE9114,Koressa,Incheon International,Cochadas,Portugal,Denver International,Cool űrhajó,Afghanistan,15.58,2:48 PM,3/5/2026,false
+QR9373,Giovanni,Hamad International,Bayt Līd,Palestinian Territory,Bole International,Nalbandyan,Armenia,16.81,6:55 PM,3/17/2026,false
+EK9627,Gerri,Dubai International,Daszewice,Poland,Hamad International,Lewograran,Indonesia,1.75,10:06 PM,6/7/2025,false
+AV3778,Ulrika,El Dorado International,Jabinyānah,Tunisia,Indira Gandhi International,Motuo,China,8.47,2:25 PM,9/18/2025,true
+IB2730,Graham,Adolfo Suárez Madrid–Barajas,Danderyd,Sweden,Hamad International,Lidköping,Sweden,3.08,1:30 AM,9/11/2025,true
+LH8191,Malinda,Frankfurt Airport,San Roque,Argentina,Melbourne Airport,Panghadangan,Indonesia,18.09,1:14 AM,2/27/2026,false
+AA2636,Llywellyn,John F. Kennedy International,Bobai,China,Hartsfield-Jackson Atlanta,Radziszów,Poland,16.98,6:01 AM,10/30/2025,true
+QR8923,Ulises,Hamad International,Sanxiang,China,Bole International,Tirat Karmel,Israel,14.65,3:07 PM,11/1/2025,true
+WN6141,Stearn,Los Angeles International,Piraju,Brazil,San Francisco International,Princeville,Canada,16.56,4:10 AM,12/28/2025,false
+IB3912,Jackson,Adolfo Suárez Madrid–Barajas,Cambuí,Brazil,John F. Kennedy International,Moba,China,23.94,2:26 PM,11/18/2025,true
+SQ3572,Gayler,Changi,Letlhakeng,Botswana,Beijing Capital International,Kanchanaburi,Thailand,7.83,2:37 PM,1/8/2026,false
+TG5279,Bonni,Suvarnabhumi,Hantsport,Canada,Changi,Fengyuan,China,9.11,10:05 PM,4/12/2026,false
+QR5924,Jordanna,Hamad International,Corona,United States,Bole International,Yermolayevo,Russia,13.7,11:00 AM,12/15/2025,true
+AM6524,Britney,Benito Juárez International,Zwierzyniec,Poland,O'Hare International,Huangyang,China,20.67,8:17 PM,2/11/2026,false
+AI2096,Constancia,Indira Gandhi International,Jaen,Spain,Chhatrapati Shivaji International,Uzunovo,Russia,14.04,8:20 AM,10/9/2025,true
+AF2705,Nichole,Charles de Gaulle,Álli Meriá,Greece,Frankfurt Airport,Wuhu,China,8.61,12:24 AM,1/5/2026,true
+QR5172,Sallie,Hamad International,Manoel Urbano,Brazil,Bole International,Poitiers,France,7.26,3:22 PM,1/29/2026,false
+LH1504,Shae,Frankfurt Airport,Wairinding,Indonesia,Charles de Gaulle,Bhimbar,Pakistan,19.04,12:21 AM,8/25/2025,true
+AF3520,Alexio,Charles de Gaulle,Soba,Nigeria,Frankfurt Airport,Santa Catalina,Philippines,2.88,4:21 PM,12/27/2025,true
+AM3135,Arlee,Benito Juárez International,Acarí,Peru,O'Hare International,Grand Rapids,United States,17.87,6:50 AM,10/27/2025,true
+IB9186,Orazio,Adolfo Suárez Madrid–Barajas,Archis,Armenia,Cape Town International,Usagara,Tanzania,5.56,6:04 AM,3/10/2026,true
+AA6703,Jacintha,John F. Kennedy International,Petite Anse,Haiti,Hartsfield-Jackson Atlanta,Prakhon Chai,Thailand,1.73,4:15 PM,8/23/2025,true
+QF8392,Eloisa,Sydney Airport,Azun Atme,Palestinian Territory,Jomo Kenyatta International,Wang Saphung,Thailand,22.93,7:15 PM,7/13/2025,true
+SK3030,Seth,Copenhagen Airport,Otrokovice,Czech Republic,Charles de Gaulle,Neftçala,Azerbaijan,21.72,11:21 AM,9/4/2025,false
+ET1953,Orville,Bole International,Paço,Portugal,Hamad International,Aldeia da Mata,Portugal,11.47,5:12 AM,3/3/2026,true
+TG6378,Hertha,Suvarnabhumi,Chulakivka,Ukraine,Haneda,Mamasa,Indonesia,8.04,10:20 AM,4/6/2026,true
+SA9741,Hilliard,O.R. Tambo International,Cola,China,Charles de Gaulle,San Jose,Philippines,5.23,9:21 PM,12/2/2025,false
+IB7229,Moore,Adolfo Suárez Madrid–Barajas,Frankfort,United States,Frankfurt Airport,Lupon,Philippines,20.12,6:19 AM,10/8/2025,false
+AA6712,Eldridge,John F. Kennedy International,Okocim,Poland,Hartsfield-Jackson Atlanta,Jianggang,China,13.86,5:00 AM,4/2/2026,false
+ET8030,Keane,Bole International,Vilarinho,Portugal,Hamad International,Ipoh,Malaysia,18.02,11:42 PM,10/22/2025,true
+KL3341,Karly,Amsterdam Airport Schiphol,Chongxian,China,Adolfo Suárez Madrid–Barajas,Tyoply Stan,Russia,15.25,7:39 PM,10/30/2025,true
+QR6265,Brandyn,Hamad International,Qaryūt,Palestinian Territory,Leonardo da Vinci International,Osek nad Bečvou,Czech Republic,3.75,3:43 PM,4/17/2026,false
+AF6719,Nessie,Charles de Gaulle,Fulin,China,Frankfurt Airport,Curahkalak Tengah,Indonesia,7.4,10:47 AM,5/17/2025,false
+LH1604,Adam,Frankfurt Airport,Sevilla,Spain,Charles de Gaulle,Juuka,Finland,11.34,5:28 AM,2/26/2026,true
+ET1495,Ambrose,Bole International,Foros de Salvaterra,Portugal,Frankfurt Airport,Huertas,Peru,3.27,12:38 AM,8/29/2025,true
+UA3441,Sophronia,Los Angeles International,Jugantang,Indonesia,San Francisco International,Vannes,France,17.77,5:35 AM,1/4/2026,false
+BA7976,Berty,Heathrow,Maniowy,Poland,Adolfo Suárez Madrid–Barajas,Mutatá,Colombia,4.19,6:26 AM,8/9/2025,true
+AC6671,Marie-ann,Toronto Pearson,Wonodadi,Indonesia,John F. Kennedy International,Beicheng,China,14.75,5:10 PM,7/10/2025,false
+DL4362,Monika,John F. Kennedy International,Carodok,Indonesia,Hartsfield-Jackson Atlanta,San Gabriel,Ecuador,19.51,7:05 AM,10/30/2025,true
+SQ5198,Thaine,Changi,Pámfylla,Greece,Beijing Capital International,Zouiat ech Cheïkh,Morocco,13.81,3:55 AM,8/21/2025,false
+QR9195,Pail,Hamad International,Charqueadas,Brazil,Charles de Gaulle,Zamoskvorech’ye,Russia,3.39,8:06 AM,1/18/2026,false
+SK9921,Karylin,Copenhagen Airport,Monte da Pedra,Portugal,Charles de Gaulle,Lérida,Colombia,18.36,6:45 PM,4/24/2026,true
+WN9434,Sunny,Los Angeles International,Kalandagan,Philippines,San Francisco International,Augusto Corrêa,Brazil,17.93,10:33 PM,8/23/2025,true
+AZ9387,Van,Leonardo da Vinci International,Ipoh,Malaysia,Charles de Gaulle,Cork,Ireland,5.96,6:40 AM,9/8/2025,true
+BA7761,Xenia,Heathrow,Tomelilla,Sweden,Amsterdam Airport Schiphol,Bolou,Indonesia,3.78,8:13 PM,12/28/2025,true
+AF5997,Rakel,Charles de Gaulle,Drochia,Moldova,Frankfurt Airport,Nakhon Pathom,Thailand,17.87,11:21 PM,8/7/2025,false
+AZ1212,Graehme,Leonardo da Vinci International,Eira da Pedra,Portugal,Charles de Gaulle,Del Valle,Mexico,14.26,11:07 PM,7/11/2025,true
+IB9380,Ashla,Adolfo Suárez Madrid–Barajas,Patenongan,Indonesia,Charles de Gaulle,Mococa,Brazil,9.88,7:02 PM,3/27/2026,true
+LH9617,Zonda,Frankfurt Airport,Pau,France,Amsterdam Airport Schiphol,Pizhma,Russia,12.53,7:46 AM,7/31/2025,true
+TG1140,Renaud,Suvarnabhumi,Haveliān,Pakistan,Toronto Pearson,Vostryakovo,Russia,17.78,1:50 AM,5/11/2025,true
+SK1308,Timothee,Copenhagen Airport,Ariz,Portugal,Charles de Gaulle,Firavitoba,Colombia,6.17,7:11 PM,1/30/2026,true
+LA7781,Lindsey,São Paulo/Guarulhos International,Ebak,Indonesia,Ministro Pistarini International,San Rafael Petzal,Guatemala,13.1,11:56 AM,1/4/2026,false
+SQ4857,Helaina,Changi,La Luz,Venezuela,Vienna International,Paris La Défense,France,12.22,5:05 PM,12/16/2025,true
+SK2122,Theodore,Copenhagen Airport,Flin Flon,Canada,Charles de Gaulle,Sidorejo,Indonesia,1.36,2:26 AM,11/15/2025,true
+EK1275,Alister,Dubai International,Hernani,Philippines,Hamad International,Imeni Babushkina,Russia,15.65,2:00 AM,3/29/2026,true
+IB4981,Lorraine,Adolfo Suárez Madrid–Barajas,Арачиново,Macedonia,Ministro Pistarini International,Takum,Nigeria,13.9,1:43 AM,6/10/2025,true
+LA3834,Beilul,São Paulo/Guarulhos International,Vale,Portugal,Ministro Pistarini International,Sępopol,Poland,11.84,4:48 PM,6/27/2025,false
+QF6834,Anselma,Sydney Airport,Athi River,Kenya,Hong Kong International,Longsha,China,6.48,4:39 AM,5/2/2025,true
+AM8507,Lin,Benito Juárez International,Ban Phai,Thailand,O'Hare International,Ganchazi,China,22.27,12:05 AM,7/8/2025,true
+AV4715,Eugenia,El Dorado International,Toulouse,France,O'Hare International,Besisahar,Nepal,11.12,9:48 AM,7/11/2025,false
+WN8288,Sybyl,Los Angeles International,Voyutychi,Ukraine,Vancouver International,Bulqizë,Albania,3.75,4:02 AM,11/23/2025,false
+AA8058,Cecilla,John F. Kennedy International,Arinos,Brazil,Hartsfield-Jackson Atlanta,Jiaoxie,China,3.88,10:43 PM,11/12/2025,false
+AM9841,Terencio,Benito Juárez International,Craigavon,United Kingdom,O'Hare International,São Miguel dos Campos,Brazil,18.83,7:05 PM,4/11/2026,false
+AC9505,Hayward,Toronto Pearson,Datong,China,John F. Kennedy International,Berëzovyy,Russia,2.13,5:15 PM,11/29/2025,true
+AM3158,Allene,Benito Juárez International,Huajialing,China,O'Hare International,Los Angeles,United States,13.5,7:01 PM,2/7/2026,false
+QR7315,Fran,Hamad International,Funes,Colombia,Jomo Kenyatta International,Mortka,Russia,6.44,7:13 PM,4/2/2026,true
+AV9889,Verna,El Dorado International,Daqiao,China,O'Hare International,Borlänge,Sweden,10.14,6:56 PM,7/19/2025,true
+QF5679,Alethea,Sydney Airport,Santa Cruz del Norte,Cuba,Melbourne Airport,Wilmington,United States,12.92,12:26 AM,5/7/2025,true
+SQ8042,Esdras,Changi,Shuiying,China,Beijing Capital International,Dolní Čermná,Czech Republic,17.79,12:06 PM,12/3/2025,false
+AF9644,Aurthur,Charles de Gaulle,Lyon,France,Frankfurt Airport,Segezha,Russia,17.63,2:37 AM,5/10/2025,false
+LA5144,Delmor,São Paulo/Guarulhos International,Catungawan Sur,Philippines,Jomo Kenyatta International,Göteborg,Sweden,5.78,1:43 PM,10/28/2025,true
+QF6243,Stanwood,Sydney Airport,Karangpapak,Indonesia,Melbourne Airport,Quinta,Portugal,18.77,3:17 PM,10/9/2025,true
+AV1063,Bartel,El Dorado International,Ardazubre,Portugal,Changi,Almafuerte,Argentina,17.87,4:36 AM,9/7/2025,false
+AV2580,Gino,El Dorado International,Humpolec,Czech Republic,O'Hare International,Poja Nae,Indonesia,1.7,3:45 AM,6/24/2025,false
+QF9447,Novelia,Sydney Airport,Stepnogorsk,Kazakhstan,Melbourne Airport,San Andrés,Panama,11.68,12:39 PM,4/30/2025,false
+AF7900,Jaymee,Charles de Gaulle,Boje,Nigeria,Frankfurt Airport,Menghai,China,18.86,12:51 AM,6/6/2025,false
+SA5308,Coralyn,O.R. Tambo International,Kedungdowo,Indonesia,Charles de Gaulle,Energeticheskiy,Kazakhstan,22.97,10:31 AM,11/18/2025,false
+AZ7278,Abba,Leonardo da Vinci International,Georgetown,Gambia,Charles de Gaulle,Wiesbaden,Germany,18.39,2:08 AM,12/28/2025,true
+AF2783,Rad,Charles de Gaulle,Ngulakan,Indonesia,Frankfurt Airport,Shanhou,China,1.44,3:20 PM,9/2/2025,false
+QF5738,Aubrey,Sydney Airport,Shizuoka-shi,Japan,Melbourne Airport,Kraśnik,Poland,23.15,11:49 AM,3/15/2026,false
+ET8753,Denney,Bole International,Kampunglistrik,Indonesia,Hamad International,Ostankinskiy,Russia,12.42,3:46 AM,6/8/2025,false
+SQ7868,Joshia,Changi,Ampelgading,Indonesia,Beijing Capital International,Melbourne,United States,16.03,7:11 AM,11/13/2025,false
+BA7041,Angelina,Heathrow,Suchy Dąb,Poland,Charles de Gaulle,Laguna Paiva,Argentina,13.09,9:40 AM,8/25/2025,true
+DL5104,Windy,John F. Kennedy International,Ciklapa,Indonesia,Hartsfield-Jackson Atlanta,Fengyan,China,17.59,5:48 PM,11/5/2025,false
+NZ8553,Anne,Auckland Airport,Pokrovskoye,Russia,Sydney Airport,Ipojuca,Brazil,20.85,10:11 AM,10/5/2025,true
+NZ8955,Fabiano,Auckland Airport,Dukla,Poland,Suvarnabhumi,Suzhou,China,14.58,8:03 PM,1/22/2026,true
+BA6203,Heath,Heathrow,Manlio Fabio Altamirano,Mexico,Charles de Gaulle,Leninskiy,Russia,10.28,9:32 AM,4/3/2026,false
+QR4953,Laverne,Hamad International,Nueva Loja,Ecuador,Bole International,Retorta,Portugal,15.66,2:44 PM,9/21/2025,false
+SK2434,Budd,Copenhagen Airport,Codoi,China,Charles de Gaulle,Bom Jesus da Lapa,Brazil,11.59,5:35 AM,2/11/2026,false
+QR1777,Judye,Hamad International,Mujães,Portugal,Zurich Airport,Santa Lucía Cotzumalguapa,Guatemala,12.39,11:54 AM,4/22/2026,true
+SA4414,Corrie,O.R. Tambo International,Newton,United Kingdom,Chhatrapati Shivaji International,Xietang,China,12.72,2:37 PM,1/20/2026,true
+SK4478,Averil,Copenhagen Airport,Quimilí,Argentina,Heathrow,Stockholm,Sweden,12.91,8:26 AM,4/4/2026,true
+AZ7021,Sherie,Leonardo da Vinci International,Aguitu,China,Charles de Gaulle,Pābna,Bangladesh,19.43,9:12 PM,4/3/2026,true
+QR6792,Nannette,Hamad International,Mae Ramat,Thailand,Bole International,Obiliq,Kosovo,17.54,4:08 AM,2/1/2026,true
+AV4742,Finlay,El Dorado International,Calasgasan,Philippines,Miami International,Miras,Albania,5.93,5:30 AM,2/2/2026,true
+AM3367,Rochell,Benito Juárez International,Ferreira do Zêzere,Portugal,O'Hare International,Delingha,China,17.78,8:42 AM,2/21/2026,true
+AI2550,Mendel,Indira Gandhi International,Za‘tarah,Palestinian Territory,Chhatrapati Shivaji International,Wengyang,China,7.75,9:09 AM,5/1/2025,true
+AF6122,Skippie,Charles de Gaulle,Le Teil,France,Brisbane Airport,Kryry,Czech Republic,1.34,3:34 PM,8/26/2025,false
+CX9277,Brunhilde,Hong Kong International,Yangping,China,Charles de Gaulle,Veinticinco de Mayo,Argentina,22.51,10:13 AM,3/14/2026,true
+WN1940,Desmund,Los Angeles International,Hengshan,China,O'Hare International,Macheng,China,19.47,11:15 AM,3/23/2026,false
+LA1344,Edee,São Paulo/Guarulhos International,Pavlovka,Russia,Ministro Pistarini International,Zhaixi,China,23.82,8:36 PM,2/6/2026,true
+WN2783,Cristin,Los Angeles International,Pangal Sur,Philippines,San Francisco International,Lunyuk Ode,Indonesia,23.77,9:45 AM,7/10/2025,false
+BA9137,Heinrick,Heathrow,Duvergé,Dominican Republic,Munich Airport,Yeliguan,China,4.57,4:36 PM,11/23/2025,true
+SA6231,Addie,O.R. Tambo International,Hoi,Indonesia,Charles de Gaulle,Boituva,Brazil,10.4,12:34 AM,10/20/2025,false
+CX8353,Noami,Hong Kong International,St. Thomas,Canada,Changi,Aş Şalw,Yemen,11.85,1:26 PM,3/2/2026,false
+EK2700,Wynny,Dubai International,Ngô Đồng,Vietnam,Hamad International,Qarchī Gak,Afghanistan,14.72,10:18 AM,11/4/2025,true
+AF9216,Ab,Charles de Gaulle,Daweishan,China,Frankfurt Airport,Dadeldhurā,Nepal,8.66,10:01 PM,4/16/2026,false
+LH4045,Armin,Frankfurt Airport,Tamansari,Indonesia,Charles de Gaulle,Malangabang,Philippines,23.2,12:14 AM,1/8/2026,true
+CX9713,Roddy,Hong Kong International,Murmansk,Russia,Changi,Rokietnica,Poland,14.31,7:18 PM,9/7/2025,true
+NH8398,Khalil,Haneda,Cedar Rapids,United States,Incheon International,Ćićevac,Serbia,16.72,8:14 AM,11/30/2025,false
+WN8596,Jeremy,Los Angeles International,Uyovu,Tanzania,San Francisco International,Bidyā,Palestinian Territory,5.76,10:15 AM,1/13/2026,false
+EK1809,Damian,Dubai International,Yanaul,Russia,Hamad International,Ruzayevka,Russia,1.52,7:41 PM,9/27/2025,true
+AM4620,Vinnie,Benito Juárez International,Ronggo,Indonesia,O'Hare International,Poxi,China,20.13,3:10 PM,5/23/2025,true
+AA2277,Gil,John F. Kennedy International,Abuochiche,Nigeria,Hartsfield-Jackson Atlanta,København,Denmark,6.02,11:39 AM,7/6/2025,false
+AZ5490,Pall,Leonardo da Vinci International,Taiping,China,Charles de Gaulle,Philadelphia,United States,6.62,9:41 AM,6/1/2025,false
+AA6628,Irving,John F. Kennedy International,Charlottenberg,Sweden,Hartsfield-Jackson Atlanta,Linköping,Sweden,5.95,2:58 PM,9/1/2025,false
+NH2468,Britni,Haneda,Ţahţā,Egypt,Incheon International,Alcaldedíaz,Panama,20.89,10:43 PM,8/24/2025,false
+QF1344,Alameda,Sydney Airport,Zouérat,Mauritania,Melbourne Airport,Daping,China,18.33,12:35 PM,7/12/2025,true
+SQ1972,Leontine,Changi,Changuillo,Peru,Beijing Capital International,Bailu,China,8.73,11:26 PM,2/22/2026,false
+KE5048,Lennie,Incheon International,Tovačov,Czech Republic,Haneda,Huangqiao,China,8.86,12:46 PM,11/6/2025,false
+ET6816,Fax,Bole International,Baojiadian,China,Hamad International,Qili,China,15.47,3:52 PM,2/11/2026,true
+CX3985,Kalina,Hong Kong International,Byerazino,Belarus,Frankfurt Airport,Niedrzwica Duża,Poland,15.52,1:30 AM,11/20/2025,true
+LA5763,Wilt,São Paulo/Guarulhos International,Jingtan,China,Ministro Pistarini International,Gresik,Indonesia,11.33,6:04 PM,9/24/2025,false
+EK9741,Louise,Dubai International,Podwilk,Poland,Hamad International,Shashi,China,14.92,5:56 PM,5/3/2025,true
+AM3278,Dana,Benito Juárez International,Matsubase,Japan,O'Hare International,Erong,China,10.64,2:37 PM,6/21/2025,false
+NH1283,Burke,Haneda,Zhuting,China,Incheon International,Ujung,Indonesia,7.54,8:03 AM,8/24/2025,true
+LA5763,Korrie,São Paulo/Guarulhos International,Gedangan,Indonesia,Ministro Pistarini International,Jiangjing,China,10.47,7:35 AM,12/6/2025,true
+KE4109,Nikos,Incheon International,Cosne-Cours-sur-Loire,France,Hong Kong International,Korenëvo,Russia,18.11,3:21 AM,8/5/2025,false
+TG3656,Mireielle,Suvarnabhumi,Bohicon,Benin,Changi,Kuzhuping,China,23.57,6:31 AM,1/5/2026,true
+SQ4591,Hazlett,Changi,Tallbīsah,Syria,Bole International,Wantan,China,13.31,4:26 PM,10/29/2025,false
+AZ6288,Carlye,Leonardo da Vinci International,Dakoutun,China,Charles de Gaulle,Lezhë,Albania,1.91,4:26 PM,6/15/2025,true
+KL4943,Wynne,Amsterdam Airport Schiphol,Shouzhan,China,Charles de Gaulle,Pakapasan Ilir,Indonesia,19.41,3:51 PM,5/13/2025,true
+NZ8766,Morrie,Auckland Airport,Las Vegas,United States,Sydney Airport,Asen,Bulgaria,5.08,3:42 PM,8/4/2025,false
+LH6949,Erda,Frankfurt Airport,Cincinnati,United States,Charles de Gaulle,Mtwango,Tanzania,23.32,9:03 AM,11/11/2025,true
+UA7107,Alvan,Los Angeles International,Thủ Thừa,Vietnam,Hartsfield-Jackson Atlanta,Shanhaiguan,China,15.05,1:49 AM,2/5/2026,false
+SK8067,Roddie,Copenhagen Airport,Airdrie,Canada,Charles de Gaulle,Partang,China,7.79,4:12 AM,5/6/2025,false
+AV1217,Emmit,El Dorado International,Sukkozero,Russia,O'Hare International,San Antonio,Argentina,9.18,1:52 PM,12/20/2025,true
+NZ9000,Tamar,Auckland Airport,Atães,Portugal,Munich Airport,Tver,Russia,11.25,9:29 PM,11/26/2025,false
+EK3918,Misti,Dubai International,Vitry-le-François,France,Kuala Lumpur International,Kamensk-Shakhtinskiy,Russia,10.43,1:48 PM,6/11/2025,true
+QR6265,Nataniel,Hamad International,Kamensk-Shakhtinskiy,Russia,Leonardo da Vinci International,Popovice,Czech Republic,10.88,6:03 PM,6/20/2025,false
+KL5381,Dur,Amsterdam Airport Schiphol,Sanli,China,Frankfurt Airport,Lohong,Indonesia,3.61,5:06 AM,6/4/2025,true
+QF5081,Daisy,Sydney Airport,Bieniewice,Poland,Melbourne Airport,Durrës,Albania,23.0,12:56 PM,8/7/2025,false
+AA4410,Kalindi,John F. Kennedy International,Penedo,Portugal,Leonardo da Vinci International,San Antonio,Philippines,15.15,6:58 AM,12/30/2025,true
+AV4492,Mellie,El Dorado International,Bautista,Philippines,Hamad International,Gaoxing,China,9.58,1:47 PM,8/13/2025,true
+WN1265,Callie,Los Angeles International,Youhao,China,Vancouver International,Hrušica,Slovenia,19.3,10:44 AM,7/28/2025,false
+SK6983,Dimitri,Copenhagen Airport,General Alvear,Argentina,São Paulo/Guarulhos International,El Zapote,Mexico,18.88,11:20 PM,4/19/2026,false
+TG6736,Willdon,Suvarnabhumi,El Fahs,Tunisia,Changi,Yashalta,Russia,7.38,1:03 AM,8/10/2025,false
+CX9201,Wylma,Hong Kong International,Gigant,Russia,Changi,Pilar,Philippines,11.47,12:08 PM,9/30/2025,false
+LH4249,Lynna,Frankfurt Airport,Abejorral,Colombia,Charles de Gaulle,Ukmerge,Lithuania,19.61,8:55 PM,11/10/2025,false
+IB3773,Phaedra,Adolfo Suárez Madrid–Barajas,Huozhuangzi,China,Charles de Gaulle,Kangar,Malaysia,20.2,10:23 PM,5/11/2025,true
+QR1871,Arman,Hamad International,Czarna Białostocka,Poland,Jomo Kenyatta International,San Marcos,Colombia,3.12,6:46 AM,2/23/2026,false
+AV4396,Brendin,El Dorado International,Kabin Buri,Thailand,O'Hare International,Bulu,Philippines,18.3,6:01 PM,1/14/2026,false
+KE7093,Baudoin,Incheon International,Pasonobenu,Indonesia,Haneda,Namangan,Uzbekistan,19.76,1:34 PM,12/24/2025,true
+AV8569,Shep,El Dorado International,Walagar,Indonesia,O'Hare International,Maguilling,Philippines,23.53,3:42 AM,12/9/2025,false
+EK9909,Cherida,Dubai International,Andongsari,Indonesia,Hamad International,Bununu Dass,Nigeria,12.75,9:15 PM,10/26/2025,true
+NH1537,Jenine,Haneda,Penedono,Portugal,Changi,Bamban,Philippines,11.14,9:19 PM,5/11/2025,false
+AF8339,Vlad,Charles de Gaulle,Starobaltachevo,Russia,Frankfurt Airport,Qinjia,China,10.03,8:31 PM,3/17/2026,false
+LA9661,Newton,São Paulo/Guarulhos International,Rognedino,Russia,Hartsfield-Jackson Atlanta,Göteborg,Sweden,19.21,3:24 AM,10/7/2025,false
+AC9922,Fay,Toronto Pearson,Cikiruh Wetan,Indonesia,Arturo Merino Benítez International,Knežica,Bosnia and Herzegovina,12.14,9:15 AM,9/20/2025,false
+AM9614,Leigh,Benito Juárez International,Yuping,China,O'Hare International,Kīsh,Iran,3.67,4:43 AM,3/21/2026,false
+TG7442,Corrie,Suvarnabhumi,Huangcun,China,Changi,Perfilovo,Russia,6.25,2:00 PM,11/21/2025,false
+AV7161,Freddi,El Dorado International,Garzón,Colombia,O'Hare International,Nice,France,14.82,4:42 AM,1/3/2026,false
+BA6099,Tiffani,Heathrow,Picoto,Portugal,Hamad International,Barão de Melgaço,Brazil,18.03,9:34 AM,8/16/2025,false
+AI6560,Reg,Indira Gandhi International,Luxi,China,Chhatrapati Shivaji International,João Câmara,Brazil,5.83,10:39 PM,7/21/2025,true
+AI6793,Marlon,Indira Gandhi International,Orocué,Colombia,Chhatrapati Shivaji International,Tekstil’shchiki,Russia,12.49,4:34 PM,10/9/2025,false
+QR9185,Olivier,Hamad International,Kampungdesa,Indonesia,Bole International,Horodnytsya,Ukraine,8.36,11:03 PM,9/8/2025,false
+WN2114,Chane,Los Angeles International,Waipukang,Indonesia,San Francisco International,Busdi,Philippines,18.11,4:33 PM,2/5/2026,true
+SK7444,Jobye,Copenhagen Airport,Campo Belo,Brazil,Charles de Gaulle,Kyzyl-Burun,Azerbaijan,8.96,6:33 AM,8/10/2025,false
+AZ1141,Reid,Leonardo da Vinci International,Bairro do Margaça,Portugal,Charles de Gaulle,Castro,Brazil,3.34,6:01 AM,5/27/2025,false
+SK8608,Isabelle,Copenhagen Airport,Le Mans,France,Charles de Gaulle,Belisario Dominguez,Mexico,16.83,6:28 AM,11/27/2025,true
+AZ2467,Yuma,Leonardo da Vinci International,Żarki-Letnisko,Poland,Vienna International,Bangxi,China,9.52,9:13 PM,12/18/2025,true
+CX1637,Enrichetta,Hong Kong International,Chekmagush,Russia,Changi,Tangkeng,China,19.58,9:00 AM,4/9/2026,true
+BA7461,Philippe,Heathrow,Karangmulya,Indonesia,Bole International,Shouxihu,China,13.27,6:33 PM,12/15/2025,false
+TG6258,Auroora,Suvarnabhumi,Armash,Armenia,Changi,Jagodina,Serbia,18.86,2:57 PM,4/8/2026,true
+WN3451,Earl,Los Angeles International,Municipio de Copacabana,Colombia,Jomo Kenyatta International,Solsona,Philippines,14.16,4:21 AM,1/13/2026,false
+IB8996,Tess,Adolfo Suárez Madrid–Barajas,Argavand,Armenia,Charles de Gaulle,Guder Lao,Indonesia,2.61,9:47 PM,10/4/2025,false
+KE9760,Merle,Incheon International,Moulay Abdallah,Morocco,Jorge Chávez International,Rybatskoye,Russia,10.3,1:24 PM,8/19/2025,true
+WN5098,Albrecht,Los Angeles International,Gornji Breg,Serbia,San Francisco International,Al Hilāliyya,Sudan,23.33,4:41 AM,9/17/2025,true
+SK3823,Dedie,Copenhagen Airport,Dongxi,China,Charles de Gaulle,Paris 03,France,13.53,10:55 PM,11/3/2025,true
+KE6728,Templeton,Incheon International,Wairiang,Indonesia,Bole International,El Marañón,Honduras,17.57,10:30 AM,3/19/2026,false
+AC9935,Mellicent,Toronto Pearson,Ulaanbaatar,Mongolia,Vancouver International,Lavras da Mangabeira,Brazil,10.97,5:06 PM,11/28/2025,false
+KL1922,Brandie,Amsterdam Airport Schiphol,Būr Safājah,Egypt,Adolfo Suárez Madrid–Barajas,Miami,United States,20.41,8:17 PM,6/27/2025,false
+DL3294,Lona,John F. Kennedy International,Energodar,Ukraine,Hartsfield-Jackson Atlanta,Betulia,Colombia,5.65,4:12 PM,7/12/2025,false
+LA2996,Berni,São Paulo/Guarulhos International,Sotomayor,Bolivia,Ministro Pistarini International,Temuji,Indonesia,23.44,3:15 AM,11/5/2025,true
+BA7889,Geoffry,Heathrow,Shejiang,China,Charles de Gaulle,San Pedro One,Philippines,9.42,4:01 AM,8/29/2025,true
+KL3207,Nance,Amsterdam Airport Schiphol,Mulong,China,Vienna International,Tange Zhen,China,3.97,12:05 AM,3/24/2026,true
+BA9701,Yasmin,Heathrow,Baipenzhu,China,Charles de Gaulle,Nevyts’ke,Ukraine,16.6,10:08 PM,3/29/2026,true
+EK2830,Silvia,Dubai International,Sumberjo,Indonesia,Chhatrapati Shivaji International,Ishim,Russia,4.83,5:41 AM,1/9/2026,true
+AA1004,Jaymee,John F. Kennedy International,Sérifos,Greece,Hartsfield-Jackson Atlanta,Salvador,Brazil,19.51,8:48 PM,4/20/2026,false
+LH3591,Luce,Frankfurt Airport,Kafr ad Dīk,Palestinian Territory,Charles de Gaulle,Zagazig,Egypt,9.65,8:18 PM,3/10/2026,true
+SQ7261,Kaile,Changi,Tsimkavichy,Belarus,Beijing Capital International,Bueng Sam Phan,Thailand,7.74,4:18 AM,6/26/2025,false
+DL3866,Colver,John F. Kennedy International,Kalate,Indonesia,Hartsfield-Jackson Atlanta,Gongju,South Korea,2.57,12:50 PM,2/18/2026,true
+DL4833,Agace,John F. Kennedy International,Rafaḩ,Egypt,Hartsfield-Jackson Atlanta,Guamal,Colombia,17.32,5:49 AM,12/4/2025,true
+LH4339,Husain,Frankfurt Airport,Capelinha,Brazil,Charles de Gaulle,Sho’rchi,Uzbekistan,1.18,1:53 PM,1/23/2026,true
+EK4517,Corina,Dubai International,Triánta,Greece,Hamad International,Pernå,Finland,6.94,10:01 PM,11/29/2025,true
+WN7700,Ransom,Los Angeles International,Nurlat,Russia,San Francisco International,Al Hoceïma,Morocco,6.54,10:54 PM,10/11/2025,true
+BA1442,Piotr,Heathrow,Sandymount,Ireland,Charles de Gaulle,Villa Castelli,Argentina,5.93,11:34 PM,1/16/2026,false
+QR2822,Chane,Hamad International,Bombon,Philippines,Bole International,Guifeng,China,8.15,5:56 AM,4/2/2026,false
+LH2851,Jake,Frankfurt Airport,Steblevë,Albania,Charles de Gaulle,Ugljan,Croatia,11.88,8:39 PM,11/1/2025,false
+IB3428,Vivyan,Adolfo Suárez Madrid–Barajas,Jurovski Dol,Slovenia,Charles de Gaulle,Kushima,Japan,20.32,9:05 PM,8/27/2025,false
+ET8852,Ingamar,Bole International,Otuke,Uganda,Hamad International,Zghartā,Lebanon,15.44,2:52 PM,10/1/2025,false
+IB8190,Kariotta,Adolfo Suárez Madrid–Barajas,San Jose,United States,Charles de Gaulle,Tsévié,Togo,7.0,2:05 PM,9/27/2025,false
+NZ2559,Hilde,Auckland Airport,Huacao,China,Heathrow,Shūsh,Iran,22.98,9:41 AM,2/14/2026,false
+KL2728,Toma,Amsterdam Airport Schiphol,Reston,United States,Charles de Gaulle,Sandata,Russia,9.1,3:33 PM,1/7/2026,false
+ET4581,Deny,Bole International,Sveg,Sweden,Hamad International,Punkaharju,Finland,8.63,4:42 PM,11/7/2025,false
+AF4908,Maye,Charles de Gaulle,Lago dos Rodrigues,Brazil,Frankfurt Airport,Sv. Anton,Slovenia,9.21,7:57 AM,8/26/2025,false
+ET8525,Shelbi,Bole International,Tiznit,Morocco,Jomo Kenyatta International,Tambir,Indonesia,2.43,8:40 PM,2/3/2026,false
+UA6425,Bartel,Los Angeles International,Itacorubi,Brazil,San Francisco International,Tandzut,Armenia,7.85,9:49 PM,1/28/2026,true
+LH1978,Inger,Frankfurt Airport,Qiuchuan,China,Charles de Gaulle,Yanghe,China,15.49,12:56 AM,6/28/2025,true
+AA1630,Jolynn,John F. Kennedy International,Kunduz,Afghanistan,Hartsfield-Jackson Atlanta,Yuhang,China,23.75,2:22 AM,12/25/2025,false
+AA8316,Munmro,John F. Kennedy International,Pali,Indonesia,Hartsfield-Jackson Atlanta,Canauay,Philippines,9.7,2:03 AM,12/19/2025,true
+WN8342,Gratia,Los Angeles International,Australia Square,Australia,Denver International,Hekou,China,9.07,12:20 AM,12/25/2025,true
+DL3021,Tiffany,John F. Kennedy International,Stockholm,Sweden,Hartsfield-Jackson Atlanta,Ruoqiang,China,4.45,2:16 PM,1/5/2026,false
+UA2781,Korney,Los Angeles International,Weixin,China,San Francisco International,Linhó,Portugal,19.89,6:49 AM,4/25/2026,false
+AF7177,Desiri,Charles de Gaulle,Hiji,Japan,Frankfurt Airport,Chengnan,China,16.44,3:56 PM,7/23/2025,true
+AM2718,Manny,Benito Juárez International,Pak Kret,Thailand,O'Hare International,Matango,Indonesia,13.05,9:07 PM,10/17/2025,true
+AC5234,Shalne,Toronto Pearson,Dutsin Ma,Nigeria,John F. Kennedy International,La Unión,Colombia,9.01,2:00 AM,4/16/2026,true
+AZ4746,Jamie,Leonardo da Vinci International,Flushing,United States,Charles de Gaulle,Xiakouyi,China,14.69,6:14 PM,12/19/2025,true
+SK2761,Merrie,Copenhagen Airport,Lubień Kujawski,Poland,Indira Gandhi International,Arbeláez,Colombia,23.96,4:46 AM,4/28/2025,true
+KE5573,Ibby,Incheon International,Krumvíř,Czech Republic,Haneda,Changma,China,1.13,5:23 AM,8/15/2025,false
+SK9628,Ezri,Copenhagen Airport,Načeradec,Czech Republic,Charles de Gaulle,Tigbaw,Philippines,1.63,12:20 AM,10/10/2025,true
+AF9987,Riannon,Charles de Gaulle,Springfield,United States,Arturo Merino Benítez International,Zvenigorod,Russia,3.0,1:41 PM,9/3/2025,false
+TG5404,Berny,Suvarnabhumi,Batangtoru,Indonesia,Changi,El Jem,Tunisia,15.97,5:13 PM,3/1/2026,true
+QF5171,Kris,Sydney Airport,Bila Tserkva,Ukraine,Melbourne Airport,Chengxi,China,18.82,9:45 AM,1/28/2026,false
+DL4619,Creigh,John F. Kennedy International,Ambositra,Madagascar,El Dorado International,Banho e Carvalhosa,Portugal,3.96,3:14 PM,3/10/2026,false
+DL8564,Tiff,John F. Kennedy International,Empório,Greece,Hartsfield-Jackson Atlanta,Mykonos,Greece,10.59,8:04 AM,12/29/2025,true
+WN4815,Maurita,Los Angeles International,Segbwema,Sierra Leone,San Francisco International,Titiakar,Indonesia,18.74,10:03 AM,10/3/2025,false
+LH3478,Mei,Frankfurt Airport,Labinot-Mal,Albania,Charles de Gaulle,Ell,Luxembourg,2.61,2:45 PM,11/22/2025,false
+IB5615,Danit,Adolfo Suárez Madrid–Barajas,Borodino,Ukraine,Charles de Gaulle,Haninge,Sweden,1.23,7:23 PM,6/6/2025,true
+AI2711,Barbara,Indira Gandhi International,Všenory,Czech Republic,Chhatrapati Shivaji International,Gândara de Aquém,Portugal,7.7,8:35 PM,3/3/2026,true
+EK2108,Brose,Dubai International,Momil,Colombia,Hamad International,Otse,Botswana,6.53,7:07 PM,4/14/2026,true
+SA8434,Esra,O.R. Tambo International,Samannūd,Egypt,Charles de Gaulle,Radlje ob Dravi,Slovenia,19.18,6:38 PM,3/9/2026,true
+SQ4020,Maura,Changi,Dolgoderevenskoye,Russia,Beijing Capital International,Fuhe,China,19.78,7:00 PM,8/1/2025,false
+AZ6413,Brad,Leonardo da Vinci International,Shengze,China,Charles de Gaulle,Hitura,Nepal,6.18,12:20 AM,10/14/2025,false
+KL6095,Davon,Amsterdam Airport Schiphol,Landerneau,France,Charles de Gaulle,Susoh,Indonesia,19.64,11:23 PM,4/8/2026,true
+CX9670,Frederique,Hong Kong International,Vermil,Portugal,Changi,Muzi,China,15.96,2:48 PM,8/21/2025,false
+AI9969,Constancia,Indira Gandhi International,El Cubolero,Honduras,Chhatrapati Shivaji International,Donnacona,Canada,21.84,5:44 PM,5/4/2025,true
+WN8234,Brandy,Los Angeles International,Cut-cut Primero,Philippines,Auckland Airport,Narowlya,Belarus,9.57,10:32 PM,9/7/2025,false
+EK8611,Heidie,Dubai International,Wangji,China,Hamad International,Pombal,Brazil,20.93,9:15 AM,10/22/2025,false
+SK2032,Bambie,Copenhagen Airport,Mikhaylovka,Russia,Charles de Gaulle,Yushugou,China,20.1,11:23 AM,10/24/2025,true
+AA8058,Charis,John F. Kennedy International,Gambēla,Ethiopia,Hartsfield-Jackson Atlanta,Nürnberg,Germany,3.88,1:13 PM,3/8/2026,true
+BA8268,Rosalia,Heathrow,Gemena,Democratic Republic of the Congo,Dallas/Fort Worth International,Kyriáki,Greece,10.53,3:06 AM,9/18/2025,true
+UA3003,Orville,Los Angeles International,Chifeng,China,Dallas/Fort Worth International,Mombetsu,Japan,22.57,8:51 PM,11/21/2025,false
+UA6219,Mora,Los Angeles International,Dolní Čermná,Czech Republic,San Francisco International,Chipata,Zambia,4.8,9:26 PM,1/14/2026,false
+SQ2554,Anissa,Changi,Rognedino,Russia,Haneda,San Martín Zapotitlán,Guatemala,16.45,10:44 AM,6/8/2025,true
+AF4739,Leanor,Charles de Gaulle,Babakanbandung,Indonesia,Dubai International,Xuedian,China,8.85,3:10 AM,4/3/2026,false
+SA3812,Tammi,O.R. Tambo International,Nakhodka,Russia,Charles de Gaulle,Jaguaruana,Brazil,23.04,9:38 PM,1/6/2026,true
+NH9125,Roldan,Haneda,Sungaibengkal,Indonesia,Incheon International,Mosteiró,Portugal,1.51,2:51 AM,3/15/2026,true
+AA5996,Priscella,John F. Kennedy International,Khyzy,Azerbaijan,Hartsfield-Jackson Atlanta,Palaran,Indonesia,15.29,1:31 AM,8/15/2025,false
+EK1778,Cassaundra,Dubai International,Sangiang,Indonesia,Munich Airport,Kara-Balta,Kyrgyzstan,3.26,6:05 PM,3/9/2026,true
+AF4268,Aidan,Charles de Gaulle,Uozu,Japan,Frankfurt Airport,Solidaridad,Mexico,11.3,8:40 AM,7/12/2025,false
+QF4202,Felicle,Sydney Airport,Cortes,Philippines,Melbourne Airport,Baculin,Philippines,2.51,11:34 PM,4/6/2026,false
+SK5257,Reinald,Copenhagen Airport,Yangsan,South Korea,Charles de Gaulle,Guohe,China,11.59,12:41 PM,3/10/2026,true
+AI4651,Caressa,Indira Gandhi International,Dogonbadan,Iran,Chhatrapati Shivaji International,Vladislav,Czech Republic,4.43,10:11 PM,8/9/2025,false
+KE8496,Theresa,Incheon International,Shaoyang,China,Sydney Airport,Kangding,China,19.35,3:51 PM,2/15/2026,true
+IB4654,Ibby,Adolfo Suárez Madrid–Barajas,Marelesu,China,Charles de Gaulle,Negla,Indonesia,4.8,7:54 PM,5/16/2025,false
+AV9933,Palmer,El Dorado International,Liaobu,China,O'Hare International,Dolores,Argentina,5.37,5:17 PM,12/18/2025,false
+SK9251,Willi,Copenhagen Airport,Macaíba,Brazil,Charles de Gaulle,Benito Juarez,Mexico,1.28,12:33 PM,8/27/2025,true
+ET7552,Traver,Bole International,Massy,France,Hamad International,Suodenniemi,Finland,21.61,12:11 PM,2/16/2026,false
+AI3081,Gran,Indira Gandhi International,Liangnong,China,Hong Kong International,Bungu,Tanzania,3.8,1:51 PM,7/20/2025,true
+DL4448,Angie,John F. Kennedy International,Pocokan Satu,Indonesia,Hartsfield-Jackson Atlanta,Biliri,Nigeria,2.27,3:25 PM,8/28/2025,false
+BA5740,Clo,Heathrow,Vil’nyans’k,Ukraine,Charles de Gaulle,Povarovo,Russia,19.69,4:44 PM,11/3/2025,false
+ET3932,Briney,Bole International,Río Bueno,Chile,Leonardo da Vinci International,Huicungo,Peru,20.19,9:06 AM,5/10/2025,false
+QR2424,Shell,Hamad International,Punata,Bolivia,Bole International,Bukabu,Indonesia,20.8,4:27 AM,3/15/2026,true
+SK5342,Dorena,Copenhagen Airport,Zhangjiawo,China,Charles de Gaulle,Vostochnyy,Russia,5.08,3:21 PM,3/7/2026,false
+KL6659,Bunnie,Amsterdam Airport Schiphol,Las Heras,Argentina,Charles de Gaulle,San Martín Zapotitlán,Guatemala,22.51,10:39 PM,9/18/2025,true
+QF2246,Arlie,Sydney Airport,Uherce Mineralne,Poland,Chhatrapati Shivaji International,Sietesz,Poland,21.17,10:33 AM,10/12/2025,true
+NZ9667,Phedra,Auckland Airport,Eauripik,Micronesia,Hong Kong International,Koło,Poland,10.81,10:45 PM,9/3/2025,true
+AM6576,Agata,Benito Juárez International,Rogóźno,Poland,Los Angeles International,Torreira,Portugal,1.02,3:17 PM,5/11/2025,false
+EK5205,Kym,Dubai International,Sorongan,Indonesia,Hamad International,Pujiang,China,6.24,4:27 AM,9/5/2025,false
+LH8174,Thornie,Frankfurt Airport,Duas Igrejas,Portugal,Charles de Gaulle,Linjiang,China,15.04,9:03 PM,3/20/2026,false
+QF2795,Jasmina,Sydney Airport,Warudoyong,Indonesia,Melbourne Airport,Alemanguan,Philippines,18.31,3:47 PM,9/29/2025,true
+CX3889,Curt,Hong Kong International,Pasirlimus,Indonesia,Changi,Nelspruit,South Africa,14.94,8:10 PM,12/18/2025,true
+AF8413,Beryle,Charles de Gaulle,Al Qurayn,Saudi Arabia,Frankfurt Airport,Ciudad Nueva,Dominican Republic,1.07,11:37 AM,11/1/2025,false
+BA8519,Astrid,Heathrow,Minh Long,Vietnam,Chhatrapati Shivaji International,São Pedro do Estoril,Portugal,9.02,2:55 PM,7/30/2025,false
+SA7408,Letitia,O.R. Tambo International,San Agustín,Honduras,Frankfurt Airport,Belize City,Belize,21.47,11:53 AM,8/27/2025,false
+AC7732,Ruttger,Toronto Pearson,Češinovo,Macedonia,Hartsfield-Jackson Atlanta,Visby,Sweden,7.24,11:03 PM,3/5/2026,true
+LA4985,Renado,São Paulo/Guarulhos International,Landerneau,France,Miami International,Oemanu,Indonesia,19.68,2:12 AM,12/28/2025,true
+UA5154,Salem,Los Angeles International,Sámara,Costa Rica,Jorge Chávez International,Xuanhua,China,8.62,11:44 PM,5/26/2025,true
+UA7107,Fred,Los Angeles International,København,Denmark,Hartsfield-Jackson Atlanta,Thị Trấn Mường Khến,Vietnam,19.85,10:32 AM,5/20/2025,true
+DL8985,Briana,John F. Kennedy International,Bharatpur,Nepal,Jorge Chávez International,Kefar Shemaryahu,Israel,2.21,4:41 PM,8/15/2025,true
+LH7638,Tricia,Frankfurt Airport,Kafr al Labad,Palestinian Territory,Adolfo Suárez Madrid–Barajas,Andrijaševci,Croatia,20.78,5:32 AM,2/24/2026,true
+AC9772,Abagail,Toronto Pearson,Tajerouine,Tunisia,John F. Kennedy International,Gandu,Indonesia,20.01,11:21 AM,9/2/2025,false
+SQ5891,Brent,Changi,Karbinci,Macedonia,Kuala Lumpur International,Angadanan,Philippines,11.55,3:28 PM,1/14/2026,false
+AI8841,Netta,Indira Gandhi International,Bobai,China,Chhatrapati Shivaji International,Shebalino,Russia,13.31,1:47 AM,8/5/2025,true
+WN2848,Jenda,Los Angeles International,Baishan,China,San Francisco International,Longxian,China,13.85,9:47 PM,7/8/2025,true
+SQ9316,Lucian,Changi,Akzhal,Kazakhstan,Beijing Capital International,Lanús,Argentina,19.64,11:04 PM,11/19/2025,false
+IB4367,Daniella,Adolfo Suárez Madrid–Barajas,Yong’an,China,São Paulo/Guarulhos International,Masis,Armenia,2.49,9:47 AM,5/27/2025,true
+AF7900,Skylar,Charles de Gaulle,Saint-Brieuc,France,Frankfurt Airport,Włocławek,Poland,23.6,7:15 AM,10/23/2025,true
+AM8310,Sarajane,Benito Juárez International,Kičevo,Macedonia,O'Hare International,Panjakent,Tajikistan,11.57,6:04 PM,11/29/2025,false
+AC8696,See,Toronto Pearson,Sano,Japan,John F. Kennedy International,Kaliningrad,Russia,3.9,9:22 PM,2/15/2026,true
+BA6603,Gretta,Heathrow,Lanyi,China,Copenhagen Airport,Labrador City,Canada,11.29,1:08 PM,11/10/2025,true
+KL5690,Silvana,Amsterdam Airport Schiphol,Qingzhou,China,Charles de Gaulle,Vazante,Brazil,23.13,5:28 AM,8/21/2025,true
+SK7135,Lynett,Copenhagen Airport,Cayna,Peru,Munich Airport,Kebonan,Indonesia,1.57,9:11 AM,5/14/2025,false
+CX5398,Sally,Hong Kong International,Penco,Chile,Changi,Campinho,Portugal,7.71,3:26 AM,5/14/2025,true
+KE2298,Ban,Incheon International,Porosozero,Russia,Chhatrapati Shivaji International,Ambalavao,Madagascar,23.07,6:40 PM,5/14/2025,true
+AV3548,Jeremie,El Dorado International,Seixezelo,Portugal,O'Hare International,Bayzhansay,Kazakhstan,21.09,3:43 AM,8/7/2025,true
+QR1102,Josey,Hamad International,Linjiang,China,Hartsfield-Jackson Atlanta,Jiannan,China,7.93,10:28 PM,12/1/2025,false
+EK1908,Adelind,Dubai International,Phonsavan,Laos,Copenhagen Airport,Pitumarca,Peru,14.64,5:10 PM,1/27/2026,false
+AC2475,Gannon,Toronto Pearson,Bayanbulag,Mongolia,John F. Kennedy International,Aromashevo,Russia,22.13,4:07 AM,9/28/2025,true
+AA7448,Kassia,John F. Kennedy International,Takeshiken,China,Hartsfield-Jackson Atlanta,Burtunay,Russia,19.87,8:36 AM,3/31/2026,true
+SA3103,Cherye,O.R. Tambo International,Sobral da Abelheira,Portugal,Charles de Gaulle,Hutou,China,21.94,5:10 PM,8/11/2025,true
+SK6935,Diandra,Copenhagen Airport,Cayambe,Ecuador,Toronto Pearson,Imsida,Malta,8.19,11:21 AM,1/13/2026,true
+AC3780,Bettine,Toronto Pearson,Tankhoy,Russia,Hartsfield-Jackson Atlanta,Pégeia,Cyprus,13.39,1:15 AM,9/20/2025,true
+AI1923,Rudy,Indira Gandhi International,Duang,Indonesia,Chhatrapati Shivaji International,Mevo horon,Israel,10.23,8:05 AM,3/28/2026,true
+AC4575,Paola,Toronto Pearson,Barurao,Philippines,Dallas/Fort Worth International,Shaping,China,9.87,2:08 PM,5/11/2025,false
+DL3679,Gal,John F. Kennedy International,Khlung,Thailand,Los Angeles International,Sumusţā as Sulţānī,Egypt,3.07,10:27 PM,6/19/2025,false
+SK1999,Giacopo,Copenhagen Airport,Pyhäselkä,Finland,Munich Airport,Veltruby,Czech Republic,21.34,12:15 AM,9/16/2025,false
+SQ5078,Bernard,Changi,San Antonio Aguas Calientes,Guatemala,Beijing Capital International,Al Kittah,Jordan,16.85,11:48 PM,7/2/2025,true
+WN3039,Garvey,Los Angeles International,Fais,Micronesia,San Francisco International,Lingzhi,China,14.0,2:42 AM,10/18/2025,true
+AF7015,Marys,Charles de Gaulle,Nowy Staw,Poland,Frankfurt Airport,Shibganj,Bangladesh,14.0,5:27 AM,12/15/2025,true
+AZ8666,Suzy,Leonardo da Vinci International,Fort Lauderdale,United States,Charles de Gaulle,Hatava,Belarus,5.23,8:55 PM,8/29/2025,true
+WN2811,Denny,Los Angeles International,Guodu,China,San Francisco International,Rattanaburi,Thailand,20.67,7:53 PM,8/10/2025,true
+NZ9063,Mollee,Auckland Airport,Shuikou,China,Sydney Airport,La Tinguiña,Peru,2.05,11:26 AM,1/20/2026,false
+AA8959,Steffen,John F. Kennedy International,Sanjian,China,O'Hare International,Huddinge,Sweden,20.2,1:17 AM,12/8/2025,true
+IB1120,Madge,Adolfo Suárez Madrid–Barajas,Shaliangzi,China,Charles de Gaulle,Qingxi,China,3.78,10:16 PM,4/2/2026,true
+NH3213,Broderic,Haneda,Nysa,Poland,Incheon International,Hongqi Yingzi,China,18.3,7:02 PM,9/27/2025,true
+CX4113,Lydon,Hong Kong International,Žemaičių Naumiestis,Lithuania,Changi,Qiucun,China,16.22,8:59 AM,1/10/2026,true
+AM4189,Luelle,Benito Juárez International,Xiaji,China,O'Hare International,Nuits-Saint-Georges,France,19.82,12:35 AM,2/27/2026,false
+DL5162,Adria,John F. Kennedy International,Kademangan,Indonesia,Hartsfield-Jackson Atlanta,Steinkjer,Norway,2.16,6:55 AM,12/30/2025,true
+LH7119,Adelbert,Frankfurt Airport,Starigrad,Croatia,Charles de Gaulle,Lisia Góra,Poland,23.2,10:05 PM,10/6/2025,true
+AC6671,Ken,Toronto Pearson,Xianlin,China,John F. Kennedy International,Tsotsin-Yurt,Russia,12.3,6:00 AM,8/18/2025,true
+SA4830,Doug,O.R. Tambo International,Drien Rampak,Indonesia,Bole International,Mingjing,China,15.3,3:24 AM,10/19/2025,false
+AF4188,Sheff,Charles de Gaulle,Amouguer,Morocco,Vienna International,Ntoum,Gabon,19.89,11:14 PM,12/30/2025,true
+LH2907,Erda,Frankfurt Airport,Bualan,Philippines,Charles de Gaulle,Padangan,Indonesia,1.11,12:13 PM,9/12/2025,true
+NZ7909,Annabal,Auckland Airport,Santa María de Jesús,Guatemala,Sydney Airport,Port-Vila,Vanuatu,16.65,6:32 PM,6/9/2025,false
+SK4327,Reeta,Copenhagen Airport,Nzérékoré,Guinea,Charles de Gaulle,Gostyń,Poland,7.74,9:42 AM,12/10/2025,true
+NH7623,Ailene,Haneda,Russkiy,Russia,Incheon International,Bueng Sam Phan,Thailand,7.09,5:36 PM,1/28/2026,false
+BA1907,Tiebout,Heathrow,Bilshivtsi,Ukraine,Frankfurt Airport,Kalangbret,Indonesia,15.5,6:20 AM,6/14/2025,true
+UA8751,Jazmin,Los Angeles International,Herrljunga,Sweden,San Francisco International,Gaoshi,China,10.08,3:03 AM,4/10/2026,true
+LA1461,Pace,São Paulo/Guarulhos International,Stockholm,Sweden,Ministro Pistarini International,Chaoyang,China,20.42,11:04 PM,9/28/2025,true
+DL4421,Valentin,John F. Kennedy International,Watthana Nakhon,Thailand,Hartsfield-Jackson Atlanta,Yuantan,China,8.89,6:27 AM,11/6/2025,true
+LH4196,Klara,Frankfurt Airport,Abóboda,Portugal,Ministro Pistarini International,Rîşcani,Moldova,8.43,8:07 PM,4/20/2026,false
+AI4924,Felicle,Indira Gandhi International,Pointe-à-Pitre,Guadeloupe,Chhatrapati Shivaji International,Tournavista,Peru,2.64,8:10 PM,12/14/2025,false
+AI4651,Timofei,Indira Gandhi International,Bol’shoye Selo,Russia,Chhatrapati Shivaji International,Petiga,Indonesia,7.93,12:40 PM,2/17/2026,true
+SK4469,Kelsey,Copenhagen Airport,Sutton,Ireland,Charles de Gaulle,El Paso,United States,13.83,7:18 PM,11/15/2025,false
+CX3889,Onida,Hong Kong International,Sijunjung,Indonesia,Changi,La Seyne-sur-Mer,France,11.35,6:50 AM,4/11/2026,false
+TG4154,Kimmi,Suvarnabhumi,Limbaži,Latvia,Changi,Igarapé Açu,Brazil,9.8,9:31 PM,2/28/2026,false
+LA5365,Arlina,São Paulo/Guarulhos International,Wanshi,China,Ministro Pistarini International,Chwałowice,Poland,21.42,9:04 PM,6/19/2025,false
+NZ2729,Anallise,Auckland Airport,Dungkek Laok,Indonesia,Haneda,Ferapontovo,Russia,14.13,8:10 PM,5/27/2025,false
+TG4099,Ofilia,Suvarnabhumi,Penedo,Portugal,Brisbane Airport,Halmstad,Sweden,5.66,5:24 PM,1/13/2026,true
+NH3030,Sonia,Haneda,Picassinos,Portugal,Incheon International,San Narciso,Philippines,15.05,5:48 PM,3/11/2026,true
+LA8222,Sunny,São Paulo/Guarulhos International,Arıqıran,Azerbaijan,Ministro Pistarini International,Peruíbe,Brazil,1.02,2:09 AM,10/26/2025,true
+SQ5078,Jarib,Changi,Haradzyeya,Belarus,Beijing Capital International,El Calvario,Mexico,3.28,3:11 AM,2/4/2026,false
+CX1015,Daniel,Hong Kong International,Malonty,Czech Republic,Melbourne Airport,Ribas do Rio Pardo,Brazil,17.92,7:10 PM,12/13/2025,true
+DL6952,Elizabeth,John F. Kennedy International,Zumarraga,Philippines,Hartsfield-Jackson Atlanta,Eido,Portugal,19.09,12:27 PM,5/31/2025,false
+SK9897,Kristoffer,Copenhagen Airport,Chiara,Peru,Amsterdam Airport Schiphol,Xiejiatan,China,19.36,6:46 PM,5/24/2025,false
+SK3409,Ettore,Copenhagen Airport,Đống Đa,Vietnam,Vienna International,Inkerman,Ukraine,4.4,7:28 PM,9/9/2025,true
+AV6310,Felicdad,El Dorado International,Pindamonhangaba,Brazil,O'Hare International,Mulhouse,France,17.94,1:38 PM,9/11/2025,false
+AZ2754,Jerrold,Leonardo da Vinci International,Calebasses,Mauritius,Frankfurt Airport,Břasy,Czech Republic,17.64,7:21 AM,5/5/2025,false
+EK2095,Trudie,Dubai International,Marttila,Finland,Munich Airport,Tsovazard,Armenia,16.96,11:25 AM,1/31/2026,false
+AV3171,Karlyn,El Dorado International,Maribong,Philippines,Jomo Kenyatta International,Forquilhinha,Brazil,22.31,9:11 AM,10/13/2025,false
+SA7414,Sarina,O.R. Tambo International,Daitōchō,Japan,Logan International,Kertapura,Indonesia,13.73,6:40 AM,7/23/2025,false
+SK1678,Mirelle,Copenhagen Airport,Madrid,Spain,Charles de Gaulle,Tuopu,China,20.01,2:25 PM,10/4/2025,true
+QR7454,Berry,Hamad International,Danja,Nigeria,Bole International,Petrikov,Ukraine,20.84,12:44 AM,12/25/2025,true
+NZ9603,Jarrad,Auckland Airport,Arkalyk,Kazakhstan,Sydney Airport,Järfälla,Sweden,19.86,9:20 PM,4/19/2026,true
+DL4692,Ettie,John F. Kennedy International,Horrom,Armenia,Hartsfield-Jackson Atlanta,Hope,Canada,11.8,11:31 AM,8/10/2025,false
+SK2196,Leslie,Copenhagen Airport,Đống Đa,Vietnam,El Dorado International,München,Germany,22.6,5:27 PM,7/28/2025,true
+IB2906,Lemuel,Adolfo Suárez Madrid–Barajas,Heshan,China,Charles de Gaulle,Khŭjand,Tajikistan,23.96,6:58 AM,12/30/2025,false
+LA8505,Hubie,São Paulo/Guarulhos International,Guruafin,Indonesia,Ministro Pistarini International,Tayabo,Philippines,14.5,10:30 PM,1/29/2026,true
+IB9870,Stuart,Adolfo Suárez Madrid–Barajas,Alfonso,Philippines,Charles de Gaulle,Bom Jesus dos Perdões,Brazil,12.02,4:54 AM,3/3/2026,false
+UA3397,Manfred,Los Angeles International,Bernardo Larroudé,Argentina,San Francisco International,Doro Oo,Indonesia,14.62,10:42 PM,10/5/2025,true
+AC3806,Jim,Toronto Pearson,Lyon,France,Hartsfield-Jackson Atlanta,Kołaczyce,Poland,14.4,11:13 PM,1/26/2026,true
+SK4800,Ingmar,Copenhagen Airport,Quintela,Portugal,Charles de Gaulle,Inderka,Russia,9.86,11:13 PM,1/17/2026,false
+NZ6084,Randa,Auckland Airport,Podgornaya,Russia,Sydney Airport,Cabriz,Portugal,21.0,11:58 AM,9/29/2025,false
+AF3759,Shelby,Charles de Gaulle,Yifaquan,China,Vancouver International,Yangzi Jianglu,China,20.55,6:59 AM,5/16/2025,true
+UA5817,Shane,Los Angeles International,Boisbriand,Canada,San Francisco International,Itagibá,Brazil,11.09,10:39 PM,9/30/2025,true
+AZ2754,Christalle,Leonardo da Vinci International,Levashi,Russia,Frankfurt Airport,Jiukeng,China,6.26,6:41 PM,1/20/2026,false
+NH4113,Athena,Haneda,Angadanan,Philippines,Incheon International,Simpang,Indonesia,6.21,1:06 PM,3/19/2026,true
+SQ5037,Ki,Changi,Solnechnoye,Russia,Beijing Capital International,Bañga,Philippines,4.85,10:40 PM,7/25/2025,true
+CX4991,Delia,Hong Kong International,Xieyang,China,Changi,Oleiros,Portugal,19.21,8:44 AM,7/5/2025,false
+TG4154,Jeth,Suvarnabhumi,Lamas,Portugal,Changi,Hengshan,China,22.62,3:18 AM,12/15/2025,true
+SA3103,Isiahi,O.R. Tambo International,Dalakovo,Russia,Charles de Gaulle,Phu Kam Yao,Thailand,12.01,9:46 AM,1/27/2026,false
+NZ2729,Katee,Auckland Airport,Brest,France,Haneda,Flic en Flac,Mauritius,12.16,2:29 PM,2/11/2026,false
+KL5194,Cad,Amsterdam Airport Schiphol,Wailolung,Indonesia,Charles de Gaulle,Bęczarka,Poland,2.55,8:11 AM,11/2/2025,true
+AC8541,Adi,Toronto Pearson,Wushi,China,John F. Kennedy International,Kolsko,Poland,23.24,9:46 AM,11/4/2025,true
+QF4447,Yule,Sydney Airport,Budayuan,China,Melbourne Airport,Xiaruyue,China,8.45,9:03 AM,2/24/2026,true
+AI4967,Henri,Indira Gandhi International,Zlonice,Czech Republic,Chhatrapati Shivaji International,Haolibao,China,1.22,8:48 PM,12/5/2025,true
+IB9376,Elsbeth,Adolfo Suárez Madrid–Barajas,Fangtang,China,Charles de Gaulle,Wonorejo,Indonesia,16.97,10:48 PM,8/16/2025,false
+AI4273,Fitz,Indira Gandhi International,Recarei,Portugal,Chhatrapati Shivaji International,Kaliska,Poland,23.74,2:21 PM,8/9/2025,false
+SA8035,Ruthie,O.R. Tambo International,Pedra Branca,Brazil,Charles de Gaulle,Amerta,Indonesia,23.0,7:34 AM,4/18/2026,true
+QF1138,Roley,Sydney Airport,Cirahab,Indonesia,Leonardo da Vinci International,Ystad,Sweden,4.22,5:21 AM,3/28/2026,false
+LA3771,Bibi,São Paulo/Guarulhos International,Veinticinco de Mayo,Argentina,Hartsfield-Jackson Atlanta,Oeri’u,Indonesia,6.59,11:31 PM,8/15/2025,false
+DL5099,Dewey,John F. Kennedy International,Kāmyārān,Iran,Hartsfield-Jackson Atlanta,Sterlibashevo,Russia,11.08,6:58 PM,12/22/2025,false
+SK9472,Elli,Copenhagen Airport,Cigarogol,Indonesia,Charles de Gaulle,Guacara,Venezuela,23.96,1:27 AM,6/22/2025,false
+SQ1881,Noe,Changi,Weru,Indonesia,Beijing Capital International,Cortinhas,Portugal,23.03,6:04 AM,1/27/2026,true
+AA5655,Anabel,John F. Kennedy International,Všeruby,Czech Republic,Hartsfield-Jackson Atlanta,Chuanbu,China,13.86,1:25 AM,7/10/2025,false
+WN9905,Dawn,Los Angeles International,Aserrí,Costa Rica,San Francisco International,Puwa,China,14.77,8:24 PM,8/29/2025,true
+BA7435,Cami,Heathrow,Cañuelas,Argentina,Frankfurt Airport,Ungca,Philippines,16.59,10:23 AM,10/13/2025,false
+AC2166,Ilsa,Toronto Pearson,Huazhu,China,Miami International,Bayeux,France,22.74,4:07 PM,9/16/2025,true
+TG5091,Corey,Suvarnabhumi,Changjiang,China,Changi,Phibun Mangsahan,Thailand,13.57,4:07 AM,11/5/2025,false
+LH8572,Robin,Frankfurt Airport,Harrison Brook,Canada,Charles de Gaulle,Sierra Imataca,Venezuela,2.95,9:40 PM,3/6/2026,false
+AZ7072,Bevin,Leonardo da Vinci International,Haoxinying,China,Charles de Gaulle,Chuantang,China,17.54,8:18 AM,11/2/2025,true
+AV2185,Giacopo,El Dorado International,Rozvadov,Ukraine,O'Hare International,Jingping,China,23.56,11:06 AM,3/22/2026,false
+TG6233,Elmo,Suvarnabhumi,Taiqing,China,Chhatrapati Shivaji International,Barusuda,Indonesia,5.38,2:21 PM,8/8/2025,true
+DL5099,Dreddy,John F. Kennedy International,Fort Dauphin,Madagascar,Hartsfield-Jackson Atlanta,Napalitan,Philippines,22.12,1:03 AM,4/23/2026,false
+UA5158,Gerti,Los Angeles International,Uwajima,Japan,San Francisco International,Ōtsuki,Japan,6.17,11:47 PM,11/9/2025,true
+KL5073,Madelina,Amsterdam Airport Schiphol,Oeleu,Indonesia,Benito Juárez International,Caxias do Sul,Brazil,9.79,6:03 AM,5/29/2025,true
+LH2907,Shannah,Frankfurt Airport,Gravataí,Brazil,Charles de Gaulle,Szolnok,Hungary,9.19,6:58 PM,3/11/2026,false
+AZ9034,Thorvald,Leonardo da Vinci International,Jiang’an,China,Amsterdam Airport Schiphol,Lenīnskīy,Kazakhstan,12.05,4:29 AM,10/8/2025,false
+ET5759,Tannie,Bole International,Bagou,China,Munich Airport,Guamal,Colombia,15.17,5:12 PM,9/20/2025,false
+NZ4558,Gamaliel,Auckland Airport,Tandag,Philippines,Sydney Airport,Ngluweng Dua,Indonesia,19.34,6:59 AM,5/23/2025,false
+NZ7379,Stella,Auckland Airport,Wairinding,Indonesia,Sydney Airport,Lac-Brome,Canada,1.39,7:08 AM,1/2/2026,false
+KE3943,Hymie,Incheon International,Kampungbaru,Indonesia,Changi,Nangka,Philippines,12.3,2:15 AM,10/25/2025,true
+CX3889,Marcel,Hong Kong International,Pittsburgh,United States,Changi,Cascais,Portugal,4.91,3:17 AM,3/5/2026,false
+ET2811,Gwenny,Bole International,Pappadátes,Greece,Jomo Kenyatta International,Zhishan,China,7.34,4:55 PM,3/19/2026,true
+UA2278,Silas,Los Angeles International,Qishn,Yemen,San Francisco International,Koszarawa,Poland,9.61,8:50 PM,3/9/2026,true
+DL3070,Tina,John F. Kennedy International,Hongshanyao,China,Zurich Airport,Temayang,Indonesia,19.61,5:42 PM,8/25/2025,true
+SK7036,Cathlene,Copenhagen Airport,Matelândia,Brazil,Zurich Airport,Conception Bay South,Canada,17.59,2:01 PM,11/23/2025,false
+QR5172,Jaquenette,Hamad International,Al Majāridah,Saudi Arabia,Bole International,Sambopinggir,Indonesia,3.79,10:06 PM,2/2/2026,true
+AC5234,Selby,Toronto Pearson,Górki Wielkie,Poland,John F. Kennedy International,Modřice,Czech Republic,12.09,5:21 AM,9/5/2025,true
+QR1780,Meade,Hamad International,Bāft,Iran,Bole International,Krosno,Poland,13.82,10:42 PM,11/25/2025,true
+TG9115,Veradis,Suvarnabhumi,Shemonaīkha,Kazakhstan,Changi,Bocowanti,Indonesia,4.04,10:10 AM,9/20/2025,false
+UA3188,Moira,Los Angeles International,Al Miqdādīyah,Iraq,San Francisco International,Ash Shuhadā’,Palestinian Territory,19.3,3:22 PM,9/29/2025,false
+NZ4558,Kliment,Auckland Airport,Sadananya,Indonesia,Sydney Airport,Jilong,China,11.33,7:10 AM,11/1/2025,false
+AV2250,Morganne,El Dorado International,Vũng Tàu,Vietnam,Hartsfield-Jackson Atlanta,Yanqul,Oman,18.73,5:03 PM,1/12/2026,false
+IB1849,Lacey,Adolfo Suárez Madrid–Barajas,Padangtepung,Indonesia,Chhatrapati Shivaji International,Villa María,Argentina,23.65,2:42 AM,7/22/2025,false
+KL7475,Lenore,Amsterdam Airport Schiphol,Sembungin,Indonesia,Kuala Lumpur International,Dzerzhinskiy,Russia,11.27,5:41 PM,10/23/2025,true
+QR8387,Seline,Hamad International,Soroca,Moldova,Bole International,Wadungasri,Indonesia,9.7,1:45 PM,5/30/2025,false
+SK8764,Peggy,Copenhagen Airport,Silvares,Portugal,Bole International,Modot,Mongolia,19.22,4:51 PM,6/17/2025,false
+QR2115,Fax,Hamad International,Lins,Brazil,Bole International,Hepingjie,China,18.45,9:45 AM,7/27/2025,false
+ET5547,Kristofor,Bole International,Ajman,United Arab Emirates,O'Hare International,Tumxuk,China,12.88,9:33 PM,9/11/2025,true
+QF4792,Cobb,Sydney Airport,Cruz,Portugal,Melbourne Airport,Yinghua,China,8.66,9:11 AM,8/11/2025,true
+UA4214,Dory,Los Angeles International,Vershino-Shakhtaminskiy,Russia,San Francisco International,La Dorada,Colombia,10.76,3:05 AM,12/14/2025,false
+QR4927,Wallie,Hamad International,Wasquehal,France,Bole International,Wonosari,Indonesia,18.53,5:20 PM,3/30/2026,true
+SK3399,Lulu,Copenhagen Airport,Sidirókastro,Greece,Charles de Gaulle,Xinglongquan,China,5.76,2:26 PM,8/20/2025,false
+AV8998,Lodovico,El Dorado International,Paris 01,France,O'Hare International,Aloleng,Philippines,3.38,5:53 AM,3/24/2026,true
+IB6191,Kristofor,Adolfo Suárez Madrid–Barajas,Myski,Russia,Charles de Gaulle,Leduc,Canada,2.19,11:53 PM,10/10/2025,true
+SQ9269,Terrance,Changi,La Roche-sur-Yon,France,Beijing Capital International,Muhur,China,23.15,6:03 PM,12/7/2025,true
+KE7989,Rana,Incheon International,Kikerino,Russia,Haneda,Lengji,China,19.18,9:19 PM,8/25/2025,false
+TG6898,Ulrikaumeko,Suvarnabhumi,Yanwan,China,Changi,Sukumo,Japan,14.47,9:35 AM,4/26/2026,false
+AZ7822,Ryan,Leonardo da Vinci International,New York City,United States,Charles de Gaulle,Santa Ana,Argentina,14.13,5:28 AM,7/29/2025,true
+AA8984,Kathye,John F. Kennedy International,Amberd,Armenia,Hartsfield-Jackson Atlanta,Padaan,Indonesia,11.16,2:30 PM,7/11/2025,true
+QF2795,Constantia,Sydney Airport,Kadujajar,Indonesia,Melbourne Airport,Sieroszewice,Poland,3.71,4:16 PM,3/7/2026,false
+ET9521,Lombard,Bole International,Babice,Poland,Hamad International,El Sombrero,Venezuela,16.39,6:08 PM,1/25/2026,false
+QR4584,Lola,Hamad International,Nový Knín,Czech Republic,Arturo Merino Benítez International,Tučepi,Croatia,15.94,1:09 AM,2/20/2026,true
+AI9127,Esma,Indira Gandhi International,Yessentukskaya,Russia,Chhatrapati Shivaji International,Wolfsberg,Austria,14.0,5:37 AM,5/26/2025,false
+TG3623,Collen,Suvarnabhumi,Borås,Sweden,Chhatrapati Shivaji International,Duobao,China,8.41,9:10 AM,3/14/2026,false
+KL3301,Broderick,Amsterdam Airport Schiphol,Paris La Défense,France,Zurich Airport,Świdnica,Poland,14.44,2:14 AM,7/28/2025,false
+NH5280,Martainn,Haneda,Cha’anpu,China,Suvarnabhumi,Kerċem,Malta,18.56,12:36 PM,4/8/2026,true
+TG3467,Manny,Suvarnabhumi,Norfolk,United States,Changi,Baopukang,Indonesia,23.82,4:56 AM,8/21/2025,false
+SQ3780,Keefer,Changi,Maojiadian,China,Beijing Capital International,Beylagan,Azerbaijan,16.77,12:51 PM,7/24/2025,true
+EK7680,Carola,Dubai International,Vakhsh,Tajikistan,Bole International,Shah Alam,Malaysia,9.22,11:38 AM,5/21/2025,true
+TG9120,Cilka,Suvarnabhumi,Contraalmirante Cordero,Argentina,Vancouver International,Nāṟay,Afghanistan,18.32,9:11 AM,11/8/2025,true
+UA2781,Ozzie,Los Angeles International,Agboville,Ivory Coast,San Francisco International,Gampaha,Sri Lanka,14.77,5:16 PM,1/25/2026,false
+ET5654,Lenee,Bole International,Wilwerwiltz,Luxembourg,Vienna International,Gedera,Israel,19.35,8:24 PM,1/1/2026,true
+LA7890,Derk,São Paulo/Guarulhos International,Denton,United States,Ministro Pistarini International,Maroua,Cameroon,17.76,11:15 PM,3/23/2026,true
+WN3451,Barry,Los Angeles International,Okuta,Nigeria,Jomo Kenyatta International,Kinkala,Republic of the Congo,18.56,2:22 AM,4/24/2026,true
+NZ6454,Chancey,Auckland Airport,Baixi,China,Sydney Airport,Harrisburg,United States,10.66,11:53 PM,4/25/2026,false
+NZ8880,Doralynn,Auckland Airport,Joroinen,Finland,Sydney Airport,Leme,Brazil,9.32,12:48 AM,11/28/2025,false
+IB8974,Amy,Adolfo Suárez Madrid–Barajas,Abakan,Russia,Charles de Gaulle,Avignon,France,2.72,5:03 AM,10/21/2025,false
+SA1644,Germaine,O.R. Tambo International,Sar Chakān,Afghanistan,Bole International,Melíti,Greece,14.78,9:01 PM,4/19/2026,true
+SA7375,Dunstan,O.R. Tambo International,Vredenburg,South Africa,Charles de Gaulle,Acas,Peru,19.73,10:05 AM,3/9/2026,true
+DL8764,Wilfred,John F. Kennedy International,Seogeom-ri,South Korea,Hartsfield-Jackson Atlanta,Oebobo,Indonesia,21.13,11:25 PM,9/11/2025,true
+AI1237,Vally,Indira Gandhi International,Scarborough,Trinidad and Tobago,Chhatrapati Shivaji International,Monastir,Tunisia,8.82,12:03 PM,9/21/2025,false
+AZ3116,Joyce,Leonardo da Vinci International,Zhenghu,China,Charles de Gaulle,Makadi Bay,Egypt,4.63,9:16 AM,1/7/2026,false
+KE2644,Dodi,Incheon International,Nis’oni,Indonesia,Beijing Capital International,Yasinya,Ukraine,6.12,8:02 AM,10/16/2025,true
+AV9464,Shay,El Dorado International,Fajões,Portugal,O'Hare International,Dicun,China,2.2,10:01 PM,8/20/2025,false
+LH1345,Kary,Frankfurt Airport,Guinsadan,Philippines,Leonardo da Vinci International,Lasiana,Indonesia,6.05,1:16 PM,5/29/2025,false
+WN2157,Alica,Los Angeles International,Samoljica,Serbia,Seattle-Tacoma International,Likwatang Timur,Indonesia,19.36,8:37 AM,5/17/2025,true
+EK3851,Orella,Dubai International,Jiamaying,China,Frankfurt Airport,Sandur,Faroe Islands,19.9,10:32 PM,1/26/2026,false
+ET7552,Susanetta,Bole International,Cut-cut Primero,Philippines,Hamad International,Penha,Brazil,10.57,10:45 AM,1/2/2026,false
+IB8664,Tabby,Adolfo Suárez Madrid–Barajas,Kyosai,South Korea,Charles de Gaulle,Gowarczów,Poland,5.07,9:31 PM,7/27/2025,true
+DL8835,Bili,John F. Kennedy International,Lokolande,Indonesia,Arturo Merino Benítez International,Las Palomas,Paraguay,4.82,2:56 PM,9/26/2025,false
+AM9841,Roger,Benito Juárez International,Xiabeisi,China,O'Hare International,Kaabong,Uganda,9.48,12:11 PM,3/14/2026,true
+LH9806,Allyson,Frankfurt Airport,Bantaeng,Indonesia,Charles de Gaulle,Slyudyanka,Russia,1.99,10:02 PM,10/9/2025,true
+SK7951,Lyndsie,Copenhagen Airport,Nansha,China,Munich Airport,Bisert’,Russia,7.17,11:32 PM,4/4/2026,true
+UA4657,Ronica,Los Angeles International,Lyon,France,San Francisco International,Pantai Ceuremen,Indonesia,20.66,1:56 PM,8/26/2025,false
+SQ8281,Carney,Changi,Velikiye Borki,Ukraine,Amsterdam Airport Schiphol,Charopó,Greece,22.61,12:21 PM,3/23/2026,true
+AV7022,Conn,El Dorado International,Ocumare de la Costa,Venezuela,O'Hare International,Purwosari,Indonesia,3.87,2:26 AM,10/18/2025,false
+AI2595,Flor,Indira Gandhi International,Valkeakoski,Finland,Chhatrapati Shivaji International,Mouzourás,Greece,18.17,12:11 AM,4/7/2026,false
+AV9896,Venus,El Dorado International,Long Layu,Indonesia,Cape Town International,Erniusuokou,China,10.36,4:55 PM,8/20/2025,false
+KL7475,Cynthia,Amsterdam Airport Schiphol,Beidou,China,Kuala Lumpur International,San Juan de Dios,Costa Rica,21.88,12:16 PM,12/9/2025,false
+DL5874,Adolf,John F. Kennedy International,Lipnica,Poland,Los Angeles International,Tamanan,Indonesia,22.01,7:09 PM,2/9/2026,true
+WN9155,Les,Los Angeles International,Kasiyan,Indonesia,San Francisco International,Novi Šeher,Bosnia and Herzegovina,20.26,3:55 AM,4/29/2025,false
+IB1137,Vinita,Adolfo Suárez Madrid–Barajas,Santa Ana,Guatemala,Hartsfield-Jackson Atlanta,Kamakura,Japan,11.25,5:49 PM,4/28/2025,false
+AV6922,Shae,El Dorado International,Al Qanāyāt,Egypt,O'Hare International,Ilare,Nigeria,6.21,10:08 PM,8/4/2025,false
+EK1355,Tad,Dubai International,Chemal,Russia,Hamad International,Sijing,China,1.08,12:03 PM,5/14/2025,true
+AI6900,Randal,Indira Gandhi International,Rodotópi,Greece,Vienna International,Matagami,Canada,16.85,12:56 AM,11/22/2025,true
+LH5462,Issi,Frankfurt Airport,Suqin Huimin,China,Charles de Gaulle,Nagbalaye,Philippines,19.17,10:47 AM,9/30/2025,false
+UA4308,Abrahan,Los Angeles International,Oldřišov,Czech Republic,Seattle-Tacoma International,Cosne-Cours-sur-Loire,France,3.5,10:12 AM,12/4/2025,false
+SQ1946,Ardath,Changi,Vandœuvre-lès-Nancy,France,Beijing Capital International,Kerbuyan,Indonesia,7.12,8:03 PM,6/9/2025,false
+KE5876,Wood,Incheon International,Mufushan,China,Amsterdam Airport Schiphol,Kuznechnoye,Russia,2.98,2:37 PM,4/25/2026,false
+AI8875,Geri,Indira Gandhi International,Muara Siberut,Indonesia,Chhatrapati Shivaji International,Lāliān,Pakistan,10.33,2:20 AM,11/7/2025,false
+QR2424,Dieter,Hamad International,Futu,China,Bole International,Longhe,China,10.6,6:32 PM,3/30/2026,false
+AV4562,Mae,El Dorado International,Si That,Thailand,O'Hare International,Lianpeng,China,18.42,2:05 PM,8/4/2025,false
+EK5040,Augustina,Dubai International,Legaspi,Philippines,Hamad International,Serrinha,Portugal,18.03,2:02 PM,8/21/2025,true
+AA9121,Willey,John F. Kennedy International,Verkhnye Syn’ovydne,Ukraine,Hartsfield-Jackson Atlanta,Udënisht,Albania,14.65,10:31 AM,12/21/2025,false
+KE9236,Emili,Incheon International,Cikuning,Indonesia,Haneda,Manay,Philippines,7.49,9:12 PM,12/12/2025,true
+AC9723,Melanie,Toronto Pearson,Qutun,China,Vienna International,Maji,China,19.12,10:16 AM,7/27/2025,false
+AI3641,Dinny,Indira Gandhi International,Palmeira,Brazil,Cairo International,Thành Phố Phủ Lý,Vietnam,2.56,11:37 AM,6/14/2025,false
+AV2580,Mirella,El Dorado International,Jindong,China,O'Hare International,Paloh,Indonesia,18.12,11:08 AM,3/15/2026,false
+LA5197,Ford,São Paulo/Guarulhos International,San Diego,Costa Rica,Ministro Pistarini International,Jablonec nad Jizerou,Czech Republic,6.47,1:34 PM,12/25/2025,false
+LA8505,Catharina,São Paulo/Guarulhos International,Caridade,Portugal,Ministro Pistarini International,Seattle,United States,17.64,5:17 AM,3/16/2026,false
+LH4905,Bernita,Frankfurt Airport,Amherstburg,Canada,Munich Airport,Sankera,Nigeria,6.03,1:45 AM,8/16/2025,true
+KE1537,Christiana,Incheon International,Ongi,Mongolia,Changi,Boncis,Indonesia,5.88,3:09 AM,12/6/2025,false
+AF7132,Antin,Charles de Gaulle,Las Vegas,United States,Melbourne Airport,Migrate,United States,4.98,9:00 PM,5/5/2025,false
+BA5112,Kristel,Heathrow,San Isidro,Mexico,Charles de Gaulle,Cansolungon,Philippines,19.05,7:54 PM,4/21/2026,true
+SA9234,Tudor,O.R. Tambo International,Qila Saifullāh,Pakistan,Charles de Gaulle,Al Ḩudaydah,Yemen,6.29,1:38 AM,3/15/2026,false
+AC6343,Joshua,Toronto Pearson,Vilhena,Brazil,San Francisco International,Salor,Uzbekistan,1.31,8:11 AM,4/7/2026,true
+LA5144,Conni,São Paulo/Guarulhos International,Tarbes,France,Jomo Kenyatta International,Cabean,Indonesia,4.24,5:21 AM,3/7/2026,false
+AI1429,Lorelei,Indira Gandhi International,Ust’-Katav,Russia,Dubai International,Nizhnevartovsk,Russia,21.82,6:31 PM,3/11/2026,true
+AI8875,Toby,Indira Gandhi International,Bayzhansay,Kazakhstan,Chhatrapati Shivaji International,Sankanan,Philippines,22.3,4:50 PM,4/5/2026,true
+QF6361,Ethelbert,Sydney Airport,Sakaiminato,Japan,Melbourne Airport,Sanxi,China,17.56,4:39 PM,8/15/2025,false
+NH2995,Sarah,Haneda,Manogay,Afghanistan,Changi,Lundazi,Zambia,2.18,9:36 AM,12/28/2025,true
+NH7193,Emile,Haneda,Bailan,Philippines,Cairo International,Candon,Philippines,11.67,3:20 AM,3/2/2026,false
+UA1914,Mariele,Los Angeles International,Wilwerwiltz,Luxembourg,San Francisco International,Prámanta,Greece,6.32,1:24 AM,5/18/2025,true
+NH2713,Sibyl,Haneda,Ueki,Japan,Incheon International,Lebel-sur-Quévillon,Canada,6.63,4:30 AM,3/12/2026,true
+LA2284,Devlen,São Paulo/Guarulhos International,N’dalatando,Angola,Ministro Pistarini International,Thành phố Bạc Liêu,Vietnam,5.28,5:08 PM,11/28/2025,true
+LA1185,Garwin,São Paulo/Guarulhos International,Katabu,Indonesia,Munich Airport,Moulay Bouchta,Morocco,16.48,5:47 PM,8/18/2025,true
+LA3959,Ailyn,São Paulo/Guarulhos International,Samboan,Philippines,Ministro Pistarini International,Annotto Bay,Jamaica,5.08,12:19 AM,7/18/2025,false
+AA3818,Delores,John F. Kennedy International,København,Denmark,Hartsfield-Jackson Atlanta,Eustaquio Lopez,Philippines,16.58,9:21 AM,10/8/2025,true
+IB8118,Napoleon,Adolfo Suárez Madrid–Barajas,Daping,China,Charles de Gaulle,Luyang,China,4.64,6:16 AM,6/25/2025,false
+AV2744,Tomasine,El Dorado International,Sujji,Mongolia,O'Hare International,Aubergenville,France,6.71,11:50 PM,7/15/2025,true
+NZ1091,Glyn,Auckland Airport,Changqi,China,Sydney Airport,Jietou,China,4.67,5:26 PM,10/9/2025,false
+AM6618,Gwendolin,Benito Juárez International,Dowsk,Belarus,Hartsfield-Jackson Atlanta,Ostrowsko,Poland,13.23,2:01 AM,7/13/2025,true
+QR2866,Giordano,Hamad International,Mandiana,Guinea,Bole International,Xugu,China,10.6,5:52 PM,1/11/2026,true
+SK7279,Wade,Copenhagen Airport,Gubu,China,Zurich Airport,Bandong,China,3.27,8:04 AM,6/19/2025,false
+KL5194,Estella,Amsterdam Airport Schiphol,Toulouse,France,Charles de Gaulle,Ivano-Frankove,Ukraine,12.41,4:48 PM,3/17/2026,true
+DL7850,Jocelin,John F. Kennedy International,Pointe-à-Pitre,Guadeloupe,São Paulo/Guarulhos International,Río Limpio,Dominican Republic,21.59,12:36 PM,1/22/2026,false
+SQ4852,Hansiain,Changi,Araçatuba,Brazil,Frankfurt Airport,Metsovo,Greece,23.94,2:55 PM,10/12/2025,false
+KL8769,Nikola,Amsterdam Airport Schiphol,Saihan Tal,China,Charles de Gaulle,Tonga,Cameroon,1.46,12:49 AM,6/21/2025,true
+AF4644,Layne,Charles de Gaulle,Jianping,China,Stockholm Arlanda,Cumanacoa,Venezuela,10.64,12:20 PM,9/22/2025,true
+NZ3828,Carolyne,Auckland Airport,Sandur,Faroe Islands,Sydney Airport,Saint-Bruno,Canada,7.94,12:12 PM,7/20/2025,false
+AA1361,Levin,John F. Kennedy International,Maoping,China,Leonardo da Vinci International,Tangnan,China,9.05,3:11 AM,5/3/2025,true
+AC3780,Nanice,Toronto Pearson,Şanā’,Yemen,Hartsfield-Jackson Atlanta,Łapczyca,Poland,19.75,7:21 PM,6/25/2025,false
+EK7680,Jenelle,Dubai International,Longquan,China,Bole International,Jiangkou,China,3.03,5:06 PM,8/4/2025,true
+KL5312,Aleda,Amsterdam Airport Schiphol,Santo Ângelo,Brazil,Charles de Gaulle,Al Jadīd,Libya,14.78,3:51 PM,7/12/2025,false
+QR4872,Othilia,Hamad International,Ngudu,Tanzania,Bole International,Otjiwarongo,Namibia,20.04,9:17 AM,3/8/2026,false
+WN7040,Roanne,Los Angeles International,Edsbyn,Sweden,Arturo Merino Benítez International,Zengjia,China,7.47,3:38 AM,5/28/2025,false
+AV8838,Calley,El Dorado International,Ust’-Izhora,Russia,O'Hare International,Khomutovo,Russia,19.02,8:13 AM,10/25/2025,true
+SA1241,Melissa,O.R. Tambo International,Constance,Portugal,Charles de Gaulle,Donan,Indonesia,6.12,7:44 PM,3/4/2026,false
+DL2404,Alessandra,John F. Kennedy International,Hova,Sweden,Hartsfield-Jackson Atlanta,Mazyr,Belarus,4.72,11:05 AM,1/22/2026,true
+SK5197,Ozzy,Copenhagen Airport,Sayansk,Russia,Vienna International,São Paio de Gramaços,Portugal,11.27,11:12 AM,11/29/2025,true
+EK7341,Sonny,Dubai International,Yulong,China,Hamad International,Xiadingjia,China,5.73,7:21 PM,6/24/2025,false
+CX1532,Kacey,Hong Kong International,Shangchewan,China,Beijing Capital International,Goundam,Mali,6.66,11:13 AM,8/17/2025,true
+DL5162,Nollie,John F. Kennedy International,Ourozinho,Portugal,Hartsfield-Jackson Atlanta,Barranqueras,Argentina,19.97,2:36 AM,11/9/2025,false
+NH3141,Jenine,Haneda,Salgar,Colombia,Incheon International,Hetian,China,3.83,3:02 AM,2/25/2026,false
+QF6361,Shannen,Sydney Airport,Tursunzoda,Tajikistan,Melbourne Airport,San Francisco,Mexico,13.79,5:24 AM,10/21/2025,false
+WN3720,Lauree,Los Angeles International,Gushui,China,San Francisco International,Uujim,Mongolia,14.85,11:55 AM,1/31/2026,false
