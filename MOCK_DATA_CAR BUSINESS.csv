@@ -1,0 +1,1001 @@
+car_make,car_model,manufacture_date,mileage,price,color,fuel_type,transmission,engine_size,location,seller_name,listing_date
+Nissan,Pathfinder,4/5/2025,204190,62353.08,white,hybrid,manual,5.2,Apt 1777,Lane Smickle,11/10/2025
+Mitsubishi,Tredia,3/16/2021,381221,1920.08,blue,hybrid,automatic,5.3,Apt 481,Candy Bliven,4/1/2026
+Volvo,XC70,4/2/2013,9238,11153.21,red,gasoline,manual,4.7,16th Floor,Ronald Koch,3/6/2026
+Jaguar,S-Type,11/4/2010,274531,31433.88,silver,electric,manual,1.7,Apt 304,Sherm Cuckson,4/20/2025
+Oldsmobile,Bravada,1/14/2020,229241,14631.23,red,gasoline,automatic,4.4,Room 414,Winnie Trustram,11/21/2025
+Hyundai,Sonata,4/15/2025,289267,20763.8,silver,electric,manual,2.5,Suite 50,Orton Beharrell,6/16/2025
+GMC,Savana 3500,12/1/2011,292768,23204.67,white,gasoline,manual,4.4,Apt 5,Araldo Jerrold,2/4/2026
+Dodge,Ram Van 3500,1/29/2013,445893,82529.04,black,gasoline,manual,1.1,PO Box 61319,Nissy Mostin,9/17/2025
+Ford,Mustang,12/17/2023,136393,18824.22,blue,electric,manual,5.9,Suite 46,Bat Lindermann,10/31/2025
+Mercury,Sable,10/11/2013,318984,5643.39,blue,gasoline,automatic,1.8,Apt 1586,Tabatha Gentery,3/15/2026
+Mercury,Grand Marquis,12/24/2025,57825,50685.48,silver,gasoline,manual,4.5,4th Floor,Dulcea Silvester,12/27/2025
+Mitsubishi,Diamante,6/28/2013,66239,29275.53,silver,electric,manual,5.3,PO Box 78711,Heinrick Henrique,9/13/2025
+Honda,del Sol,3/31/2016,369685,81670.02,red,diesel,automatic,5.3,Room 643,Gilburt Gimblett,4/14/2025
+Chevrolet,Corvette,10/9/2020,304278,83626.02,red,gasoline,manual,4.8,Room 539,Vicky Matuskiewicz,4/17/2026
+Pontiac,Solstice,2/12/2017,47894,53641.01,blue,hybrid,automatic,1.1,Apt 32,Laurene Goodhand,1/9/2026
+Mitsubishi,Challenger,3/25/2014,125861,67242.61,silver,electric,manual,2.6,Apt 1436,Felicia Sampey,8/10/2025
+Dodge,Ram Van 1500,8/8/2019,362857,19847.41,black,hybrid,manual,1.8,Suite 48,Witty Nashe,6/30/2025
+Mitsubishi,3000GT,5/5/2012,281928,38337.86,red,diesel,automatic,3.1,Room 1819,Monika Humbatch,4/10/2026
+GMC,1500,4/1/2021,481263,89890.86,blue,diesel,manual,1.0,Apt 1438,Nydia Simonato,6/17/2025
+Lexus,GS,5/11/2016,162836,62203.07,red,gasoline,manual,2.4,Suite 33,Kipp Pentecost,5/4/2025
+Honda,Prelude,9/16/2014,387013,36434.28,white,gasoline,manual,5.7,Room 1132,Alexi Denzey,9/11/2025
+Nissan,JUKE,1/7/2026,454545,70411.06,red,gasoline,manual,1.0,Suite 19,Hal Axby,10/14/2025
+Toyota,Tacoma,9/27/2021,34360,20323.01,black,hybrid,manual,3.8,18th Floor,Deeyn Toland,5/1/2026
+Honda,Accord,3/18/2017,105777,68228.03,red,diesel,automatic,4.0,Room 304,Gusta Fear,3/18/2026
+Mazda,Navajo,12/6/2013,475036,28560.57,black,hybrid,manual,3.2,Room 385,Gilburt Tellesson,6/10/2025
+Infiniti,Q,4/21/2011,1650,74239.14,blue,diesel,manual,4.5,Apt 1410,Frederigo Deporte,3/18/2025
+Pontiac,Gemini,2/3/2011,77199,68484.99,silver,electric,manual,1.2,11th Floor,Trish Cato,4/26/2026
+Toyota,RAV4,6/4/2018,183339,67094.1,white,diesel,manual,4.8,PO Box 4101,Wyatt Huriche,10/2/2025
+Chrysler,Town & Country,8/14/2012,462720,46821.52,red,gasoline,automatic,5.9,Apt 1658,Sherman McCoughan,4/19/2026
+Dodge,Ram Van 2500,11/1/2010,313032,53883.54,black,electric,manual,4.8,Apt 1851,Mufinella Pallister,2/2/2026
+Ford,Focus,5/2/2020,223937,72895.05,silver,diesel,manual,4.0,Room 1854,Margareta Full,4/1/2026
+Plymouth,Grand Voyager,2/19/2023,75258,16558.9,silver,hybrid,manual,5.0,Room 1720,Henka Shutt,2/15/2026
+Chrysler,Voyager,4/28/2025,350303,84089.27,silver,electric,automatic,1.3,Suite 50,Even Lecordier,6/19/2025
+Cadillac,DeVille,6/18/2011,63486,9665.05,black,gasoline,automatic,5.9,18th Floor,Paul Bugdall,10/27/2025
+Ford,Ranger,6/26/2025,452039,91818.0,blue,diesel,automatic,3.6,Suite 32,Paula Brinklow,12/2/2025
+Buick,Riviera,10/22/2018,47413,23820.94,silver,hybrid,manual,5.7,PO Box 37848,Jerrie Danielovitch,6/23/2025
+Suzuki,Grand Vitara,1/21/2014,271379,89316.89,red,diesel,automatic,2.2,10th Floor,Vinnie Phebey,9/29/2025
+Chevrolet,Aveo,8/15/2025,432829,88640.49,black,gasoline,manual,1.4,Apt 1596,Cathi Gillopp,12/16/2025
+GMC,Canyon,1/1/2012,413720,71754.57,silver,gasoline,automatic,5.8,Suite 88,Pieter Knowling,6/10/2025
+Nissan,Pathfinder,8/1/2020,144891,84731.92,silver,gasoline,manual,4.1,PO Box 80831,Leisha D'Ambrogio,1/27/2026
+Dodge,Ram 2500,6/5/2014,219233,31473.47,blue,hybrid,automatic,2.7,Suite 21,Uriah Calken,1/11/2026
+Jeep,Liberty,1/13/2025,312868,23634.11,red,gasoline,manual,5.1,Apt 76,Rosanne Crummey,4/20/2025
+Dodge,Shadow,6/11/2016,371010,70547.44,blue,diesel,manual,5.3,Suite 55,Baird Hartell,2/3/2026
+Chevrolet,Corvette,7/4/2014,120010,93987.57,silver,diesel,automatic,4.2,Apt 1576,Alano Savary,4/8/2026
+Mercedes-Benz,E-Class,11/22/2017,445432,94996.92,red,gasoline,manual,1.7,Apt 300,Lyell Belhome,12/10/2025
+Dodge,Ram 3500,10/1/2024,331191,77561.38,white,diesel,manual,5.9,Apt 1907,Uriah Stickler,3/13/2025
+Infiniti,Q,9/24/2010,71439,39336.18,red,electric,manual,5.9,Room 1696,Lyndsey Goning,6/15/2025
+Honda,S2000,2/25/2011,169858,36059.17,silver,hybrid,manual,5.0,PO Box 5410,Carey Greenough,11/17/2025
+Isuzu,Trooper,9/23/2022,119910,38938.55,red,electric,automatic,2.9,Apt 1411,Trevor Pollack,1/21/2026
+Land Rover,Discovery Series II,3/23/2022,495526,99744.58,white,hybrid,manual,1.0,Apt 156,Tierney Byfield,11/15/2025
+Mercedes-Benz,SLK-Class,12/16/2010,17444,82614.15,blue,diesel,manual,4.5,19th Floor,Parnell Chipchase,9/3/2025
+Lexus,GX,3/29/2025,479652,69950.32,white,electric,automatic,1.4,Room 1002,Fernando Halleybone,7/14/2025
+GMC,Sierra,8/20/2021,369320,70277.06,white,gasoline,manual,5.2,10th Floor,Dela Gingedale,9/27/2025
+Buick,Electra,5/9/2021,78243,45131.75,blue,diesel,manual,3.1,3rd Floor,Allx Byford,5/28/2025
+Maserati,GranTurismo,7/23/2016,74949,64246.77,red,diesel,manual,5.3,Suite 82,Farr Yglesia,2/2/2026
+BMW,6 Series,9/3/2013,175840,65789.39,black,diesel,automatic,3.8,Apt 1189,Erasmus Whitemarsh,6/5/2025
+Volkswagen,Scirocco,3/4/2013,403115,64338.77,blue,hybrid,automatic,3.1,Room 1814,Waylan Paulton,2/9/2026
+Isuzu,Stylus,3/26/2026,111974,77150.19,black,diesel,automatic,2.5,Apt 1760,Bamby Zimmerman,12/1/2025
+Nissan,Sentra,6/13/2017,186108,90077.7,red,electric,automatic,1.6,Suite 33,Anthiathia Kerin,5/30/2025
+Hyundai,Sonata,8/27/2020,37732,48034.07,blue,diesel,automatic,5.5,15th Floor,Bellina Springell,3/12/2025
+BMW,X5,11/6/2019,13025,95724.88,blue,hybrid,automatic,4.8,19th Floor,Layney Lyons,1/27/2026
+Mazda,Miata MX-5,1/30/2019,284042,13403.46,white,diesel,automatic,4.7,1st Floor,Sully Velasquez,11/5/2025
+Chrysler,Town & Country,4/27/2021,274112,53050.4,silver,hybrid,manual,2.4,11th Floor,Kristen Baggarley,4/15/2026
+Cadillac,Escalade,7/4/2018,444360,70832.18,blue,hybrid,automatic,2.2,Suite 1,Christopher Taffarello,7/9/2025
+Ferrari,California,5/9/2016,188954,52746.88,black,electric,manual,5.9,Apt 283,Edna Whisby,10/17/2025
+Toyota,Prius,2/14/2026,175169,69877.52,red,diesel,automatic,3.0,13th Floor,Ermentrude Ebunoluwa,11/26/2025
+Ferrari,F430,7/22/2019,87139,9384.65,silver,diesel,automatic,5.7,Apt 1533,Archibald Feirn,10/24/2025
+Pontiac,Bonneville,12/28/2016,456991,15342.53,silver,electric,automatic,5.5,5th Floor,Anne Kettlestringes,11/17/2025
+Acura,MDX,11/1/2018,209776,11327.97,silver,diesel,manual,4.0,8th Floor,Ronni Pretor,5/27/2025
+Mercedes-Benz,C-Class,2/24/2022,464258,50760.75,red,diesel,automatic,1.4,Suite 49,Courtney Reggiani,10/14/2025
+Subaru,Loyale,1/21/2024,443388,67343.96,silver,electric,manual,4.6,Suite 47,Launce Bakhrushin,4/24/2026
+Mercury,Sable,10/1/2025,177445,58233.98,silver,gasoline,automatic,1.1,Suite 40,Emile Cheyne,10/18/2025
+Volkswagen,New Beetle,3/17/2021,356924,75842.22,red,gasoline,automatic,4.6,Suite 95,Wendeline Hamlen,4/21/2026
+Mitsubishi,Tredia,12/16/2016,202609,46428.75,blue,diesel,automatic,4.3,19th Floor,Cortie Woodcroft,7/6/2025
+Ford,Expedition,8/31/2015,288013,4857.13,red,gasoline,automatic,4.1,PO Box 17699,Tilda Romer,9/13/2025
+Ford,Tempo,5/17/2018,270477,22528.55,blue,hybrid,manual,5.2,Apt 1915,Blinni Englishby,4/3/2025
+BMW,3 Series,10/29/2013,24717,5654.79,red,gasoline,automatic,5.3,PO Box 39513,Blinnie Skelhorn,2/4/2026
+Mitsubishi,Endeavor,9/9/2017,350002,47136.53,red,diesel,automatic,1.2,20th Floor,Tommie Skayman,5/6/2025
+MINI,Clubman,6/25/2025,32949,73800.94,blue,electric,manual,1.2,6th Floor,Malvina McKniely,11/23/2025
+Ford,Explorer Sport,6/21/2021,14135,40350.43,white,electric,automatic,1.5,PO Box 94725,Massimo Ofield,7/4/2025
+Toyota,Sienna,2/10/2019,213574,73454.38,blue,electric,manual,5.8,17th Floor,Domeniga Predohl,2/11/2026
+Hyundai,Elantra,10/20/2015,199958,3619.25,red,hybrid,manual,3.3,Suite 39,Angelita Treneer,8/28/2025
+Chevrolet,Traverse,8/10/2015,267458,22341.77,white,gasoline,manual,4.4,Suite 91,Rafaello Stithe,7/31/2025
+Lexus,LX,8/10/2018,196749,29835.88,blue,diesel,manual,1.5,7th Floor,Tilda Vaughan,6/20/2025
+Ford,F350,11/17/2018,23184,10591.64,blue,diesel,manual,3.2,10th Floor,Neils Cansdall,12/4/2025
+Volvo,C70,12/10/2025,323296,47186.59,silver,gasoline,automatic,1.8,Apt 1442,Duane Merrill,8/26/2025
+Dodge,Neon,9/1/2022,406886,97840.35,blue,diesel,automatic,6.0,4th Floor,Sibbie Kenwood,4/9/2026
+Toyota,MR2,3/21/2019,197370,81807.55,silver,electric,manual,5.2,PO Box 26715,Christiana Fuzzens,3/23/2026
+Dodge,Neon,5/17/2016,466152,31110.73,blue,electric,automatic,4.8,Room 1509,Carley Todeo,11/6/2025
+Mercedes-Benz,190E,2/4/2014,252777,62483.23,silver,diesel,automatic,3.2,Suite 82,Ludovico Pine,3/25/2026
+Nissan,Quest,1/4/2012,85707,37818.5,black,electric,automatic,3.3,PO Box 43523,Bird Shaul,4/21/2025
+Acura,Legend,3/24/2019,476426,80600.78,white,hybrid,manual,1.9,Apt 478,Eddy Armor,5/1/2025
+Porsche,Carrera GT,10/2/2023,116792,65815.89,red,electric,manual,1.4,PO Box 10941,Milissent Hartford,3/4/2026
+Volkswagen,Golf III,9/5/2013,418817,93507.65,black,gasoline,manual,2.6,Suite 65,Corette Cohan,3/31/2025
+Buick,Regal,2/2/2013,292243,25588.95,black,gasoline,manual,3.0,4th Floor,Godiva MacGillacolm,6/4/2025
+Infiniti,I,11/13/2010,202616,83999.45,black,electric,manual,4.1,Room 622,Jeralee Grishmanov,3/25/2026
+Toyota,Land Cruiser,2/13/2019,80811,63538.82,silver,electric,automatic,4.8,Room 1893,Konrad Blagbrough,9/14/2025
+Saab,9-3,5/24/2019,310440,86316.84,white,gasoline,automatic,1.8,Suite 42,Willyt Troyes,1/12/2026
+Volkswagen,GTI,3/31/2026,299220,40616.08,black,gasoline,automatic,4.7,Room 900,Ailsun Rasper,4/19/2026
+Jaguar,XJ,7/3/2018,220041,79918.14,red,hybrid,automatic,1.0,Room 1221,Khalil Cockitt,1/17/2026
+Toyota,Sienna,9/10/2016,499678,40485.55,silver,electric,automatic,5.7,6th Floor,Janaya Whitney,10/25/2025
+Pontiac,Firebird,3/2/2016,243538,2489.76,red,gasoline,manual,4.8,Apt 804,Blondell Kibbey,1/10/2026
+BMW,X3,11/19/2014,11406,49556.87,black,electric,automatic,3.5,PO Box 16920,Ilene Conklin,2/21/2026
+Pontiac,Bonneville,10/15/2014,321696,2864.45,black,hybrid,manual,3.3,Room 1881,Welsh Rouch,4/21/2025
+Toyota,Sequoia,10/13/2012,255580,62406.77,silver,hybrid,automatic,5.8,Apt 449,Natale Le Blanc,1/1/2026
+Toyota,FJ Cruiser,6/2/2015,206251,83917.76,silver,hybrid,automatic,1.9,Room 1970,Bronny O'Cannavan,7/15/2025
+Lincoln,Continental,10/2/2014,304551,77354.15,black,diesel,automatic,4.9,14th Floor,Germayne Viscovi,7/9/2025
+Ford,Escape,3/6/2023,336654,3856.95,red,electric,automatic,1.5,Apt 872,Nester Millington,6/3/2025
+Toyota,Corolla,9/2/2019,343790,42304.44,white,gasoline,automatic,5.8,Apt 612,Johnath Brassill,2/7/2026
+Saab,900,12/11/2020,74518,49776.53,blue,hybrid,manual,1.8,Suite 6,Ashlen Calven,10/7/2025
+Mercedes-Benz,S-Class,9/10/2010,471310,58656.1,silver,hybrid,automatic,3.4,Room 1989,Jameson Khan,4/17/2026
+Ford,Econoline E150,12/4/2014,68614,60925.74,red,gasoline,automatic,3.9,Room 52,Yves Trevino,4/12/2025
+Ford,E-Series,2/12/2017,208129,97130.33,black,gasoline,manual,5.3,PO Box 2445,Ethe Briand,11/7/2025
+Bentley,Continental,4/16/2023,402799,59156.15,blue,diesel,automatic,2.5,20th Floor,Margaretha Newbegin,7/24/2025
+Ford,E150,12/14/2025,241400,92995.34,blue,gasoline,automatic,1.0,Suite 56,Lona Roddan,2/2/2026
+Toyota,Corolla,11/26/2024,115664,38150.5,blue,diesel,manual,5.5,Room 1145,Peria Vankeev,6/24/2025
+Jeep,Cherokee,8/23/2019,40548,63405.51,silver,electric,manual,4.8,Suite 2,Ranice Saing,9/27/2025
+Mercedes-Benz,S-Class,12/28/2019,472510,70799.73,silver,electric,manual,3.2,10th Floor,Sheree Thorold,3/16/2026
+Mercedes-Benz,600SEL,12/2/2011,319654,78887.49,blue,diesel,automatic,2.2,Room 1048,Phip Christauffour,4/30/2025
+Chevrolet,Equinox,10/23/2017,444073,73052.97,black,electric,manual,2.0,PO Box 61340,Alida Berthod,5/6/2026
+Ford,Aerostar,12/20/2013,224153,72544.94,blue,gasoline,manual,5.0,PO Box 91508,Tom Poile,2/19/2026
+Chevrolet,Venture,11/24/2014,57407,87992.48,white,hybrid,manual,4.5,Apt 1642,Ab ffrench Beytagh,5/1/2026
+Chevrolet,S10,9/15/2012,137732,82536.95,white,electric,automatic,4.0,5th Floor,Leonidas Harriss,1/27/2026
+Bentley,Continental GT,8/17/2012,359832,74888.59,red,hybrid,manual,4.1,15th Floor,Tasha Burds,3/19/2025
+Dodge,Caliber,2/4/2024,256425,28456.58,white,hybrid,automatic,4.6,Apt 42,Brent Drivers,4/28/2026
+Jeep,Cherokee,5/24/2018,410126,5328.86,blue,diesel,manual,2.8,Apt 123,Mitzi De Lasci,1/25/2026
+Volkswagen,Type 2,9/20/2017,351415,3388.87,red,electric,manual,1.7,Apt 71,Britni Poppleton,4/19/2025
+Volkswagen,Passat,8/2/2017,212369,33072.91,white,hybrid,automatic,5.9,Suite 22,Una Tough,3/18/2025
+Lexus,ES,3/4/2019,149507,32549.52,silver,gasoline,manual,4.0,PO Box 8175,Claudetta Shurman,2/23/2026
+Hyundai,Elantra,4/9/2011,305372,33312.25,black,electric,automatic,1.6,Room 1567,Egbert Burchett,6/6/2025
+GMC,Yukon,11/1/2021,5546,30852.36,blue,diesel,automatic,1.4,10th Floor,Fianna Bushill,6/28/2025
+Lincoln,Town Car,5/28/2015,439664,87450.97,blue,diesel,manual,3.9,Room 1089,Billy Phelps,10/14/2025
+Volvo,940,6/2/2011,463137,8104.46,red,diesel,manual,4.3,Room 543,Aurie Garms,3/12/2025
+Cadillac,Catera,6/2/2020,245571,44861.62,white,hybrid,manual,2.2,Room 1106,Max Bonin,5/6/2026
+Volvo,S80,6/28/2010,416028,52044.98,black,hybrid,manual,4.8,Suite 51,Marc Padmore,6/17/2025
+Cadillac,CTS-V,5/12/2017,53660,77300.91,white,electric,automatic,3.6,PO Box 62356,Onfroi Wethers,5/17/2025
+Ford,F-Series,3/16/2015,211330,33622.12,black,diesel,manual,4.1,Apt 1269,Normand Watton,11/26/2025
+Saturn,S-Series,3/19/2012,132824,12232.36,blue,gasoline,manual,1.1,Suite 40,Gerri Penkethman,4/17/2026
+Subaru,Legacy,12/19/2024,360399,45362.08,red,electric,automatic,1.6,20th Floor,Perri St Clair,10/29/2025
+Volkswagen,Jetta,12/7/2011,95393,84373.32,white,hybrid,manual,2.1,Room 306,Chantal Wildor,7/12/2025
+MINI,Cooper Clubman,5/21/2011,376355,33002.11,white,electric,automatic,4.7,Room 783,Anabel Barajaz,4/28/2025
+Eagle,Talon,4/9/2015,19863,27732.35,red,electric,manual,2.3,Apt 199,Goddart Scading,8/22/2025
+Infiniti,G,6/8/2010,326592,3094.05,red,electric,manual,3.6,Suite 2,Alfie Massey,4/12/2025
+Pontiac,Grand Prix Turbo,5/24/2011,345963,6585.21,white,gasoline,automatic,5.8,PO Box 90203,Lezley Exall,3/17/2026
+Chevrolet,Express 2500,8/5/2016,402051,44524.64,black,gasoline,manual,3.9,Suite 38,Thatch Tester,5/1/2025
+Toyota,Prius,10/13/2014,80511,54717.26,blue,electric,manual,5.5,Suite 33,Geoffrey Dyter,12/4/2025
+Chevrolet,Lumina APV,1/28/2013,252634,14555.22,red,diesel,automatic,4.8,10th Floor,Corney Compson,8/14/2025
+Lexus,RX,2/9/2013,458263,36603.36,silver,hybrid,automatic,1.8,Suite 20,Salmon Estrella,10/18/2025
+BMW,7 Series,1/13/2019,57244,5293.43,black,gasoline,automatic,5.5,PO Box 68406,Jerry Yanshinov,1/28/2026
+Mitsubishi,Mighty Max,12/3/2024,309440,41862.77,silver,hybrid,automatic,3.0,Apt 334,Michelle Akaster,1/3/2026
+Mercedes-Benz,SLK-Class,7/4/2017,198584,66487.52,red,electric,automatic,4.1,4th Floor,Carrissa Jerke,3/28/2025
+Oldsmobile,LSS,9/22/2024,279453,75175.1,black,gasoline,manual,4.2,PO Box 81450,Demetrius Torricina,2/11/2026
+Chrysler,Town & Country,3/4/2016,323751,83907.89,silver,gasoline,automatic,4.4,Suite 8,Garrot McKinley,4/16/2026
+Suzuki,X-90,5/13/2013,18406,36338.23,black,electric,automatic,3.3,Suite 1,Luciano Ickowicz,3/29/2025
+Scion,tC,8/10/2016,485176,60442.98,red,hybrid,automatic,2.9,Room 1643,Phoebe Scripture,3/26/2026
+Mercedes-Benz,C-Class,12/23/2015,301570,11157.8,white,electric,automatic,3.8,Suite 63,Sande Burgwin,4/18/2025
+Pontiac,Trans Sport,6/21/2018,45046,88735.63,red,electric,manual,1.5,Apt 275,Elvira Jurkiewicz,11/16/2025
+Geo,Tracker,7/8/2019,443966,79227.43,black,gasoline,manual,1.0,15th Floor,Morissa Meriot,3/13/2026
+Bentley,Arnage,3/12/2016,335275,38974.48,red,electric,automatic,2.7,PO Box 92009,Trixy Birt,9/4/2025
+Saab,9-3,9/29/2023,197495,72738.54,blue,diesel,automatic,4.1,Apt 1412,Knox Lumsdall,4/1/2026
+Chevrolet,Malibu,7/22/2014,336778,1763.23,blue,gasoline,automatic,5.9,Apt 1091,Katheryn Quinane,11/22/2025
+Chevrolet,Tahoe,11/4/2015,158756,80118.61,white,gasoline,manual,4.9,PO Box 79873,Amil Barrs,7/28/2025
+Porsche,928,11/25/2019,364458,43565.74,red,electric,manual,1.2,17th Floor,Shelby Sturr,9/23/2025
+Lincoln,Continental,1/25/2024,452246,59495.35,silver,electric,automatic,3.4,PO Box 89920,Benedetto Jeans,9/28/2025
+Jeep,Grand Cherokee,9/2/2011,124239,32800.89,white,hybrid,automatic,3.4,20th Floor,Brantley Parysiak,6/4/2025
+Pontiac,Bonneville,12/21/2015,409878,33857.04,silver,gasoline,automatic,1.9,PO Box 27404,Temple Womack,3/21/2025
+Saab,9000,2/2/2019,287482,22863.73,black,diesel,manual,3.9,Room 787,Emelia Sainz,4/18/2025
+Ford,Windstar,12/12/2017,201403,65704.64,red,diesel,automatic,2.8,Suite 1,Sorcha Jagels,1/4/2026
+Volvo,XC90,7/30/2020,32041,22998.49,white,electric,automatic,1.8,PO Box 49729,Doralynn Heindrich,5/14/2025
+Volvo,V50,4/16/2023,454728,57779.1,white,gasoline,manual,4.4,Room 254,Simmonds Ovise,7/17/2025
+Lexus,RX,9/6/2023,297577,73956.71,white,hybrid,manual,2.0,Apt 1666,Kailey MacKnockiter,9/6/2025
+Cadillac,Eldorado,7/14/2025,224055,16805.71,black,gasoline,manual,4.9,Apt 1258,Bary Langhorn,4/26/2025
+Mazda,MX-5,3/3/2026,322506,12436.21,blue,gasoline,automatic,2.5,Apt 383,Shep Kenyon,4/13/2025
+Buick,Coachbuilder,3/12/2025,494874,57520.35,black,hybrid,manual,4.8,12th Floor,Emogene Postan,4/3/2025
+Toyota,T100,8/1/2017,272063,26834.6,red,hybrid,automatic,5.6,PO Box 98464,Padraic Stranahan,2/17/2026
+Ford,Taurus,6/25/2011,223260,54500.99,blue,hybrid,manual,5.4,Apt 1704,Yehudit Wyss,6/23/2025
+Subaru,Legacy,1/19/2012,439425,76394.91,white,gasoline,manual,5.0,Apt 98,Jannelle Corton,4/1/2026
+Land Rover,Range Rover,6/30/2020,362777,21312.0,white,electric,automatic,5.2,Suite 31,Daune Tander,11/11/2025
+Chevrolet,Monte Carlo,3/22/2017,462697,10158.61,silver,electric,automatic,1.6,PO Box 74130,Brendon Sciacovelli,4/14/2026
+Audi,S6,11/18/2013,338235,29318.09,blue,gasoline,manual,4.5,Suite 10,Sergio Eary,4/16/2026
+Porsche,911,9/6/2018,327575,19492.92,black,hybrid,automatic,4.4,Apt 911,Newton Fairbrace,7/23/2025
+Volkswagen,Golf,1/4/2015,336393,70076.24,silver,hybrid,automatic,4.9,Apt 892,Neda Nanelli,4/13/2025
+Honda,Odyssey,9/22/2021,250802,62152.19,blue,electric,manual,1.3,6th Floor,Broddie Crafts,2/1/2026
+Volkswagen,GTI,6/24/2025,369323,24865.96,silver,electric,manual,3.7,Suite 28,Amalie Bissiker,3/30/2025
+GMC,Sonoma,7/31/2016,303417,29096.95,silver,hybrid,manual,2.0,Room 1068,Krysta Danovich,12/12/2025
+Maserati,Gran Sport,6/30/2010,451235,36112.67,white,hybrid,manual,4.1,Suite 69,Bruce Bernardino,11/7/2025
+Pontiac,Trans Sport,4/13/2014,56792,78298.82,black,diesel,manual,5.2,15th Floor,Laurence Hainey,6/19/2025
+Nissan,Maxima,12/10/2010,466184,66079.62,red,electric,manual,5.7,Apt 112,Brendan Pash,2/5/2026
+Infiniti,I,4/5/2011,49384,97960.44,white,hybrid,manual,2.8,PO Box 74067,Brett Menezes,9/10/2025
+Lexus,RX,12/4/2010,316536,58066.22,red,gasoline,automatic,5.1,Room 1992,Neille Naptine,7/4/2025
+Suzuki,SJ,11/10/2019,188686,49682.0,blue,hybrid,manual,3.2,4th Floor,Gawain Holhouse,12/20/2025
+Buick,Lucerne,7/1/2010,475498,70939.59,white,gasoline,manual,1.1,Room 356,Candida Henriques,3/31/2025
+Hyundai,Accent,9/8/2015,245558,1739.11,red,gasoline,automatic,4.2,Room 1110,Adrien Scamaden,7/20/2025
+Lexus,LFA,11/7/2018,185338,44611.21,black,gasoline,automatic,1.7,2nd Floor,Arther Brockley,8/13/2025
+Mitsubishi,Galant,6/5/2023,197455,34506.47,red,diesel,manual,4.9,6th Floor,Jaquenetta Emburey,8/31/2025
+Mitsubishi,Mirage,12/7/2011,56305,61166.08,blue,hybrid,automatic,5.7,Apt 1535,Teresina Gowling,1/7/2026
+Ford,F350,1/27/2018,228993,54293.21,red,diesel,automatic,1.1,PO Box 69562,Hilton Gercken,3/29/2026
+Volvo,S60,11/12/2012,125527,83246.51,blue,electric,automatic,2.0,10th Floor,Russ Berrie,12/18/2025
+GMC,Savana 3500,6/28/2021,251568,98631.2,white,hybrid,manual,5.2,Room 495,Elinore Maty,10/30/2025
+Volvo,S90,5/22/2020,271010,51470.25,black,electric,automatic,1.8,PO Box 98920,Nichole Dismore,11/9/2025
+Pontiac,Tempest,4/3/2022,16679,98622.63,red,electric,automatic,5.9,Apt 11,Lew Enderby,4/16/2026
+Maserati,Coupe,6/2/2022,174176,26429.79,silver,electric,manual,3.8,Suite 69,Madison Fortye,10/19/2025
+Dodge,Ram Van B350,10/11/2015,321055,7668.15,red,hybrid,automatic,4.1,3rd Floor,Cyb Dempsey,3/25/2026
+Dodge,Avenger,2/12/2014,15652,95819.89,red,diesel,manual,5.7,PO Box 93258,Vaughn Fawthrop,4/18/2025
+Pontiac,Solstice,5/6/2019,445368,35568.09,silver,diesel,automatic,4.6,PO Box 94473,Dalston Winser,6/5/2025
+Cadillac,Eldorado,3/15/2013,221841,64484.32,red,electric,automatic,5.2,PO Box 77783,Nerta Coey,11/27/2025
+GMC,1500,10/31/2014,311973,93507.88,black,diesel,automatic,5.1,20th Floor,Sergeant O'Nowlan,7/27/2025
+Cadillac,Catera,9/19/2021,203259,62102.81,silver,diesel,manual,2.1,Suite 68,Tatiana Russam,7/24/2025
+Ford,Mustang,4/7/2022,484941,2286.42,black,hybrid,manual,1.6,Room 1751,Benny Peepall,3/2/2026
+Subaru,Outback,1/18/2015,112467,14320.94,black,gasoline,manual,5.6,PO Box 39327,Paulita Book,5/21/2025
+Dodge,Magnum,5/29/2021,25960,13974.61,red,diesel,automatic,4.6,Suite 59,Patrica Bowater,8/23/2025
+Ford,F250,1/12/2015,16482,12347.16,white,diesel,automatic,2.1,Apt 1333,Kipper Garnsworth,5/29/2025
+Dodge,Ram Wagon B250,1/13/2024,436703,63850.21,silver,gasoline,automatic,3.5,Apt 566,Gabriele Sleigh,9/18/2025
+Acura,RL,3/1/2011,24859,75496.6,white,gasoline,automatic,2.7,Room 1897,Johnathan Masterman,6/23/2025
+Pontiac,Safari,11/23/2023,341119,85281.17,blue,diesel,automatic,2.8,18th Floor,Augusta Sarll,4/6/2025
+Volkswagen,GTI,11/7/2012,282528,42662.34,blue,diesel,manual,1.4,Apt 1503,Leena Revington,6/26/2025
+Ford,Windstar,9/17/2016,252623,32359.93,blue,diesel,manual,5.5,19th Floor,Derrek Pates,5/9/2025
+Honda,Prelude,7/4/2011,9216,91998.51,white,gasoline,manual,3.6,Apt 1403,Dinnie Muffitt,2/22/2026
+Acura,TSX,9/16/2019,53669,17630.79,white,electric,automatic,3.0,PO Box 8907,Jedd Chiechio,5/18/2025
+GMC,Terrain,9/12/2013,7450,80048.03,red,electric,manual,3.3,Suite 94,Rahal Rudolph,6/22/2025
+Daewoo,Lanos,3/28/2026,50182,23544.17,white,hybrid,manual,3.2,Apt 1278,Pattie Baty,4/23/2026
+Corbin,Sparrow,10/10/2014,266306,50643.85,silver,hybrid,automatic,3.0,Room 574,Zandra Fitzer,5/3/2026
+Dodge,Ram Van B350,3/9/2014,457196,7662.86,white,diesel,automatic,6.0,Room 1954,Dalt Sandeman,12/31/2025
+Mazda,Familia,4/30/2024,379343,16318.49,black,electric,automatic,1.7,Room 566,Giles Saines,12/28/2025
+BMW,530,5/14/2012,357491,2986.18,red,gasoline,manual,5.8,Suite 49,Ellissa Beverage,3/4/2025
+Mitsubishi,Eclipse,11/19/2021,222,85280.7,silver,hybrid,automatic,2.3,Room 1247,Ashlee Sievewright,8/14/2025
+Aston Martin,DB9,3/7/2012,129492,14497.91,black,diesel,automatic,3.1,Room 1244,Annamaria Richardsson,12/10/2025
+Porsche,Boxster,3/6/2014,368426,46520.22,black,diesel,automatic,4.2,8th Floor,Serena Starford,4/16/2026
+Ford,Expedition,12/12/2018,304771,40568.6,silver,electric,automatic,5.0,6th Floor,Jorie Bumpas,9/22/2025
+Isuzu,VehiCROSS,12/27/2016,458934,83173.61,blue,electric,automatic,3.5,Room 932,Trent Zanneli,7/3/2025
+Suzuki,Daewoo Magnus,4/20/2025,448876,49196.62,black,gasoline,manual,3.3,1st Floor,Perl Powe,6/4/2025
+Buick,Lucerne,7/28/2023,9120,72044.75,blue,gasoline,automatic,1.8,7th Floor,Heloise Ledgley,4/12/2025
+Chrysler,300M,9/6/2012,349780,65675.22,white,gasoline,automatic,1.6,7th Floor,Lyn Snufflebottom,9/17/2025
+Suzuki,SJ,8/24/2011,143281,94925.11,silver,gasoline,manual,6.0,Room 1278,Lindy Penquet,1/7/2026
+Ford,Windstar,6/26/2016,392053,51918.82,blue,hybrid,manual,2.0,Apt 543,Julieta McArley,12/1/2025
+Ford,Econoline E250,7/1/2015,127970,23919.06,silver,electric,manual,1.9,Suite 79,Fred Babe,1/20/2026
+Lincoln,Navigator,2/6/2015,463947,49246.99,red,hybrid,automatic,4.0,2nd Floor,Leontyne Onians,6/12/2025
+GMC,Acadia,2/9/2017,371681,68818.54,red,diesel,manual,5.2,Apt 1460,Cosmo Meddemmen,10/31/2025
+Jeep,Commander,5/4/2021,110922,19340.19,red,electric,automatic,1.8,PO Box 67031,Stacie Richichi,3/6/2026
+Porsche,Boxster,3/16/2021,387410,94109.96,red,diesel,manual,1.6,Room 454,Vivi Colquete,9/29/2025
+Toyota,Paseo,8/24/2013,405241,2236.14,blue,electric,manual,3.3,PO Box 31546,Bronny Aleksandrev,9/10/2025
+Chevrolet,Suburban 1500,4/17/2018,373435,80686.12,white,diesel,automatic,2.2,Apt 869,Bradney Gummary,8/29/2025
+Chevrolet,Caprice,9/20/2024,47614,62993.08,red,electric,automatic,1.3,Suite 14,Malissia Tabourel,2/20/2026
+Cadillac,DTS,6/1/2020,290933,69694.21,blue,gasoline,manual,2.4,PO Box 96697,Desiree Benoy,8/4/2025
+Volkswagen,Cabriolet,2/17/2020,47440,48450.39,white,electric,automatic,3.3,18th Floor,Herrick Mettericke,7/5/2025
+Ford,Econoline E250,4/15/2016,274347,96829.87,silver,hybrid,manual,4.3,Apt 1643,Phillipe Soonhouse,10/27/2025
+Buick,Electra,1/17/2015,322531,36024.99,white,gasoline,automatic,1.9,Suite 33,Jordanna Iglesia,8/27/2025
+Maserati,Quattroporte,2/16/2013,246008,7688.17,black,electric,automatic,1.7,Suite 65,Blakelee McEnteggart,11/13/2025
+Mazda,Protege,10/12/2013,230563,2938.79,blue,hybrid,automatic,5.3,5th Floor,Marlyn Jacobssen,4/14/2026
+Acura,Vigor,10/16/2011,27035,33036.49,red,hybrid,manual,4.1,Suite 54,Mylo Blazdell,6/23/2025
+Infiniti,J,7/16/2019,361021,23063.3,black,gasoline,automatic,3.0,Suite 3,Catriona Faraker,7/25/2025
+Spyker,C8,4/25/2021,340945,37153.51,blue,electric,automatic,2.6,Suite 21,Karyl Valde,1/3/2026
+Volkswagen,Rabbit,6/21/2018,175928,98474.17,black,gasoline,manual,1.5,PO Box 68424,Josy Karpets,11/3/2025
+Mazda,MX-5,11/11/2015,137577,64239.6,red,electric,automatic,1.3,2nd Floor,Dennis Graves,5/1/2025
+Mercedes-Benz,GLK-Class,8/12/2016,72533,76956.53,white,gasoline,automatic,5.9,Suite 21,Jeremy Akeherst,3/26/2026
+Mercury,Sable,12/16/2022,34434,91223.33,blue,electric,manual,3.5,9th Floor,Sande Eighteen,7/25/2025
+Mercedes-Benz,SLS-Class,6/5/2015,181900,19259.48,blue,hybrid,manual,2.2,Room 278,Gram Serfati,12/25/2025
+Ford,Explorer Sport Trac,2/26/2012,179485,92278.57,white,hybrid,manual,3.4,PO Box 4236,Veronica Carpe,4/16/2025
+Chevrolet,Cobalt SS,7/21/2019,428944,10398.37,red,hybrid,automatic,5.8,Apt 1331,Delora Stollmeyer,5/20/2025
+Chevrolet,1500,5/22/2023,413,95645.57,red,gasoline,manual,3.1,PO Box 86036,Dominique Shama,5/15/2025
+Cadillac,Fleetwood,3/6/2024,87644,57565.47,red,hybrid,automatic,2.2,Suite 40,Annie Card,2/9/2026
+Daewoo,Lanos,6/28/2018,225900,5246.14,blue,hybrid,automatic,2.9,Room 293,Brittan Dalloway,3/27/2026
+Subaru,Legacy,10/4/2021,472534,96784.63,silver,diesel,automatic,1.6,Apt 381,Walt Playle,10/8/2025
+BMW,M,5/9/2016,379745,76495.08,silver,electric,automatic,2.4,PO Box 68442,Pearline Spary,3/12/2026
+Volkswagen,Type 2,9/18/2012,388211,66492.24,silver,hybrid,automatic,4.3,Room 341,Rasia Wimms,4/20/2025
+Kia,Sedona,9/16/2018,66233,19850.42,red,diesel,automatic,2.4,Suite 96,Moritz Roffey,4/20/2026
+Ford,Country,10/22/2014,51502,23163.62,blue,gasoline,manual,4.8,Apt 568,Sandi Lyes,12/5/2025
+Toyota,FJ Cruiser,9/9/2023,411177,46704.12,blue,electric,automatic,2.7,Room 383,Harri Shemwell,6/3/2025
+Saab,9-5,12/22/2024,342449,70412.43,red,diesel,automatic,4.4,Room 868,Blake Waadenburg,3/2/2026
+GMC,Envoy,12/4/2022,392254,59348.94,blue,diesel,automatic,2.2,Suite 75,Manuel Lippitt,8/14/2025
+Lexus,SC,2/14/2023,235608,6204.13,silver,gasoline,automatic,5.7,Suite 70,Juliet Dumbrill,5/16/2025
+Aston Martin,V8 Vantage,9/21/2014,462386,55317.71,black,hybrid,automatic,5.9,PO Box 87643,Filmore Brando,2/4/2026
+Lotus,Esprit,2/18/2024,275954,28379.34,silver,hybrid,manual,1.5,Room 246,Joleen Dalgliesh,6/7/2025
+Mitsubishi,Cordia,6/19/2019,250695,90976.49,red,electric,manual,2.7,Suite 8,Clarice Grass,6/18/2025
+Mercedes-Benz,W201,8/7/2010,426075,99393.94,black,electric,automatic,3.1,Suite 61,Louisette Nani,7/3/2025
+GMC,Safari,6/1/2024,128573,66311.06,blue,hybrid,manual,5.4,18th Floor,Dolly Blazey,2/24/2026
+Hyundai,Tiburon,7/31/2018,458631,62870.79,black,hybrid,automatic,5.3,PO Box 96128,Coleman Spykins,9/24/2025
+Suzuki,Swift,10/8/2021,442792,40869.98,white,diesel,automatic,1.2,14th Floor,Merry Tunaclift,11/24/2025
+Toyota,Solara,11/25/2012,210937,57555.64,white,diesel,automatic,1.7,Suite 70,Orel Sauvage,1/14/2026
+Infiniti,QX,9/30/2021,96482,65817.24,silver,diesel,manual,3.6,Room 746,Shandie Grafham,5/20/2025
+Mercedes-Benz,SL-Class,9/10/2014,348286,16148.26,black,electric,automatic,1.5,PO Box 25985,Lolly Joul,5/6/2026
+Audi,A4,12/8/2019,156062,39758.61,white,electric,automatic,5.6,Suite 67,Kyla Moon,3/8/2026
+Chevrolet,G-Series G10,3/3/2023,101386,27134.08,silver,diesel,manual,3.2,13th Floor,Grover Gilbart,2/10/2026
+Chevrolet,Camaro,12/14/2019,139445,37303.89,black,gasoline,automatic,1.4,10th Floor,Barnett Junkinson,12/31/2025
+Suzuki,Samurai,4/27/2019,169895,46608.45,white,electric,automatic,3.5,Room 659,Ranna Gabrieli,2/27/2026
+Suzuki,Vitara,8/29/2019,235404,40484.06,white,hybrid,automatic,1.3,Room 1701,Giordano Tuff,6/25/2025
+Ferrari,F430,5/6/2017,184698,18902.36,red,diesel,automatic,2.1,PO Box 829,Daryn Worsnip,4/1/2026
+Infiniti,G,11/15/2016,87434,6512.06,black,gasoline,automatic,2.6,Suite 69,Aloisia Dulake,6/21/2025
+Mercedes-Benz,SLK-Class,6/20/2022,454712,49768.05,white,hybrid,manual,3.9,5th Floor,Cathlene Isacke,10/3/2025
+Chevrolet,Tahoe,9/28/2013,372706,12188.43,blue,electric,manual,3.8,PO Box 13627,Iosep Bumpas,10/18/2025
+Mercedes-Benz,600SEC,8/16/2019,414708,62267.37,red,gasoline,manual,2.4,Room 33,Sauncho Stovell,11/2/2025
+Audi,S4,2/27/2022,213717,37341.38,black,diesel,manual,4.4,Suite 24,Mirelle Dametti,4/10/2026
+Toyota,MR2,10/18/2020,74281,49009.28,white,electric,manual,4.6,Apt 227,Peria Ishaki,10/8/2025
+Audi,90,2/29/2012,78495,61986.28,blue,electric,manual,1.7,Apt 1436,Christian Geekin,6/18/2025
+Mercury,Cougar,7/26/2010,482515,36091.16,silver,gasoline,manual,5.7,Suite 71,Celestina Starte,1/27/2026
+Ford,E150,4/2/2011,204571,26580.12,silver,diesel,automatic,5.8,Room 557,Freemon Mair,5/27/2025
+Ford,Festiva,2/28/2011,388679,12632.44,red,hybrid,manual,1.3,Suite 74,Aubert Lilleman,12/31/2025
+Pontiac,Grand Prix,4/3/2020,496260,53383.16,red,hybrid,automatic,5.0,Suite 31,Mickie Tieman,12/22/2025
+Chrysler,LHS,8/26/2022,52573,25892.73,silver,electric,automatic,4.2,Suite 47,Perice Munsey,3/19/2025
+Lexus,ES,2/23/2012,119314,68119.47,black,electric,manual,2.9,Suite 21,Kimberli Godehard.sf,3/13/2025
+Subaru,Outback,10/24/2016,168028,3964.22,black,hybrid,automatic,4.4,Room 1870,Lyda Lawtie,12/26/2025
+Lexus,RX,12/3/2018,285489,52915.03,red,hybrid,automatic,4.4,Apt 1133,Adrien Kerwen,6/12/2025
+Lotus,Exige,3/23/2014,118185,91872.06,red,hybrid,manual,5.2,PO Box 7351,Fritz Sabbins,4/8/2026
+Pontiac,Grand Prix,11/27/2013,491214,87053.25,white,electric,manual,5.6,6th Floor,Worth Rozier,6/16/2025
+Lexus,ES,5/3/2026,103069,82507.07,blue,hybrid,automatic,2.4,PO Box 95422,Elvina Cupper,4/3/2026
+Porsche,Cayenne,4/24/2021,338185,33992.86,white,gasoline,automatic,5.4,Suite 72,Debbie Rosendall,8/12/2025
+Eagle,Vision,7/9/2013,173023,7626.33,white,electric,manual,3.0,19th Floor,Nikos Joyes,12/23/2025
+Buick,Regal,3/12/2025,405291,14542.61,white,gasoline,automatic,4.0,Suite 18,Shawn Sneden,3/5/2026
+Infiniti,M,10/15/2021,316723,45156.55,blue,diesel,manual,3.9,Room 1328,Kev Swafield,1/19/2026
+BMW,5 Series,10/2/2012,293743,11250.71,red,diesel,automatic,2.1,Room 4,Karalynn Jessopp,7/16/2025
+Chevrolet,Express 1500,12/14/2021,55493,12256.01,black,electric,automatic,1.2,PO Box 22823,Korie Jakubowicz,3/25/2026
+Mitsubishi,Raider,9/6/2019,203762,41442.89,silver,electric,manual,4.9,1st Floor,Thibaut Dommerque,5/8/2025
+Infiniti,I,11/9/2019,71544,7081.83,white,electric,automatic,4.9,12th Floor,Ciel Linnett,12/31/2025
+Panoz,Esperante,2/13/2013,262258,16523.07,blue,diesel,automatic,4.6,Suite 84,Dela Thynne,12/28/2025
+Hyundai,Equus,9/21/2016,273054,14264.76,white,electric,automatic,5.5,Room 1582,Theobald Picford,2/24/2026
+Honda,Prelude,5/1/2011,408838,74884.98,white,hybrid,automatic,3.7,Room 1589,Deny Abbs,10/1/2025
+Honda,Prelude,12/27/2014,283772,39808.18,silver,hybrid,manual,1.7,13th Floor,Selby Corbyn,2/21/2026
+Audi,200,6/6/2020,263307,31136.65,blue,electric,automatic,4.3,Suite 11,Brandie Blacker,3/19/2026
+Chrysler,200,5/25/2012,378831,99999.83,silver,diesel,automatic,1.2,PO Box 64560,Frederich Spawton,10/2/2025
+Acura,NSX,9/27/2012,482921,58170.38,black,gasoline,manual,6.0,PO Box 97559,Frank Cutmere,5/18/2025
+Land Rover,Range Rover,9/28/2019,151332,39592.05,white,diesel,manual,2.0,12th Floor,Marya Josifovic,9/4/2025
+Chevrolet,Tahoe,4/10/2013,479097,77447.08,silver,gasoline,manual,2.5,PO Box 41151,Raul Flowith,6/7/2025
+BMW,Z4,11/4/2016,438442,88908.87,white,electric,automatic,2.7,Apt 733,Rosalia Tick,4/5/2026
+Nissan,Murano,3/22/2021,122039,75239.76,silver,electric,manual,3.3,Apt 1576,Livvy Karlqvist,2/20/2026
+Subaru,Impreza,8/2/2015,289510,23154.4,red,electric,manual,3.6,PO Box 96448,Kara Reeman,6/25/2025
+Mazda,Mazdaspeed 3,8/1/2024,37752,17638.17,red,diesel,manual,5.5,Room 1151,Olvan Riolfo,9/8/2025
+Saab,9-3,3/2/2014,56921,50401.74,blue,diesel,automatic,5.0,2nd Floor,Dorene Loughney,2/14/2026
+GMC,Canyon,12/12/2019,429339,39569.39,white,diesel,manual,5.0,10th Floor,Berrie Strain,4/26/2025
+Toyota,Land Cruiser,5/14/2023,83363,89566.15,blue,electric,automatic,1.3,Apt 1619,Sandi Beeching,5/29/2025
+Nissan,Maxima,8/31/2014,42780,90450.27,red,hybrid,automatic,1.4,PO Box 78092,Adrea Souten,4/2/2025
+Nissan,NV1500,7/28/2017,74902,87873.15,blue,electric,automatic,3.7,PO Box 58062,Lorianne Palphramand,8/22/2025
+Mitsubishi,Truck,7/28/2014,339486,28095.41,red,hybrid,automatic,2.1,Apt 1945,Nada Dach,4/19/2026
+Nissan,Sentra,5/18/2014,191318,66685.6,red,hybrid,manual,4.8,Apt 1836,Berny Tighe,3/19/2026
+Audi,RS4,1/19/2016,285466,74072.56,silver,gasoline,automatic,2.2,Suite 12,Isidoro Slyman,3/19/2025
+Lotus,Esprit,11/7/2022,387803,18373.5,silver,hybrid,manual,4.7,Room 1860,Shelagh Poter,5/25/2025
+Lotus,Esprit,9/22/2013,209624,3858.5,white,gasoline,automatic,3.3,Room 370,Rock Brecknall,3/21/2026
+Cadillac,STS,11/25/2024,450368,5570.87,black,diesel,automatic,2.7,Room 479,Fanchon Peert,3/19/2026
+Pontiac,Tempest,7/9/2021,404576,59653.91,white,hybrid,automatic,5.9,Apt 185,Adham Heighton,3/13/2026
+Aptera,Type-1h,1/15/2020,201987,96029.97,black,diesel,manual,2.6,Room 1233,Aeriell Eveling,2/17/2026
+Volvo,C70,3/10/2014,18878,32586.59,silver,hybrid,automatic,1.9,PO Box 66015,Carolan Pagett,1/8/2026
+Kia,Soul,1/12/2022,371845,6865.06,black,diesel,automatic,2.9,Suite 85,Shanie Verecker,5/11/2025
+Chevrolet,Camaro,1/3/2021,486044,70657.7,white,electric,manual,3.8,Room 1880,Oralia Romme,2/20/2026
+Lincoln,Mark VIII,8/4/2021,364515,46738.39,white,electric,manual,1.3,3rd Floor,Minny Lottrington,8/27/2025
+Volkswagen,Eos,6/1/2022,83809,54056.9,black,diesel,automatic,3.7,Room 1517,Chris Ondra,8/12/2025
+Honda,S2000,3/6/2023,90705,55314.43,white,gasoline,automatic,2.6,6th Floor,Kip Ringrose,2/7/2026
+Pontiac,Grand Am,11/18/2011,108222,14931.55,white,diesel,automatic,3.9,Room 286,Tracey Cheke,1/30/2026
+Toyota,RAV4,7/13/2014,216106,18045.69,blue,diesel,automatic,4.3,PO Box 14022,Bent Simla,9/26/2025
+Mitsubishi,Diamante,6/19/2018,159972,87388.87,black,hybrid,manual,3.1,PO Box 55752,Ansell Perassi,2/4/2026
+Volvo,XC70,6/24/2023,93588,61817.71,blue,diesel,manual,3.3,PO Box 17254,Xaviera McWhirter,6/16/2025
+Ford,Ranger,3/9/2023,413996,20942.88,white,electric,automatic,1.2,11th Floor,Sawyere Paradine,3/29/2026
+Oldsmobile,Cutlass Supreme,5/31/2022,432314,51953.67,red,hybrid,automatic,1.5,Suite 69,Tarrance Bravington,3/14/2026
+Saturn,S-Series,9/10/2015,348152,4552.88,white,gasoline,manual,1.8,Apt 1016,Pascale Folger,12/13/2025
+Chevrolet,Silverado 2500,12/15/2021,406821,41160.82,red,hybrid,manual,1.3,PO Box 26268,Gustie Feldstern,4/22/2025
+Mitsubishi,Chariot,6/3/2012,258652,86797.29,white,gasoline,automatic,1.7,Suite 47,Johann Brailsford,4/7/2025
+Ford,F350,6/3/2020,130247,66504.46,white,hybrid,manual,4.5,PO Box 18517,Bobbe Lambin,9/10/2025
+Oldsmobile,Toronado,9/23/2013,205467,45472.22,silver,diesel,automatic,3.2,Room 687,Trista Mecchi,1/9/2026
+Holden,VS Commodore,7/31/2015,281409,22424.81,black,hybrid,automatic,5.2,Room 1341,Susannah Huckle,12/24/2025
+Infiniti,I,6/5/2011,477071,86719.82,white,hybrid,automatic,3.7,Suite 33,Eleonore Janusz,12/30/2025
+Mitsubishi,Raider,6/20/2025,230169,19362.92,white,gasoline,automatic,1.6,Apt 1201,Francesca Zannutti,6/30/2025
+Toyota,Tacoma Xtra,5/9/2018,112714,41443.91,blue,gasoline,manual,1.8,Apt 1005,Rice Ghest,5/20/2025
+Saab,9-3,8/30/2014,338610,81168.02,silver,hybrid,manual,1.9,PO Box 40335,Juanita Kadd,8/9/2025
+Suzuki,Aerio,8/15/2016,329681,44092.93,black,hybrid,automatic,3.4,PO Box 35710,Pauly Ewins,12/13/2025
+Chevrolet,Corvette,4/13/2014,425551,7636.09,blue,electric,manual,3.9,Suite 11,Mellisent Blaes,2/19/2026
+GMC,Yukon,7/29/2020,272325,5599.58,silver,gasoline,manual,3.7,Apt 443,Tobias Redmell,4/5/2026
+Ford,Escape,1/13/2016,390982,64545.89,silver,electric,automatic,2.8,Suite 8,Duncan Sabbins,4/6/2025
+Dodge,Ram 1500,3/12/2021,178121,60312.25,red,diesel,manual,1.2,PO Box 41678,Garrett Durman,4/9/2026
+BMW,M3,3/4/2015,110160,86677.89,silver,diesel,automatic,4.0,8th Floor,Helga Arnefield,3/18/2026
+Mitsubishi,Starion,11/25/2017,350735,30967.46,red,gasoline,automatic,4.1,Apt 699,Lexie Wesker,9/1/2025
+Hyundai,Elantra,12/4/2019,122781,69987.1,black,diesel,manual,5.6,Room 433,Byran Nutton,10/23/2025
+Toyota,Sienna,10/24/2014,183848,73120.95,red,electric,manual,6.0,PO Box 30364,Siobhan Tripney,4/28/2026
+Saturn,S-Series,5/31/2010,79458,64114.39,black,gasoline,manual,5.6,Suite 62,Allys Jouannisson,2/7/2026
+Ford,Expedition,9/17/2014,236837,71030.98,white,hybrid,automatic,2.5,Room 1749,Murry Goodanew,6/1/2025
+Saab,900,7/29/2025,449775,14295.48,silver,hybrid,automatic,1.0,1st Floor,Lazaro Giggie,8/3/2025
+Mercury,Sable,5/22/2023,379905,33044.85,white,gasoline,manual,3.2,Suite 16,Elsa Lawday,7/21/2025
+Chrysler,LHS,7/13/2016,346535,4891.67,white,gasoline,automatic,3.4,Apt 1111,Freddie Brehault,2/20/2026
+Chevrolet,Corvette,10/24/2021,204768,77469.19,red,diesel,automatic,4.4,PO Box 35621,Elissa Doleman,5/29/2025
+Hyundai,Scoupe,10/28/2021,483238,8243.45,red,gasoline,manual,3.1,PO Box 38296,Glenn Sillis,6/22/2025
+BMW,645,10/11/2016,241847,86310.63,silver,electric,automatic,5.0,16th Floor,Noah Wallentin,4/13/2025
+Bentley,Continental Flying Spur,11/21/2017,346331,69582.59,red,hybrid,automatic,5.3,PO Box 72245,Alphonso Estevez,5/5/2026
+Pontiac,Bonneville,6/6/2020,361734,95526.15,black,gasoline,manual,3.2,Suite 73,Astrix Laird,3/10/2026
+BMW,X3,1/10/2018,265325,43701.1,red,gasoline,automatic,1.8,PO Box 47611,Lela Tern,1/9/2026
+Isuzu,Hombre,8/24/2010,52894,20987.39,red,diesel,automatic,2.9,PO Box 65268,Magda Balcon,4/26/2025
+Nissan,Quest,11/13/2025,67236,62099.9,white,hybrid,automatic,5.1,PO Box 18650,Kali Sketch,10/31/2025
+Mercury,Cougar,2/18/2026,128233,8661.08,black,diesel,manual,5.4,Room 594,Elana Jerosch,2/24/2026
+Audi,Q5,11/17/2025,426405,78617.61,blue,diesel,automatic,1.3,Suite 62,Fitz Carletti,4/7/2026
+Volvo,V70,2/6/2014,67105,11410.63,silver,hybrid,automatic,4.5,Suite 95,Cariotta Runnicles,9/30/2025
+Ford,Bronco,6/17/2020,314085,9560.35,black,diesel,automatic,2.7,Room 1054,Cordey Oxlade,1/14/2026
+GMC,Savana 2500,4/16/2020,189983,58128.39,silver,diesel,automatic,4.7,PO Box 46104,Prent Dundendale,6/23/2025
+Jaguar,S-Type,3/20/2016,110403,34075.23,black,diesel,manual,2.6,Apt 1767,Cornell Chapellow,4/6/2026
+Lincoln,Mark VIII,11/29/2025,469730,28997.87,silver,gasoline,manual,1.7,10th Floor,Benn Morlon,1/10/2026
+GMC,Suburban 1500,4/27/2023,468972,73765.61,black,electric,manual,5.9,Room 246,Gray Northbridge,2/10/2026
+Honda,Civic,2/16/2023,94860,41876.47,black,hybrid,automatic,1.9,Suite 24,Crissy Brunsden,3/16/2025
+Mitsubishi,3000GT,8/20/2019,167621,76227.45,silver,electric,manual,4.3,Apt 1952,Jeanne Dassindale,10/20/2025
+Chevrolet,Silverado 2500,1/11/2026,371262,53350.28,white,electric,manual,4.1,PO Box 98395,Tatum Brodest,7/17/2025
+Dodge,Stratus,9/22/2020,10561,45346.83,white,diesel,manual,1.3,1st Floor,Ysabel Izkovitz,9/15/2025
+Pontiac,Trans Sport,11/12/2024,393704,19720.75,blue,diesel,manual,4.7,Apt 1436,Felix Ruggen,1/21/2026
+Chevrolet,Avalanche 1500,4/1/2011,317562,46542.09,silver,diesel,automatic,5.7,8th Floor,Octavius Brissenden,4/29/2025
+Eagle,Summit,11/29/2018,33601,61430.0,blue,diesel,manual,4.7,Apt 402,Cthrine Grigorini,12/19/2025
+Pontiac,Safari,12/29/2012,170411,73163.03,white,hybrid,manual,5.2,PO Box 14235,Fawnia Ucceli,7/30/2025
+Lotus,Exige,2/1/2017,205929,11979.37,black,hybrid,automatic,2.5,Room 1731,Randee Pellington,8/16/2025
+GMC,Savana 1500,4/25/2014,9768,39103.95,blue,hybrid,automatic,5.4,Apt 1128,Clarisse Breacher,12/9/2025
+Lincoln,MKZ,1/4/2024,370821,26523.3,black,electric,manual,1.6,Suite 3,Dannie Hoult,1/14/2026
+Ford,Explorer,9/18/2022,269807,30696.04,silver,electric,manual,4.3,Room 552,Worthington Howard - Gater,2/1/2026
+Cadillac,STS-V,3/24/2021,427004,45945.73,silver,hybrid,automatic,5.2,12th Floor,Giulia Cestard,7/8/2025
+Audi,A5,11/28/2016,497821,76036.24,red,gasoline,automatic,1.3,PO Box 84548,Nelli Rymer,9/30/2025
+Honda,Accord,5/10/2010,272176,80237.49,blue,diesel,manual,2.1,Suite 98,Buddy Carden,3/29/2025
+Dodge,Ram Van 3500,9/30/2012,209968,44254.26,red,gasoline,manual,2.3,8th Floor,Evvy Valentinuzzi,9/24/2025
+Toyota,Land Cruiser,4/21/2018,383555,96148.58,silver,electric,automatic,1.6,Room 1720,Stafani Kull,11/13/2025
+Dodge,Durango,5/27/2020,101432,62948.94,black,electric,manual,3.0,Apt 1411,Abbott Matschke,3/10/2025
+Dodge,Viper,7/27/2022,430043,58788.22,black,gasoline,automatic,2.0,10th Floor,Trev Calveley,1/28/2026
+Ford,Freestyle,8/5/2010,230331,11694.36,red,diesel,manual,3.2,18th Floor,Matelda Boraston,3/4/2026
+Honda,Insight,9/23/2016,435307,51194.59,silver,diesel,automatic,5.2,Apt 1690,Quintin Singleton,4/4/2026
+GMC,Envoy,4/21/2013,359374,74444.86,red,gasoline,automatic,4.6,Suite 15,Lewiss Sullens,10/20/2025
+Audi,S4,10/12/2016,441148,70351.74,red,electric,automatic,5.5,12th Floor,Farra Bamlet,1/28/2026
+Suzuki,XL7,12/11/2025,467973,50433.13,black,hybrid,manual,1.7,Apt 1823,Benedicta Philipson,10/23/2025
+Toyota,Sienna,1/28/2013,44720,80645.34,white,gasoline,manual,5.7,Room 843,Shaw Di Giacomo,2/21/2026
+Kia,Rio,5/26/2020,99645,73696.7,red,hybrid,automatic,3.6,Room 1203,Andee Pirri,1/29/2026
+BMW,7 Series,3/23/2016,301262,36393.71,blue,hybrid,manual,2.1,Apt 421,Vicki Guirau,8/25/2025
+Honda,Element,3/27/2013,223828,87863.72,blue,diesel,automatic,5.5,Apt 172,Alisun Piletic,10/31/2025
+Aston Martin,Vantage,5/4/2023,264119,2925.15,white,diesel,manual,1.9,1st Floor,Waly De Caroli,9/9/2025
+Cadillac,Allante,10/20/2019,285205,61275.36,black,gasoline,automatic,1.0,Room 1530,Oralia Harland,4/17/2025
+Hummer,H1,6/8/2015,126594,45660.56,blue,hybrid,manual,5.4,Apt 1630,Estele Good,6/27/2025
+BMW,6 Series,9/25/2010,180632,53801.45,black,electric,manual,4.1,Suite 82,Ludwig Marzele,7/21/2025
+Audi,Cabriolet,6/30/2024,276437,49879.25,silver,hybrid,automatic,1.4,5th Floor,Hedda Montes,4/7/2026
+Mercury,Cougar,4/3/2016,9057,75986.28,silver,electric,automatic,2.6,PO Box 55927,Janene Gheraldi,5/28/2025
+Chrysler,300,2/2/2013,143450,31367.64,black,diesel,manual,4.3,Suite 14,Cathe Stillmann,4/13/2025
+Volvo,C70,9/29/2017,30931,9951.76,red,diesel,automatic,5.7,Room 679,Lexine Davidovicz,4/13/2026
+Oldsmobile,Silhouette,3/30/2012,479278,46001.67,black,hybrid,manual,3.1,PO Box 81992,Zebedee Akram,9/16/2025
+Volkswagen,Golf,11/19/2025,63765,11455.73,black,electric,manual,5.2,16th Floor,Johna Swyer,6/12/2025
+Mercedes-Benz,Sprinter,6/28/2010,410650,28778.01,red,gasoline,automatic,4.6,Suite 1,Hadrian Josefer,3/29/2025
+Toyota,Sienna,9/13/2022,114566,43840.65,white,hybrid,manual,1.3,Room 533,Emerson Hatliffe,4/14/2025
+Ferrari,F430,7/23/2010,492185,66982.09,silver,electric,manual,2.7,Room 64,Simonne Rayment,8/16/2025
+Mercedes-Benz,GLK-Class,4/8/2016,493510,20748.85,blue,diesel,automatic,2.9,Room 842,Candy Klulisek,5/20/2025
+Mazda,Mazda5,7/7/2023,182414,47807.7,white,gasoline,automatic,5.5,Room 1652,Ruddie Kinneir,1/21/2026
+Acura,NSX,2/12/2019,373036,69877.02,black,diesel,manual,5.9,PO Box 81137,Geordie Geratasch,3/25/2025
+Cadillac,XLR,6/14/2013,337688,42630.63,silver,diesel,manual,3.6,PO Box 40614,Dian Minton,4/7/2025
+Mercedes-Benz,300CE,3/27/2014,164318,79781.73,blue,gasoline,manual,3.8,PO Box 76720,Laurice Bertome,3/19/2025
+Chevrolet,Express 1500,3/8/2012,344652,75145.24,white,gasoline,manual,1.5,14th Floor,Damian Mochan,3/5/2026
+Lexus,SC,4/3/2017,363984,31872.66,silver,electric,manual,2.2,PO Box 77151,Erhart Whitehorn,9/23/2025
+Volvo,S80,9/27/2018,87967,59298.93,blue,gasoline,automatic,4.9,Apt 1037,Constantino Ruselin,6/25/2025
+MINI,Cooper Clubman,5/25/2018,347782,65944.23,white,gasoline,automatic,4.6,Suite 81,Mina Scotchbrook,7/17/2025
+Audi,90,3/22/2011,362668,19068.87,white,electric,automatic,3.6,Room 59,Dora Strike,1/3/2026
+GMC,Safari,9/11/2021,123222,33204.58,black,electric,automatic,4.3,Room 997,Twyla Chessman,10/29/2025
+Hyundai,Genesis,6/5/2011,166978,86564.15,blue,hybrid,manual,5.6,4th Floor,Arthur Chamberlen,8/27/2025
+Ram,3500,8/23/2022,282432,36967.47,blue,diesel,manual,4.3,3rd Floor,Andre Pidgeon,11/20/2025
+Dodge,Ram 1500,9/14/2024,4740,2299.02,blue,gasoline,automatic,1.5,PO Box 99948,Jamaal Ricart,4/4/2026
+Lincoln,Continental Mark VII,10/4/2020,471749,20482.43,blue,hybrid,automatic,4.5,Apt 873,Carla Grigoire,6/9/2025
+Jaguar,XK,1/24/2017,388395,52485.64,white,diesel,manual,2.8,PO Box 29442,Merle Simkins,8/7/2025
+GMC,Savana 2500,2/6/2026,350195,55763.4,black,diesel,automatic,4.3,PO Box 81399,Jinny Broom,7/12/2025
+Chrysler,Town & Country,10/12/2024,350867,18547.5,white,electric,manual,3.8,PO Box 63569,Aleda Benardette,4/29/2025
+Ford,Contour,4/14/2021,386863,58499.31,red,gasoline,automatic,1.3,12th Floor,Davon Gillani,6/29/2025
+Volvo,XC70,6/3/2022,218848,14633.56,blue,gasoline,automatic,5.1,Room 186,Ulrike Clare,2/13/2026
+Mercury,Marquis,1/2/2020,272341,30579.44,black,hybrid,automatic,1.3,PO Box 9809,Florrie Marvelley,4/28/2025
+Mercury,Milan,11/1/2013,432231,1886.04,silver,diesel,automatic,5.1,Room 839,Laney Maybey,4/23/2026
+Toyota,Venza,5/8/2020,416506,70919.98,silver,diesel,manual,2.8,Apt 1592,Ralina Mingotti,1/4/2026
+GMC,Yukon XL 2500,5/4/2013,411298,30611.61,black,gasoline,automatic,2.9,Room 282,Val Blasoni,5/17/2025
+Holden,Monaro,1/20/2013,132123,25400.84,black,hybrid,manual,3.8,Room 1005,Timmie Jerrans,10/7/2025
+Acura,MDX,6/10/2023,280468,72875.37,black,diesel,automatic,3.5,Room 562,Syman Toogood,7/29/2025
+GMC,Yukon XL 2500,6/21/2010,440537,87629.21,white,gasoline,manual,4.1,Room 1555,August Brainsby,7/12/2025
+Toyota,Xtra,6/8/2012,471499,77528.94,red,hybrid,manual,2.0,Room 1031,Christiana Valadez,2/20/2026
+Ford,E-Series,2/4/2015,24976,65200.85,black,diesel,automatic,2.7,Apt 198,Brier Crayton,1/24/2026
+Lexus,GS,6/2/2015,143980,13304.68,black,electric,manual,2.7,Suite 37,Dori Kira,11/25/2025
+Lotus,Esprit,6/26/2012,384256,63980.74,black,diesel,automatic,2.1,Apt 987,Tiffany Chesher,11/7/2025
+Mazda,CX-7,12/12/2020,470544,5467.56,black,electric,automatic,5.3,2nd Floor,Etty McNickle,10/28/2025
+Volkswagen,Golf,9/18/2022,179481,12866.74,blue,diesel,automatic,1.8,PO Box 22638,Brock Roseaman,2/13/2026
+Ford,Explorer Sport,10/4/2011,206870,16438.33,red,gasoline,manual,2.4,Suite 81,Viv Bartleet,5/18/2025
+Chrysler,Town & Country,12/9/2025,73008,87697.7,white,electric,automatic,4.8,12th Floor,Mile Cardew,10/7/2025
+Maybach,Landaulet,12/28/2019,315015,77517.45,blue,gasoline,manual,4.5,Apt 600,Bordy Stoute,8/25/2025
+Buick,Park Avenue,7/28/2015,59967,91956.13,blue,electric,manual,3.7,10th Floor,Lionello Maysor,8/13/2025
+GMC,3500 Club Coupe,8/12/2019,312596,59645.89,blue,gasoline,automatic,1.1,Apt 593,Monte Dyne,12/1/2025
+GMC,Sierra 2500,9/12/2020,230986,8837.52,silver,diesel,automatic,4.0,20th Floor,Janith Stonard,8/29/2025
+Chevrolet,Malibu,8/17/2019,415348,44549.81,silver,hybrid,manual,1.4,Room 76,Jedidiah Littlechild,4/8/2025
+Honda,Pilot,8/21/2023,342607,26956.94,white,diesel,manual,5.1,15th Floor,Jorry Raggett,8/15/2025
+Volvo,S40,7/9/2019,344015,92972.1,red,electric,automatic,2.7,Suite 58,Mackenzie Mc Cahey,7/11/2025
+Hyundai,Excel,8/26/2021,339221,59487.51,black,diesel,automatic,1.7,PO Box 53499,Renault Eronie,6/2/2025
+Ford,F350,1/17/2011,368842,62786.17,black,gasoline,manual,5.2,Apt 1482,Cosetta O'Cassidy,1/5/2026
+Cadillac,SRX,5/18/2020,103034,24671.33,white,electric,manual,4.4,PO Box 4037,Evin Courtois,5/1/2026
+Dodge,Dakota,11/22/2022,205728,97646.35,red,hybrid,manual,3.4,7th Floor,Jone Corking,11/5/2025
+Mitsubishi,Eclipse,9/21/2024,267408,99516.28,black,gasoline,automatic,3.1,Suite 100,Tandie Butten,7/26/2025
+Chevrolet,S10,2/9/2014,79166,29577.66,red,diesel,automatic,3.8,Suite 66,Athene Quillinane,4/30/2025
+Ford,Fusion,5/26/2021,499548,39368.72,black,diesel,manual,1.6,Apt 1390,Elsey Aries,12/27/2025
+Geo,Prizm,6/10/2024,156028,23300.15,black,diesel,automatic,1.7,PO Box 84510,Ibby Jerrams,4/9/2025
+Toyota,TundraMax,8/16/2021,123519,53122.86,silver,hybrid,manual,5.5,Room 533,Kary Minico,3/8/2026
+Volkswagen,GTI,6/1/2011,219369,86902.05,red,hybrid,manual,5.6,PO Box 1296,Artie Goodridge,2/27/2026
+Infiniti,G37,5/4/2022,466200,5880.23,red,hybrid,manual,5.7,Apt 1817,Janessa Keaysell,10/21/2025
+Dodge,Durango,10/20/2022,438879,31421.16,blue,diesel,manual,1.0,Apt 985,Stinky Josskoviz,11/1/2025
+Maybach,Landaulet,8/2/2011,173315,88902.87,silver,gasoline,manual,1.3,Apt 1472,Angus Baskerville,8/10/2025
+Pontiac,Sunbird,9/21/2023,266819,90732.72,blue,hybrid,manual,4.5,Apt 582,Ruthi Scholard,1/16/2026
+Ford,LTD Crown Victoria,4/20/2015,455308,78411.06,blue,hybrid,automatic,2.6,Apt 536,Hesther Gascoigne,10/1/2025
+Ford,E-Series,4/17/2017,439324,28694.53,black,diesel,manual,5.4,Room 953,Mikkel Finkle,5/1/2026
+Jeep,Liberty,8/8/2010,303113,61763.51,black,diesel,automatic,4.9,19th Floor,Immanuel Dudman,7/12/2025
+Toyota,Camry,5/17/2025,77662,96107.88,blue,hybrid,automatic,1.5,8th Floor,Saunder Eixenberger,9/24/2025
+BMW,5 Series,9/5/2012,259074,1636.25,silver,hybrid,manual,2.8,16th Floor,Prudy McClounan,9/29/2025
+GMC,Jimmy,11/29/2019,216373,67990.7,white,electric,manual,1.9,PO Box 71897,Fredi Brosh,2/2/2026
+Mitsubishi,Cordia,10/24/2014,8363,10866.07,silver,hybrid,automatic,4.3,Apt 1719,Delmer Pestricke,8/2/2025
+Buick,Rainier,2/1/2013,423799,15596.89,silver,hybrid,automatic,1.8,PO Box 26599,Rasia Dowry,4/4/2026
+Mercedes-Benz,S-Class,3/25/2012,410907,22466.78,blue,diesel,automatic,3.8,Room 314,Phillie Dennert,7/20/2025
+Nissan,Frontier,2/18/2013,276950,59313.53,red,hybrid,automatic,2.3,11th Floor,Rosabel Jeppe,4/12/2025
+Dodge,Ram 2500,3/25/2020,73899,39214.9,white,gasoline,automatic,2.6,Suite 43,Joanna Hunday,7/26/2025
+Jaguar,XJ Series,11/13/2025,3713,55881.95,black,hybrid,manual,5.1,Room 1750,Corey Heinonen,2/1/2026
+Dodge,Ram 2500,12/20/2016,464908,32069.54,red,gasoline,automatic,4.6,Suite 77,Janith Howe,5/28/2025
+Saab,9-5,1/20/2015,363845,91311.34,red,diesel,automatic,3.4,Room 862,Yolanthe Kingerby,4/1/2026
+Land Rover,Discovery,3/7/2019,342132,1587.7,blue,diesel,manual,4.9,Apt 210,Meier Kaman,2/15/2026
+Lexus,LX,9/13/2020,29967,8984.13,black,diesel,automatic,5.9,Apt 1521,Guglielma Tammadge,8/16/2025
+Dodge,Caliber,4/20/2014,122033,92955.7,silver,gasoline,manual,4.9,Room 522,Marie-jeanne Johnsey,1/21/2026
+Honda,Insight,12/19/2016,293518,2011.08,white,gasoline,manual,3.2,Room 1581,Maurine Iacovielli,6/18/2025
+Toyota,Prius c,11/13/2016,172015,57531.41,silver,diesel,automatic,2.1,Apt 34,Robinette Launder,10/15/2025
+Mercedes-Benz,R-Class,2/24/2017,446166,28921.67,black,hybrid,manual,2.9,Suite 85,Olly O'Sculley,11/11/2025
+GMC,Sierra 1500,12/26/2017,388445,84857.61,blue,electric,automatic,1.1,Apt 1294,Felicle Di Napoli,11/10/2025
+Chevrolet,2500,7/18/2024,432521,2309.9,red,hybrid,manual,3.4,18th Floor,Burnaby Ivanishin,2/21/2026
+Saturn,Ion,9/27/2025,296889,21684.9,black,diesel,automatic,2.2,Suite 36,Camella Lachaize,2/7/2026
+Lotus,Evora,5/17/2022,426942,37113.08,blue,electric,manual,3.6,Apt 1855,Pierette Yitzowitz,9/29/2025
+Dodge,Challenger,3/7/2023,354205,82251.29,white,electric,manual,6.0,Apt 85,Devina Choake,3/20/2026
+Mercedes-Benz,GL-Class,5/15/2018,457665,36745.27,silver,gasoline,manual,2.9,Suite 7,Murial Posnett,4/7/2026
+Chevrolet,Silverado,11/13/2019,445469,10771.91,red,electric,manual,5.2,Suite 91,Paulette Truwert,4/23/2025
+Chevrolet,Suburban 1500,5/6/2016,180362,36930.74,blue,hybrid,manual,3.0,Suite 39,Kaye Phayre,11/11/2025
+Audi,5000S,11/30/2012,72859,40730.18,black,gasoline,automatic,2.9,14th Floor,Anderea Selbach,8/3/2025
+GMC,Sierra 2500HD,11/8/2010,338703,7032.58,red,electric,automatic,3.0,Suite 29,Laurette Donnelly,3/5/2026
+BMW,3 Series,12/16/2020,95082,52138.87,red,hybrid,manual,1.9,Room 274,Berkly Altamirano,11/2/2025
+BMW,745,9/10/2011,88997,5546.47,black,electric,automatic,4.4,PO Box 33873,Othella Abbison,4/2/2026
+Buick,LaCrosse,10/6/2019,84471,84586.65,blue,gasoline,manual,4.5,Suite 57,Lulu Denisot,8/30/2025
+Mercury,Cougar,7/12/2024,283361,68790.28,silver,hybrid,manual,2.2,PO Box 16489,Jacinta Thomke,11/5/2025
+Mitsubishi,Chariot,8/23/2013,419031,69359.58,white,hybrid,manual,3.3,Suite 53,Crista Rainer,8/14/2025
+Volvo,V70,5/29/2014,237472,93593.6,black,hybrid,automatic,2.1,6th Floor,Mateo McGlaud,7/14/2025
+Honda,Odyssey,9/23/2012,365553,70820.79,blue,electric,automatic,3.5,PO Box 84207,Tye Cropper,5/25/2025
+Land Rover,Range Rover,12/12/2025,44963,66699.65,red,electric,manual,4.9,Room 1583,Kinnie Cockson,3/21/2025
+Jaguar,XF,5/17/2011,435668,87399.87,red,electric,manual,5.2,Apt 557,Grenville Fandrich,1/2/2026
+Mitsubishi,Diamante,11/9/2025,156959,65770.45,white,electric,automatic,2.0,Room 836,Lissi Sinclaire,10/10/2025
+Infiniti,M,3/8/2013,299836,75676.42,silver,hybrid,automatic,4.6,Suite 87,Anthia Byart,8/20/2025
+Lamborghini,Diablo,4/4/2019,93982,47505.42,blue,hybrid,manual,1.6,Suite 12,Falito Toy,3/29/2025
+Suzuki,Daewoo Lacetti,5/18/2012,49889,17921.16,blue,diesel,automatic,1.6,Room 1961,Geoffrey Hallsworth,8/23/2025
+Ford,Taurus,7/21/2020,14765,36484.16,blue,electric,automatic,2.1,Apt 1330,Pierson Bonnar,6/30/2025
+Cadillac,STS,12/15/2017,220065,46633.69,white,hybrid,manual,5.6,19th Floor,Glenn Winslet,4/15/2026
+GMC,2500,8/25/2016,54652,12787.77,silver,gasoline,automatic,4.7,Suite 87,Audrie Stirton,5/3/2025
+Rolls-Royce,Phantom,4/15/2024,403999,67338.88,white,gasoline,automatic,4.6,7th Floor,Ethe Guterson,1/9/2026
+Lamborghini,Gallardo,2/17/2011,59583,41532.34,black,electric,manual,5.8,Room 1041,Candida Sharvill,2/27/2026
+Maserati,GranTurismo,10/14/2025,277341,36651.02,white,hybrid,automatic,4.1,Suite 5,Raoul Pinnock,4/24/2025
+Nissan,Maxima,3/8/2024,22267,97361.76,white,gasoline,automatic,3.2,Suite 16,Culley Bunhill,9/15/2025
+Hyundai,Sonata,8/4/2011,80710,73821.54,white,diesel,manual,4.4,Suite 73,Meredith Skirling,3/19/2025
+Acura,Integra,11/2/2010,365238,91635.93,black,diesel,automatic,5.8,PO Box 46674,Terry Comazzo,9/28/2025
+Suzuki,Esteem,8/31/2025,212109,28159.51,blue,gasoline,automatic,5.1,Apt 923,Dorri Cappell,10/24/2025
+BMW,3 Series,9/30/2023,179663,46668.17,red,diesel,manual,2.1,Room 444,Danice Kinforth,1/16/2026
+Cadillac,XLR,9/15/2010,228399,93007.44,white,hybrid,manual,1.1,Apt 1862,Dulciana Bumphrey,2/18/2026
+Volkswagen,Type 2,7/13/2016,270838,53206.33,blue,gasoline,manual,5.6,Room 1088,Beverley Feaks,12/28/2025
+Toyota,Tacoma,8/9/2014,229174,33251.19,silver,gasoline,manual,1.5,Suite 12,Roseanna Austins,4/26/2026
+BMW,M3,7/2/2025,82543,37112.16,red,gasoline,automatic,5.2,12th Floor,Andrei Faucett,1/26/2026
+Chevrolet,Blazer,3/21/2019,438644,78282.43,blue,diesel,automatic,5.1,PO Box 45896,Mattheus Pimmocke,3/4/2026
+Honda,Civic,8/15/2022,455941,11140.41,red,gasoline,manual,5.5,Room 381,Elston Le Grove,11/27/2025
+Toyota,Prius,9/27/2018,254641,2275.7,silver,electric,manual,1.4,Suite 83,Purcell Twiggins,8/24/2025
+Hyundai,Elantra,10/21/2016,333310,96698.41,white,hybrid,manual,4.7,Room 1775,Waverly Bache,10/20/2025
+Cadillac,XLR-V,7/21/2011,483818,96073.26,silver,diesel,automatic,2.2,Apt 1931,Kizzee Chamberlen,3/31/2026
+Jeep,Cherokee,12/6/2015,168879,51247.6,black,hybrid,manual,4.5,PO Box 51521,Roxy Torbard,6/19/2025
+Jeep,Grand Cherokee,12/20/2017,375859,17798.78,white,hybrid,manual,2.6,Room 706,Bettine Penning,11/2/2025
+Chevrolet,HHR,8/17/2024,25668,48918.49,red,hybrid,manual,3.3,Suite 78,Tedmund Vedntyev,2/10/2026
+Chevrolet,Malibu,2/19/2014,443213,33247.34,red,hybrid,manual,4.7,12th Floor,Arlina Figurski,2/21/2026
+Mitsubishi,Galant,8/1/2020,451482,55461.54,red,diesel,automatic,5.4,Room 195,Nikkie Kinrade,4/20/2025
+MINI,Cooper,2/12/2013,82496,74348.81,black,electric,automatic,2.0,Apt 90,Damaris Rossant,4/11/2025
+Mazda,Tribute,9/30/2024,10522,74074.11,silver,diesel,manual,4.8,Apt 1856,Marlie Hasslocher,7/27/2025
+Land Rover,LR4,7/31/2011,59669,29160.86,blue,hybrid,manual,3.4,Apt 1828,Ramona Penhall,3/16/2026
+Mazda,Tribute,1/7/2014,259502,29901.92,blue,hybrid,automatic,6.0,Suite 82,Corabelle Charrisson,3/1/2026
+Hyundai,Sonata,1/11/2019,427903,15311.0,blue,hybrid,manual,4.1,19th Floor,Jeremy Boddis,10/24/2025
+Isuzu,Rodeo,10/3/2010,480399,88720.67,white,hybrid,automatic,3.2,Apt 616,Urbano Clardge,10/2/2025
+Buick,Regal,8/20/2019,459431,12766.12,red,gasoline,automatic,1.5,Suite 38,Kellia Deeble,3/22/2025
+Honda,Prelude,12/10/2010,10653,57289.02,red,hybrid,automatic,4.4,Room 1651,Marni Gant,4/5/2025
+Jaguar,X-Type,10/2/2019,28474,54032.31,blue,diesel,manual,4.1,10th Floor,Willem Strivens,3/2/2025
+MINI,Clubman,8/1/2018,92639,30591.52,black,gasoline,manual,1.9,PO Box 10624,Norma Dumelow,4/3/2025
+Nissan,Pathfinder,6/30/2025,234373,18363.37,silver,diesel,automatic,6.0,Suite 43,Claresta Skillett,11/15/2025
+Pontiac,Grand Prix,1/20/2024,13770,43090.51,blue,diesel,automatic,3.5,Suite 73,Gayla Songist,3/16/2025
+GMC,Savana 3500,8/20/2020,135512,65557.28,silver,diesel,automatic,1.1,Room 1284,Mei Minithorpe,5/11/2025
+Hyundai,Tiburon,5/6/2014,101748,46914.71,white,diesel,manual,5.3,Suite 67,Antonia Chadband,11/10/2025
+Isuzu,Ascender,3/31/2013,97271,46641.43,red,diesel,manual,3.0,Room 1816,Jeanette Origin,9/18/2025
+Volkswagen,Jetta,7/15/2018,370923,70660.75,red,hybrid,manual,6.0,Room 76,Izaak Antonioni,9/13/2025
+Hillman,Minx Magnificent,8/9/2016,56814,69345.84,blue,hybrid,automatic,4.7,2nd Floor,Evin Beardow,5/10/2025
+Honda,Accord,5/27/2011,310139,23560.68,black,diesel,automatic,2.6,Suite 22,Deloris Aloshkin,5/2/2025
+Land Rover,Discovery,2/22/2011,403927,49091.53,silver,diesel,automatic,1.5,Suite 15,Billie Humby,7/4/2025
+Jeep,Grand Cherokee,11/7/2025,347511,16229.69,black,diesel,manual,4.1,PO Box 96690,Carmine Shoveller,2/8/2026
+Eagle,Talon,10/23/2021,464210,79651.57,blue,gasoline,manual,3.8,Room 336,Brenn Iskow,9/27/2025
+Dodge,Sprinter,10/21/2010,255444,52890.56,black,gasoline,automatic,1.8,1st Floor,Bronnie Stanlack,3/10/2025
+Jaguar,S-Type,3/26/2012,184521,9669.96,silver,hybrid,manual,1.8,Room 1504,Dulsea Denisyev,4/3/2025
+Kia,Optima,2/5/2014,32501,6877.85,white,electric,automatic,4.6,PO Box 14186,Roberto Dunstall,12/22/2025
+Saab,900,3/24/2022,368204,84218.31,red,gasoline,manual,5.3,PO Box 17923,Xena Hrinchishin,10/10/2025
+Ford,Aerostar,9/9/2021,111425,6057.57,red,gasoline,automatic,3.6,Apt 1232,Della Innocenti,1/12/2026
+Ford,E-Series,8/28/2022,84177,23560.81,white,diesel,manual,4.0,Apt 43,Thomas Rosewell,4/11/2026
+Chevrolet,Silverado 2500,9/20/2015,235277,48481.85,black,hybrid,manual,3.7,Suite 35,Corrie Loakes,1/28/2026
+Ford,E250,5/26/2023,174065,74070.74,white,electric,automatic,1.8,Suite 27,Guillaume Curzon,9/25/2025
+Dodge,Dakota,2/2/2024,16050,63645.5,silver,gasoline,automatic,3.5,Suite 90,Clarke Stickel,3/31/2025
+Ford,F150,8/11/2023,401294,54862.15,blue,diesel,automatic,4.4,Room 1399,Linette Tommeo,2/12/2026
+Buick,Lucerne,3/26/2012,388919,69495.93,black,diesel,manual,2.9,Suite 25,Rosabella Dyshart,6/5/2025
+GMC,Suburban 2500,5/10/2020,402635,41340.65,red,gasoline,manual,2.4,PO Box 27439,Freeman Nott,4/24/2025
+Honda,Pilot,1/31/2011,499497,79253.6,white,hybrid,automatic,2.6,20th Floor,Maire Foskew,11/6/2025
+Dodge,D350,12/17/2018,124689,91314.73,blue,electric,automatic,4.4,PO Box 47820,Nert Forsyde,3/20/2026
+GMC,Sierra 1500,6/17/2017,313635,23442.68,red,electric,automatic,1.9,Suite 84,Minetta Godsmark,4/5/2025
+Suzuki,SJ,8/14/2021,206808,7678.75,white,electric,automatic,3.2,Suite 45,Isador Jull,6/26/2025
+Mazda,Mazda5,6/28/2024,241885,82759.57,white,hybrid,manual,5.8,Apt 23,Otho Moehle,3/18/2025
+Morgan,Aero 8,4/13/2024,253386,60294.62,silver,gasoline,automatic,4.6,18th Floor,Terence Eland,5/27/2025
+Pontiac,Grand Prix,11/2/2015,492664,56310.16,silver,gasoline,manual,5.8,20th Floor,Horace Doumerc,4/27/2026
+Dodge,Stratus,8/1/2025,59921,71949.11,blue,hybrid,manual,2.0,17th Floor,Clerissa Studdal,8/22/2025
+Jaguar,X-Type,6/12/2010,282596,43567.46,blue,electric,automatic,1.1,PO Box 85525,Kaye Haulkham,8/18/2025
+Nissan,Sentra,9/29/2023,157642,28660.96,silver,electric,automatic,3.4,6th Floor,Korrie Powderham,9/12/2025
+Buick,Regal,7/4/2011,9457,22178.9,red,hybrid,automatic,2.9,Apt 1795,Yankee Cassell,4/11/2025
+Ferrari,458 Italia,2/2/2024,388297,30621.48,red,hybrid,automatic,1.8,Room 229,Arman Moine,8/24/2025
+Lamborghini,Murciélago,6/22/2018,459276,2647.76,red,diesel,automatic,4.4,Suite 56,Park Corness,4/12/2025
+BMW,6 Series,9/10/2011,363233,1367.59,blue,hybrid,manual,2.6,Room 1674,Dex Peye,10/20/2025
+Audi,Allroad,12/20/2022,310257,28313.51,black,electric,manual,2.6,Apt 1643,Vincent Espinheira,2/10/2026
+Acura,TL,12/6/2010,100711,39050.28,red,gasoline,manual,1.7,PO Box 18928,Irv Fayter,7/22/2025
+Bentley,Continental,12/4/2021,331706,89072.94,black,gasoline,automatic,3.0,Suite 12,Wald Campagne,10/29/2025
+Audi,TT,2/3/2025,52257,46960.12,black,electric,manual,5.8,Suite 60,Gilles Christy,5/3/2026
+Lincoln,Mark LT,6/20/2012,42514,22520.76,blue,electric,manual,2.9,Room 988,Mahalia Peperell,9/26/2025
+Lotus,Esprit,5/13/2015,295718,55474.74,white,electric,manual,4.6,Suite 53,Nessa Attewell,4/29/2025
+Land Rover,Defender,7/17/2020,198268,45682.84,white,electric,automatic,3.4,Apt 1651,Gerrilee Weatherup,8/27/2025
+Toyota,Sienna,3/23/2015,85272,59450.82,white,gasoline,manual,3.5,PO Box 72981,Abeu Bransby,6/5/2025
+Hummer,H1,7/13/2019,5727,51895.44,red,electric,automatic,3.7,Suite 95,Reginald Stathers,3/21/2025
+Lexus,IS-F,2/2/2024,113748,75173.27,red,electric,automatic,5.5,Room 1744,Stacey O'Bradane,4/4/2025
+Isuzu,i-290,4/12/2022,269447,19431.61,silver,diesel,manual,5.8,Room 921,Rolland Wyeth,8/25/2025
+BMW,3 Series,3/25/2026,232386,30299.5,white,diesel,automatic,2.7,10th Floor,Deane Antonov,9/6/2025
+BMW,5 Series,6/21/2024,408771,33532.72,black,diesel,manual,1.1,Suite 62,Jeannine Gleder,4/12/2025
+Lexus,SC,4/24/2011,266582,78697.7,blue,hybrid,manual,2.9,Room 1174,Gabriella Fritz,1/6/2026
+Lexus,GX,8/16/2016,158375,71925.25,silver,electric,manual,2.3,Apt 108,Abraham Goschalk,3/13/2025
+GMC,Yukon,9/24/2015,108367,20361.83,blue,gasoline,automatic,3.6,Suite 81,Gavrielle Gately,11/28/2025
+Mercedes-Benz,SL-Class,1/9/2011,74701,51493.01,silver,gasoline,automatic,1.2,Apt 9,Akim Henkmann,6/3/2025
+Ford,Econoline E350,6/18/2022,155618,4283.04,silver,gasoline,manual,2.3,Suite 83,Jorge Upchurch,2/19/2026
+Audi,90,4/21/2025,263875,12537.38,silver,electric,automatic,3.1,PO Box 82871,Alexander Scrase,11/11/2025
+Mercedes-Benz,Sprinter,4/19/2017,33905,85486.39,silver,gasoline,manual,3.9,17th Floor,Eddie Fellon,9/3/2025
+Audi,RS4,7/27/2020,121804,25733.77,silver,electric,automatic,3.9,Apt 1101,Filippo Parton,4/23/2025
+Ford,Tempo,4/13/2013,283232,91558.5,black,hybrid,automatic,2.9,Room 59,Gleda Nazer,1/30/2026
+Cadillac,Seville,3/2/2012,134842,62221.4,red,electric,automatic,1.0,14th Floor,Stefanie Linggard,12/16/2025
+BMW,M3,6/16/2019,14792,92623.18,white,gasoline,automatic,5.5,PO Box 63258,Sabrina Purrier,3/19/2026
+Dodge,Caravan,8/2/2019,266911,9863.24,white,gasoline,manual,4.6,PO Box 23292,Kevin Pollastrino,9/30/2025
+Ford,Contour,5/23/2022,42017,77808.69,red,gasoline,automatic,1.7,Room 1209,Shandy Hrachovec,6/9/2025
+Ford,Escape,5/5/2013,399054,14171.48,silver,electric,automatic,1.2,17th Floor,Neely Abrahim,10/30/2025
+Infiniti,Q,3/5/2011,318627,68719.5,black,diesel,manual,1.2,Suite 60,Megan MacCartan,3/8/2026
+Pontiac,Firebird,9/7/2013,146370,57797.28,white,hybrid,manual,4.1,Suite 43,Garv Beszant,12/30/2025
+GMC,3500,5/25/2025,271876,54552.8,blue,diesel,automatic,1.3,Room 1433,Mora Langelay,1/5/2026
+Saab,9-3,6/18/2017,363929,47161.58,blue,electric,automatic,5.2,Suite 23,Brena Eckly,7/14/2025
+Mitsubishi,L300,6/7/2010,497725,6867.54,blue,diesel,manual,1.8,PO Box 95309,Gail Rustan,6/2/2025
+Subaru,Justy,12/18/2011,65551,36606.89,white,gasoline,manual,5.2,Suite 70,Serge Sinclaire,12/20/2025
+Chevrolet,Sportvan G20,4/6/2011,369376,99019.72,blue,gasoline,automatic,1.3,PO Box 87405,Ermina Quodling,2/6/2026
+Ford,Aerostar,11/22/2016,41585,58171.88,black,hybrid,manual,1.3,Room 575,Burch Blackwell,2/1/2026
+Buick,Regal,4/1/2018,323797,19022.01,blue,electric,automatic,1.5,PO Box 21899,Farr Checchetelli,1/19/2026
+Ford,Explorer,3/17/2018,29165,52535.67,blue,electric,automatic,1.9,11th Floor,Charla Johananoff,3/13/2026
+Lincoln,Blackwood,8/8/2013,287613,94336.8,black,electric,automatic,3.9,PO Box 35111,Bradley Sherwill,4/9/2025
+Honda,Prelude,6/5/2020,476820,33800.68,silver,hybrid,automatic,5.5,Room 1142,Candida Malek,3/26/2025
+Toyota,Echo,5/23/2015,241891,61971.74,silver,hybrid,automatic,4.6,2nd Floor,Archie Hatje,8/25/2025
+Hummer,H2 SUV,9/20/2022,144026,23024.55,white,diesel,automatic,5.8,3rd Floor,Vincents Ferraretto,3/12/2025
+Cadillac,STS-V,8/7/2016,347816,80903.91,silver,hybrid,manual,2.9,Room 1932,Brooke Caulwell,3/16/2025
+Chevrolet,Camaro,4/12/2022,375601,65882.84,white,electric,automatic,4.0,Suite 21,Suellen Ahmed,10/29/2025
+Pontiac,Grand Prix,8/14/2017,288934,34194.81,black,diesel,manual,4.1,Room 753,Reynard Taberer,3/31/2026
+BMW,550,8/21/2012,340458,19816.97,blue,gasoline,automatic,4.3,Apt 1518,Malchy Lamplugh,7/30/2025
+Pontiac,G6,9/16/2011,146326,82315.06,black,hybrid,manual,5.4,Suite 1,Shara De la Yglesia,10/8/2025
+GMC,Rally Wagon 3500,10/6/2010,252870,63481.02,black,diesel,automatic,4.3,Room 812,Abbott Goodricke,10/18/2025
+Ford,E150,5/20/2011,63345,41309.7,black,hybrid,automatic,5.3,Suite 14,Olivier Eschelle,8/24/2025
+Ford,E250,1/22/2018,301813,45626.75,blue,diesel,automatic,5.6,5th Floor,Grady Reast,12/20/2025
+Lamborghini,Countach,7/16/2024,72935,60254.69,blue,gasoline,automatic,4.1,Suite 19,Malvina Filip,3/2/2026
+Saab,900,8/16/2023,244156,33840.12,silver,diesel,automatic,3.8,PO Box 74969,El Timmens,3/30/2025
+Ford,Aspire,2/26/2019,271264,17505.2,blue,diesel,automatic,3.5,Room 1877,Latia De Marchi,12/20/2025
+Nissan,Frontier,12/21/2018,469000,56520.31,red,gasoline,manual,3.2,Suite 4,Gustaf Stannis,4/13/2026
+Acura,NSX,2/23/2024,132329,62264.98,blue,gasoline,manual,2.9,PO Box 43298,Zita Crimp,8/26/2025
+Pontiac,Firebird,5/15/2014,12748,7978.88,white,hybrid,automatic,1.3,PO Box 91692,Nannette Fonquernie,1/22/2026
+Ford,LTD Crown Victoria,6/25/2014,144417,65107.79,white,electric,automatic,1.7,Apt 1426,Milton O'Harney,2/18/2026
+Audi,90,7/10/2024,355279,2821.39,white,hybrid,manual,3.3,PO Box 34955,Peadar Broadberrie,4/7/2026
+Audi,RS6,3/27/2025,445993,4030.34,blue,hybrid,automatic,3.0,Suite 79,Alejoa Fernier,7/30/2025
+Audi,RS4,1/31/2024,240228,39395.16,black,diesel,automatic,1.1,11th Floor,Vivyanne Joreau,3/14/2025
+Volkswagen,Jetta,2/23/2019,385045,82899.01,white,diesel,manual,3.9,12th Floor,Whitaker Worlidge,2/18/2026
+Ford,Econoline E250,4/2/2017,257533,9869.01,black,hybrid,automatic,4.7,18th Floor,Dominik Stiegers,10/14/2025
+Nissan,Altima,11/24/2010,224089,41178.34,black,electric,automatic,1.5,Apt 871,Clareta Leyshon,7/16/2025
+Chevrolet,Tahoe,2/26/2026,33078,18077.12,silver,electric,manual,5.6,Room 62,Vere Penkethman,3/8/2026
+Ford,E250,7/7/2023,43426,3516.92,white,diesel,manual,2.4,PO Box 83531,Karry Arnason,1/22/2026
+Subaru,Legacy,4/22/2015,333372,75742.67,red,hybrid,automatic,4.9,Room 741,Newton Szreter,5/6/2026
+Mitsubishi,Diamante,6/5/2010,446561,17962.98,silver,electric,manual,5.3,Room 837,Bill Frankton,3/14/2025
+Ford,Expedition,7/25/2012,252948,96314.59,silver,diesel,manual,1.3,Room 1093,Cherice Castellini,8/12/2025
+Plymouth,Sundance,2/10/2014,435289,38847.82,black,electric,manual,1.1,PO Box 25334,Cleve Conibere,9/22/2025
+Buick,LeSabre,12/10/2020,30035,5616.89,black,gasoline,automatic,2.5,Apt 557,Baldwin Caughan,8/13/2025
+Toyota,Celica,7/17/2014,46253,93820.79,red,gasoline,manual,1.5,5th Floor,Artus Kleinhaus,12/14/2025
+Land Rover,Range Rover Sport,3/22/2019,160675,89353.16,white,gasoline,automatic,4.1,PO Box 87259,Kellen Yakunikov,1/8/2026
+Ford,Taurus,8/18/2021,356344,74832.59,red,electric,automatic,4.4,Apt 1912,Robbyn Poynor,4/2/2026
+Oldsmobile,Silhouette,5/3/2015,495920,19917.32,red,gasoline,manual,4.3,Suite 66,Cly Farthin,12/13/2025
+Pontiac,Fiero,10/8/2010,25180,55494.34,white,electric,automatic,1.1,Suite 41,Leigh Bloor,6/21/2025
+Dodge,Neon,8/8/2017,64895,36475.25,black,electric,automatic,1.2,18th Floor,Joana Farleigh,6/29/2025
+MINI,Cooper,11/1/2010,451677,67703.91,red,hybrid,automatic,2.6,Room 364,Lyndell Fedynski,10/18/2025
+Audi,R8,12/6/2025,247665,20137.13,blue,hybrid,automatic,2.0,PO Box 41609,Hedvige Willoughey,8/11/2025
+Toyota,Matrix,9/10/2025,475445,21034.11,silver,diesel,automatic,5.1,PO Box 74889,Lishe Radmore,5/15/2025
+Chevrolet,Corsica,5/6/2015,163352,16817.9,red,diesel,manual,3.2,Suite 49,Roselia Bartlam,7/9/2025
+GMC,Savana,6/13/2010,408543,61798.47,red,electric,automatic,5.3,PO Box 24398,Saree Wreight,4/1/2025
+Nissan,Frontier,10/20/2016,196277,31834.56,red,electric,automatic,1.5,Suite 41,Hallie Harborow,8/28/2025
+Subaru,Justy,5/12/2015,276168,2167.95,silver,hybrid,manual,4.4,Room 1378,Jabez Rapson,4/30/2025
+Mercury,Mariner,5/19/2022,312571,43776.91,black,gasoline,automatic,2.1,1st Floor,Michaelina Huckfield,11/29/2025
+Chevrolet,Cruze,12/9/2014,109325,21784.85,silver,gasoline,automatic,1.1,PO Box 16280,Ragnar Fetherstone,1/23/2026
+Ford,Expedition,9/7/2025,143882,76065.64,silver,diesel,manual,3.5,Suite 62,Katerina Casassa,9/10/2025
+Dodge,Dakota,6/8/2018,38571,69781.03,black,diesel,manual,2.2,Room 1630,Llewellyn Mixture,4/17/2025
+Pontiac,1000,12/17/2020,360669,84386.45,silver,hybrid,automatic,5.4,PO Box 73844,Albina Atwood,4/25/2025
+Audi,Coupe GT,5/30/2018,497715,96131.48,black,gasoline,manual,2.2,Apt 1212,Ivory Bullough,1/27/2026
+Toyota,Sequoia,9/26/2011,73226,70023.24,silver,diesel,manual,4.0,Suite 90,Sterling Watkin,3/11/2026
+Chevrolet,Impala,6/3/2017,478274,88193.14,silver,hybrid,manual,3.6,Suite 62,Tymothy Lortz,7/5/2025
+Plymouth,Colt,12/31/2019,159277,45196.88,black,electric,automatic,4.7,Apt 153,Judah Hodcroft,7/1/2025
+Mercedes-Benz,SL-Class,8/21/2011,436277,71838.93,white,gasoline,manual,3.3,Suite 28,Gertrude Petrenko,2/13/2026
+Chrysler,Concorde,3/28/2026,325217,84511.24,blue,diesel,automatic,1.1,Apt 1300,Findley Crean,8/7/2025
+Buick,LeSabre,9/12/2023,49449,75155.53,blue,gasoline,automatic,5.2,Room 840,Stephannie Catling,10/13/2025
+Lamborghini,Gallardo,1/27/2026,332497,14849.75,white,gasoline,manual,4.2,Apt 1650,Montgomery Hatwell,3/15/2025
+Acura,TSX,12/24/2021,107093,6280.5,blue,electric,manual,1.9,Suite 48,Audre Frow,12/23/2025
+Chevrolet,Express 3500,1/15/2020,111169,33688.59,red,diesel,manual,4.4,Apt 45,Judi Cops,9/2/2025
+Jeep,Wrangler,8/24/2015,483635,66763.98,blue,electric,manual,5.4,Suite 87,Sterne Heyball,9/5/2025
+Toyota,Celica,2/26/2015,432088,79350.17,black,hybrid,automatic,5.6,PO Box 5374,Truda Balassa,8/21/2025
+Lotus,Esprit,12/25/2024,116783,6119.94,white,gasoline,manual,4.7,Suite 31,Glynis Arnley,7/18/2025
+Lincoln,Town Car,4/1/2011,209971,70154.07,black,hybrid,automatic,2.7,Suite 8,Conni Vedstra,4/14/2025
+Buick,Roadmaster,4/18/2013,397715,44709.25,black,gasoline,automatic,3.0,Apt 35,Vinnie Pohl,11/10/2025
+Lexus,LX,8/2/2019,367727,48232.67,black,gasoline,manual,2.1,Apt 295,Winnie Bowery,10/20/2025
+Toyota,Yaris,6/20/2013,2205,17170.73,red,diesel,manual,1.1,PO Box 38765,Dede Pessel,5/27/2025
+Mazda,MX-6,8/14/2022,178520,84300.83,red,gasoline,manual,4.2,Apt 1192,Lissi Domenget,7/18/2025
+Plymouth,Voyager,2/6/2015,106352,39447.63,red,gasoline,automatic,2.5,PO Box 29806,Jehanna Denyakin,5/25/2025
+Chevrolet,Silverado 3500,1/4/2019,398091,25451.04,blue,hybrid,manual,3.0,PO Box 25739,Basile Skeath,12/7/2025
+Saturn,S-Series,8/7/2012,95079,99668.64,blue,diesel,manual,3.3,Apt 118,Danya Harold,6/25/2025
+Volvo,C30,6/18/2015,165111,24083.49,silver,hybrid,automatic,5.6,PO Box 74027,Sybille L'Amie,11/26/2025
+Mercedes-Benz,CLK-Class,6/21/2010,356337,53768.83,silver,gasoline,manual,1.8,PO Box 75691,Parnell Bausmann,10/24/2025
+Hummer,H3T,6/27/2015,451721,66043.67,white,gasoline,automatic,4.7,PO Box 36510,Francklyn Furmage,4/3/2025
+Chevrolet,Blazer,12/7/2022,456400,70521.8,blue,gasoline,manual,1.7,Apt 796,Lea Bownas,10/25/2025
+Suzuki,Equator,2/11/2016,409401,81273.84,blue,hybrid,automatic,2.2,PO Box 46117,Jaynell Wooding,7/4/2025
+Ford,Edge,4/12/2026,475979,92127.85,blue,hybrid,manual,5.5,PO Box 34850,Franciskus Coggin,6/4/2025
+Mitsubishi,Lancer Evolution,2/14/2012,115246,54931.53,red,gasoline,automatic,3.0,Room 421,Matteo Reeder,6/11/2025
+Eagle,Summit,3/29/2022,473904,91214.47,white,gasoline,manual,3.7,Apt 804,Lonnie Ganiford,6/4/2025
+Audi,Allroad,5/4/2021,140431,20441.62,black,hybrid,automatic,1.5,Room 1541,Donnie Beaument,4/25/2026
+Ferrari,599 GTB Fiorano,8/4/2017,356271,77836.52,black,hybrid,automatic,2.6,Suite 93,Daffie Dash,9/27/2025
+Porsche,928,8/13/2025,141399,79311.74,red,diesel,manual,5.9,Suite 70,Banky Epdell,3/3/2026
+Buick,Skyhawk,8/10/2011,390480,21497.84,blue,hybrid,manual,5.1,17th Floor,Sigfrid Siggee,11/2/2025
+Hyundai,Veloster,6/29/2011,180822,74074.99,blue,electric,automatic,2.1,5th Floor,Tildie Jurisch,2/3/2026
+Mercedes-Benz,G-Class,1/21/2016,416131,76765.69,red,gasoline,manual,2.8,10th Floor,Janela Hattoe,11/25/2025
+Buick,Skylark,4/19/2021,344109,79773.4,black,gasoline,manual,5.5,5th Floor,Esdras McGowan,10/29/2025
+GMC,2500,7/3/2012,462070,42760.1,red,gasoline,manual,4.0,Suite 9,Shanie Ovey,12/12/2025
+Toyota,TundraMax,11/30/2010,447117,74908.02,white,electric,automatic,5.4,Suite 88,Toddie Crielly,10/25/2025
+Buick,Hearse,1/26/2019,67457,60149.37,black,gasoline,manual,3.2,Room 2000,Doralyn Gransden,2/1/2026
+Ford,Explorer Sport Trac,1/24/2020,161107,58641.34,black,diesel,automatic,5.6,Suite 8,Demetrius Schuler,9/27/2025
+Ford,Ranger,9/8/2016,361603,74196.2,blue,hybrid,manual,1.4,PO Box 74289,Prudi Samms,2/7/2026
+Volkswagen,Cabriolet,3/21/2020,329732,10238.89,silver,gasoline,manual,2.1,PO Box 7493,Ara Ziemens,5/11/2025
+Saturn,Astra,7/9/2019,295545,21732.88,red,diesel,manual,1.8,PO Box 57044,Joela Iliffe,12/31/2025
+Volvo,V70,2/14/2021,327505,64946.35,silver,electric,manual,4.1,PO Box 96089,Teena Dumphries,7/14/2025
+Audi,Allroad,1/31/2026,364075,98429.57,silver,hybrid,manual,2.5,PO Box 47959,Arlana Antognozzii,7/8/2025
+Mitsubishi,Diamante,5/11/2010,331854,73516.41,white,electric,manual,3.2,5th Floor,Robbi Jacobovitch,1/13/2026
+Plymouth,Grand Voyager,6/2/2013,266055,19250.74,white,diesel,automatic,1.2,9th Floor,Alejoa Scolding,7/21/2025
+Pontiac,Firefly,2/18/2022,60973,50762.81,red,electric,manual,1.2,9th Floor,Ewan Doyley,5/30/2025
+Mercedes-Benz,E-Class,6/22/2021,246739,3793.82,silver,electric,automatic,3.5,1st Floor,Rollin Ollcott,2/27/2026
+Mercedes-Benz,Sprinter 3500,4/13/2014,276645,93924.7,blue,electric,automatic,2.8,1st Floor,Rainer Caplan,4/19/2025
+Ford,Explorer Sport Trac,1/30/2022,327321,48066.5,white,hybrid,automatic,6.0,8th Floor,Arty Melling,4/21/2025
+Pontiac,Firebird Trans Am,10/5/2019,162058,50578.75,white,hybrid,manual,1.5,14th Floor,Margie Greest,6/4/2025
+Subaru,Forester,3/16/2025,126376,16072.88,silver,hybrid,manual,1.6,Apt 1462,Lewes Rosenboim,5/3/2026
+Chevrolet,Camaro,9/10/2020,2085,81937.23,red,diesel,automatic,1.1,1st Floor,Stevana Tomaino,3/24/2026
+Cadillac,XLR-V,4/20/2021,152532,29199.66,white,gasoline,manual,5.4,PO Box 82108,Jinny MacCourt,6/24/2025
+Volkswagen,Rabbit,3/6/2014,14692,86786.53,white,diesel,manual,5.1,Suite 53,Brooke Pyser,4/19/2026
+Mitsubishi,Challenger,6/21/2025,223588,76760.88,white,diesel,manual,1.1,12th Floor,Rivkah Hellmer,2/21/2026
+Subaru,Impreza,9/27/2023,382249,87635.21,white,electric,automatic,3.1,PO Box 24917,Cosette Turner,4/20/2025
+MINI,Clubman,7/4/2018,236172,61503.48,white,gasoline,manual,1.8,Suite 39,Marcille Sayward,11/12/2025
+Volkswagen,Golf,7/20/2012,130229,54496.17,black,electric,automatic,2.0,PO Box 63160,Cynthia Mitchely,11/19/2025
+Audi,Quattro,4/26/2020,468824,16320.4,black,diesel,manual,3.6,Apt 415,Alley Hosburn,5/6/2025
+Acura,NSX,7/1/2024,50973,89377.98,black,electric,manual,4.1,Room 336,Euphemia Aston,8/23/2025
+Subaru,Impreza,11/8/2024,476043,38930.97,silver,gasoline,automatic,5.1,19th Floor,Stormie Abrahamson,2/18/2026
+Eagle,Vision,3/7/2024,39048,67485.71,white,hybrid,manual,3.5,Apt 507,Curry Taffarello,11/29/2025
+Mazda,MX-5,6/18/2016,56753,29781.68,red,electric,manual,5.8,19th Floor,Archie Bowerman,12/7/2025
+Nissan,GT-R,4/14/2013,410143,88384.98,white,diesel,manual,5.3,Apt 1396,Savina Dargavel,7/20/2025
+GMC,Sierra 1500,12/9/2017,294016,35255.89,silver,electric,manual,4.3,PO Box 29929,Carmelita Lasham,4/22/2026
+Ford,Freestar,7/11/2010,372329,5645.57,blue,diesel,manual,4.1,Apt 114,Mychal Gudde,5/16/2025
+Ford,Edge,4/22/2015,165612,26073.09,black,hybrid,automatic,1.5,Suite 49,Kaylyn Tembey,5/16/2025
+Eagle,Vision,3/29/2012,321478,72540.22,blue,diesel,automatic,3.2,18th Floor,Ben MacNair,11/4/2025
+GMC,Envoy,4/30/2013,398580,22450.02,black,gasoline,manual,3.9,17th Floor,Shoshana Dufer,6/30/2025
+Kia,Sedona,12/12/2023,90194,9987.14,red,gasoline,automatic,1.1,Suite 15,Harmon Labusquiere,12/6/2025
+Honda,del Sol,9/15/2017,139659,4180.58,silver,hybrid,manual,1.2,Suite 90,Shell Formie,8/15/2025
+Chevrolet,3500,12/8/2013,285210,21191.09,blue,electric,manual,1.9,Apt 585,Amanda Rother,4/28/2026
+Audi,5000S,4/23/2020,497485,32510.5,red,hybrid,automatic,2.9,Suite 81,Leena Lavery,4/12/2026
+Ford,Crown Victoria,3/14/2014,85773,29139.0,white,electric,manual,3.6,9th Floor,Maritsa Chalmers,7/13/2025
+Mazda,Tribute,11/6/2024,273515,16477.4,red,electric,manual,2.3,Apt 902,Sherri Kadd,8/10/2025
+Ram,Dakota,7/13/2012,245848,71701.69,red,hybrid,automatic,1.6,1st Floor,Richard Menichillo,7/20/2025
+Buick,Skylark,6/13/2024,361468,34378.63,silver,diesel,manual,2.3,PO Box 76855,Clarice Hartill,3/13/2025
+GMC,Rally Wagon 3500,5/14/2014,138119,7268.27,black,hybrid,automatic,2.0,Apt 1283,Idelle Burghall,2/18/2026
+Pontiac,Trans Sport,3/17/2020,449666,7044.94,white,gasoline,manual,2.0,PO Box 8089,Javier Gookey,4/11/2025
+Alfa Romeo,164,10/22/2018,490931,64025.12,silver,diesel,manual,3.5,PO Box 32568,Lesly McKeeman,10/12/2025
+Subaru,Tribeca,2/28/2017,60610,16680.26,blue,diesel,manual,1.4,Apt 1093,Alejandro Reihm,6/13/2025
+Subaru,Forester,5/21/2020,65910,39731.98,black,hybrid,manual,1.4,1st Floor,Tamiko Boule,11/10/2025
+Mercedes-Benz,400E,11/30/2015,291126,78318.44,red,diesel,manual,3.0,Suite 44,Raynell Shury,11/26/2025
+Subaru,Outback,11/24/2023,176789,18003.02,white,diesel,manual,4.3,9th Floor,Davin Lamboll,9/20/2025
+Hummer,H1,1/3/2016,240331,97502.14,black,gasoline,automatic,2.4,7th Floor,Ted Surguine,9/18/2025
+Porsche,928,12/12/2016,364850,53329.45,red,gasoline,manual,3.7,6th Floor,Ozzie Grayshon,9/3/2025
+Mazda,B-Series,9/7/2023,349795,28315.01,silver,electric,automatic,3.1,Room 243,Maire Ginnelly,1/28/2026
+Mitsubishi,Chariot,9/7/2012,449521,62888.05,red,hybrid,manual,5.6,Apt 1202,Merrill Cassimer,5/9/2025
+Ford,Explorer Sport,3/11/2023,92819,78616.04,black,hybrid,manual,4.2,Room 972,Cristine Dashper,7/5/2025
+Isuzu,Rodeo,11/14/2017,233110,9386.18,white,hybrid,automatic,4.2,PO Box 62835,Rowen Simpkins,12/21/2025
+Dodge,Ram 1500,5/10/2019,134877,22525.92,black,diesel,automatic,2.0,9th Floor,Natasha Sarfat,11/15/2025
+Jeep,Wrangler,4/22/2026,237011,34690.84,silver,diesel,manual,3.7,Apt 998,Sophronia Leborgne,5/24/2025
+Buick,Century,8/20/2015,360089,15274.23,red,hybrid,manual,3.7,Apt 191,Padraig Canas,10/30/2025
+Aston Martin,V8 Vantage,1/27/2023,170306,9119.62,red,diesel,automatic,4.6,Apt 717,Sonny McNeish,7/12/2025
+Plymouth,Neon,1/20/2021,305612,19087.28,red,hybrid,automatic,5.9,PO Box 86049,Marlowe Pacitti,3/3/2026
+Infiniti,QX,7/17/2019,328811,59570.93,black,electric,automatic,5.7,PO Box 17783,Cory Gilleson,9/30/2025
+Toyota,Corolla,12/28/2019,223763,54805.24,black,hybrid,automatic,5.8,PO Box 44763,Leontyne O'Spellissey,2/6/2026
+Volkswagen,Passat,2/23/2024,22160,13033.46,white,hybrid,manual,5.1,Suite 1,Roman Reade,8/1/2025
+Kia,Amanti,11/28/2012,102488,28642.51,silver,electric,automatic,4.7,PO Box 12128,Kimble McKinnon,4/17/2026
+Ford,Freestar,3/3/2025,178791,24082.43,black,diesel,automatic,2.7,11th Floor,Hube Shekle,5/15/2025
+Honda,CR-Z,7/14/2025,373345,58858.74,silver,electric,manual,3.2,9th Floor,Krisha Guwer,3/9/2026
+Cadillac,DeVille,2/3/2017,431840,36111.68,blue,diesel,manual,2.4,5th Floor,Rik Lynch,3/13/2025
+Mercury,Mystique,12/12/2010,140819,38323.84,red,gasoline,automatic,5.9,Suite 23,Ivan Dillimore,3/17/2025
+Buick,Century,7/29/2013,28650,22838.11,blue,electric,manual,5.0,Room 1154,Ellery Casacchia,11/22/2025
+Mitsubishi,Chariot,10/2/2015,147552,87490.67,blue,electric,automatic,1.2,Apt 1583,Gardner Marousek,4/16/2025
+Lincoln,Navigator L,10/8/2017,177948,29945.27,silver,electric,manual,3.7,Suite 96,Devlin Kender,10/1/2025
+Ford,E250,5/3/2015,109105,92273.19,silver,diesel,automatic,2.9,PO Box 88983,Sydel Jansson,5/6/2026
+Mazda,B-Series Plus,4/5/2015,137400,21196.91,black,hybrid,automatic,4.3,Room 1158,Nicoli Meier,5/24/2025
+Suzuki,Samurai,10/31/2023,353103,50179.59,silver,gasoline,manual,5.5,PO Box 57524,Dore Strode,2/21/2026
+Geo,Prizm,3/6/2021,105787,38975.62,red,gasoline,automatic,2.1,Apt 1171,Antoni Petroselli,7/23/2025
+Chrysler,300M,8/4/2015,69260,52551.19,red,electric,automatic,4.9,14th Floor,Erich Yurukhin,4/25/2025
+Toyota,4Runner,8/20/2018,258,8777.05,white,hybrid,automatic,5.5,PO Box 20266,Any Littlechild,9/15/2025
+BMW,7 Series,10/25/2023,232050,57423.59,white,gasoline,manual,5.8,PO Box 84700,Marlin Olivia,1/25/2026
+Subaru,XT,3/15/2015,275433,4065.95,red,diesel,automatic,3.4,Room 936,Brandais Allnatt,1/28/2026
+Nissan,Sentra,9/24/2022,84207,47959.71,white,gasoline,automatic,4.5,Suite 91,Tami Timny,9/24/2025
+BMW,M3,7/24/2012,94053,62250.4,red,gasoline,automatic,5.3,Suite 75,Rheta Setterington,9/29/2025
+Dodge,Dakota Club,6/24/2022,158649,53021.86,silver,gasoline,automatic,5.0,Apt 1153,Stevy Meddings,12/26/2025
+GMC,Yukon,1/9/2012,287162,75672.42,silver,electric,automatic,3.9,Suite 47,Sheree Biaggelli,6/1/2025
+Buick,Lucerne,10/17/2023,279361,26052.18,white,hybrid,automatic,2.6,Apt 444,Marin Lockney,12/23/2025
+Ford,F150,3/16/2022,483366,12291.9,black,diesel,manual,5.7,Suite 48,Corine Ganiclef,3/18/2025
+Lincoln,Continental Mark VII,1/7/2025,47125,6349.36,blue,electric,automatic,3.5,Apt 433,Bianca Wheater,5/21/2025
+Mazda,Mazda6,2/6/2014,281033,50273.95,silver,gasoline,manual,5.8,PO Box 5478,Roberta Forre,6/14/2025
+GMC,Savana 1500,4/25/2020,22603,89160.06,red,gasoline,automatic,3.3,Room 249,Ripley Scrine,4/1/2025
+Porsche,944,12/5/2015,74891,65048.76,red,electric,manual,1.2,10th Floor,Odell Roalfe,10/10/2025
+Pontiac,Bonneville,3/1/2024,262361,89925.29,silver,gasoline,manual,1.0,8th Floor,Isiahi Soitoux,6/8/2025
+Dodge,Ram 3500,8/18/2019,282896,43078.79,red,gasoline,manual,1.1,Room 1035,Des Dowdell,5/7/2025
+Chevrolet,Suburban 1500,2/22/2023,249621,93960.83,black,diesel,automatic,2.9,PO Box 28841,Penny Brisson,3/12/2025
+Ford,Club Wagon,3/4/2011,259310,13772.88,red,gasoline,manual,5.8,Suite 8,Blisse Rounding,8/15/2025
+Mercedes-Benz,500E,8/24/2020,111163,46227.3,black,electric,automatic,2.9,Apt 312,Buffy Lints,12/12/2025
+Ford,Explorer,7/10/2019,343834,42592.0,red,gasoline,manual,4.9,PO Box 87743,Em MacDermot,10/12/2025
+Chevrolet,Tracker,1/5/2017,489079,59823.28,black,hybrid,automatic,5.0,Suite 24,Anthea Mullan,11/5/2025
+Volkswagen,Corrado,9/11/2020,333113,5327.51,white,diesel,manual,6.0,Suite 23,Tanitansy Lymbourne,5/2/2026
+Studebaker,Avanti,6/5/2020,403621,19038.0,silver,diesel,automatic,2.4,PO Box 62880,Alanah Charters,3/3/2026
+Mazda,Mazda5,6/24/2013,312832,44636.0,white,electric,automatic,3.1,Room 841,Gottfried Lively,2/18/2026
+Lexus,LX,8/30/2012,233400,44248.67,white,gasoline,automatic,2.1,Apt 787,Lonnie Soppeth,1/3/2026
+BMW,Z4,9/8/2023,357246,28600.05,black,electric,manual,3.6,8th Floor,Domingo Pryde,6/21/2025
+Mercedes-Benz,SL-Class,9/16/2024,222892,35630.27,black,hybrid,manual,5.0,Apt 1617,Shermie Stevings,2/18/2026
+GMC,Yukon XL 1500,7/17/2021,240665,17067.28,silver,electric,manual,2.6,5th Floor,Pennie Marryatt,7/22/2025
+Chevrolet,Express 1500,5/3/2025,362367,26911.12,white,diesel,manual,2.0,Suite 39,Euphemia Harford,3/20/2026
+Buick,Regal,5/26/2014,324886,54343.22,blue,diesel,manual,5.6,PO Box 34689,Mavra Matus,8/7/2025
+Toyota,Camry,9/28/2019,164173,26795.43,red,diesel,automatic,1.7,Apt 702,Winny McDonogh,11/18/2025
+GMC,Savana,8/11/2010,7447,95734.96,red,hybrid,automatic,4.6,PO Box 2451,Glenda Chrishop,5/30/2025
+Mercury,Milan,10/19/2024,373154,79479.81,blue,electric,manual,1.9,Room 745,Elroy Murton,1/26/2026
+Pontiac,Firefly,3/27/2022,386680,77518.71,white,electric,manual,2.6,Apt 816,Nefen Newark,12/2/2025
+Lamborghini,Reventón,12/7/2018,342391,82604.34,blue,electric,automatic,3.5,Room 329,Amber Irvine,1/14/2026
+Subaru,Justy,1/31/2018,419923,28055.84,white,electric,manual,1.2,Room 1227,Ezekiel Mooney,2/22/2026
+Ford,Thunderbird,10/24/2020,245161,76569.6,blue,diesel,manual,3.9,Apt 1088,Deirdre Lys,2/17/2026
+Volkswagen,New Beetle,6/14/2021,420365,43750.67,red,gasoline,automatic,3.0,PO Box 69130,Dulcinea Towll,7/22/2025
+Mitsubishi,3000GT,10/28/2025,429494,34330.26,white,diesel,automatic,3.9,13th Floor,Herminia Samsonsen,7/16/2025
+Toyota,Camry,11/13/2013,239931,51442.85,white,diesel,manual,2.5,Apt 1176,Kerrin Deluze,8/1/2025
+GMC,Yukon XL 2500,9/4/2013,334650,17940.8,blue,gasoline,manual,2.4,Room 539,Nonna Wolfart,2/18/2026
+Volkswagen,Jetta,4/11/2023,191730,77220.69,silver,diesel,manual,4.9,Suite 35,Gottfried Calvie,3/2/2025
+Cadillac,Fleetwood,8/30/2022,174502,64831.31,red,gasoline,manual,1.4,15th Floor,Linus Joinsey,3/7/2025
+Subaru,Outback,4/26/2025,148572,11355.37,red,hybrid,automatic,3.3,Suite 49,Richie Roney,1/9/2026
+Suzuki,Kizashi,1/9/2020,43341,1170.48,silver,hybrid,manual,3.3,Room 1565,Lindsey Burgoyne,1/7/2026
+Saab,9000,12/24/2012,392479,66070.41,white,diesel,automatic,4.5,PO Box 87782,Christoffer McGlashan,1/10/2026
+Subaru,Impreza,11/26/2018,341007,50783.58,silver,diesel,automatic,4.8,PO Box 19017,Nanette Rowland,10/7/2025
+Subaru,Legacy,10/2/2018,264023,9097.28,red,electric,automatic,5.9,10th Floor,Rurik Ridding,11/16/2025
+GMC,Savana 3500,2/10/2026,15522,85273.01,silver,gasoline,automatic,4.4,Apt 483,Nat Elbourn,2/9/2026
+Dodge,Journey,12/16/2018,58311,25377.51,blue,electric,manual,3.2,7th Floor,Sherye Ivakhnov,7/17/2025
+Lexus,GS,8/25/2025,349756,18028.88,black,gasoline,automatic,1.4,Room 852,Corabel Baddeley,5/12/2025
+Nissan,Altima,6/1/2024,148858,53885.47,silver,diesel,automatic,5.1,Suite 29,Ransell Bernardo,1/15/2026
+BMW,3 Series,2/23/2025,123447,24706.67,silver,diesel,manual,3.2,4th Floor,Pryce Lockton,9/14/2025
+Ford,E-Series,4/18/2013,369659,25593.96,red,diesel,automatic,4.5,PO Box 55875,Clevie Snead,1/8/2026
+Eagle,Summit,1/29/2025,175375,83788.91,black,electric,manual,2.1,PO Box 67297,Marietta Darque,3/12/2025
+Mitsubishi,L300,1/26/2018,15781,19660.19,blue,hybrid,automatic,5.7,Apt 1755,Nance Tarrant,10/4/2025
+MINI,Cooper Clubman,11/17/2012,20581,15978.17,blue,gasoline,automatic,3.3,Apt 1152,Caresa Filer,4/24/2026
+Volkswagen,Tiguan,11/6/2020,255111,22624.53,black,diesel,automatic,4.8,Suite 70,De witt Trainor,5/16/2025
+Cadillac,Catera,9/15/2017,113040,39396.91,red,hybrid,automatic,4.6,Room 131,Harman Kenneford,2/24/2026
+Saab,9-3,10/17/2018,437725,37724.33,white,electric,automatic,1.7,Room 1749,Sasha Hinge,10/1/2025
+BMW,X5,7/4/2011,252454,47262.05,silver,hybrid,automatic,2.7,4th Floor,Orazio Driscoll,12/5/2025
+BMW,Alpina B7,4/9/2016,450434,14724.06,red,diesel,manual,1.7,PO Box 31424,Olympe Ravel,11/4/2025
+Ford,Expedition,4/23/2013,112092,19520.19,blue,gasoline,manual,2.4,Room 1397,Alysia Varsey,2/8/2026
+Chevrolet,LUV,5/22/2024,454248,63526.05,red,gasoline,automatic,5.3,Room 1100,Cornell Cubbini,2/23/2026
+BMW,M3,10/18/2012,314291,80331.13,black,electric,manual,4.1,Room 1765,Hansiain Gerault,4/18/2026
+Ford,E-Series,5/25/2017,491221,82844.19,black,hybrid,automatic,2.0,Suite 48,Filippa Longden,3/10/2025
+GMC,Savana 1500,9/14/2021,455279,60555.09,black,gasoline,automatic,4.5,PO Box 41536,Ronny Rosa,8/17/2025
+Kia,Carens,5/4/2014,175374,12913.44,white,hybrid,manual,2.7,Suite 89,Cornall Strauss,11/23/2025
+Mazda,B-Series,12/18/2015,68155,77522.29,red,electric,automatic,1.2,1st Floor,Rosmunda Cartledge,4/9/2025
+Land Rover,Range Rover,11/12/2021,22487,76250.71,white,hybrid,automatic,1.2,Room 119,Gustav Poat,12/11/2025
+Nissan,Quest,8/21/2022,59989,40219.73,blue,electric,manual,1.3,Apt 1538,Claudian Audenis,10/6/2025
+Chevrolet,Aveo,1/5/2017,470461,49634.17,white,gasoline,manual,5.0,PO Box 89976,Farley Igounet,8/5/2025
+Kia,Rio,7/13/2016,168213,72392.27,black,hybrid,automatic,1.6,Room 766,Sharl Litton,7/30/2025
+Dodge,Durango,12/2/2014,245635,8789.17,black,diesel,manual,2.4,PO Box 60871,Lisbeth Maleck,7/1/2025
+Buick,Century,6/24/2017,492890,20624.7,black,gasoline,automatic,5.1,Apt 224,Bernelle Pilmore,3/15/2026
+Aston Martin,DB9,10/9/2014,18399,94279.27,red,hybrid,manual,2.2,16th Floor,Lorita Arnold,6/15/2025
+Mitsubishi,Chariot,3/1/2015,321107,61919.39,black,hybrid,manual,5.6,PO Box 26121,Griffy Tillot,2/21/2026
+Ford,EXP,8/20/2011,349988,93192.58,black,gasoline,manual,1.3,PO Box 11236,Amerigo de Quesne,8/1/2025
+Volvo,V40,10/28/2015,353523,7343.49,blue,hybrid,automatic,3.2,14th Floor,Kerk Larroway,9/25/2025
+GMC,Envoy,7/10/2025,205405,21356.7,blue,electric,automatic,3.6,11th Floor,Rik McCory,6/8/2025
+Suzuki,Verona,3/19/2011,351236,5149.2,red,electric,manual,2.2,PO Box 9632,Griff Tribe,12/20/2025
+Ford,Fusion,9/29/2019,49611,63161.42,black,gasoline,automatic,2.1,PO Box 35213,Jamey Kunz,2/8/2026
+Mercedes-Benz,E-Class,11/8/2018,280030,83563.84,blue,diesel,automatic,4.4,Suite 68,Persis Cowins,8/17/2025
+GMC,Savana 3500,5/10/2020,256702,6262.0,blue,diesel,automatic,4.6,Apt 338,Gabriello Abson,5/19/2025
+Jeep,Grand Cherokee,1/10/2016,41928,16754.3,red,electric,automatic,4.8,19th Floor,Sallyanne Gauld,4/18/2025
+Chevrolet,Silverado 1500,5/2/2011,123427,75036.23,blue,gasoline,automatic,3.3,PO Box 51295,Elfie Tellenbrook,1/13/2026
+Mazda,Mazda6,12/23/2024,307754,34317.5,black,electric,automatic,5.2,3rd Floor,Oswald Crosskill,3/25/2025
+Audi,V8,6/12/2017,395286,90081.32,silver,hybrid,automatic,3.5,Apt 1478,Birch Fussen,7/16/2025
+BMW,5 Series,10/27/2012,494133,63245.07,red,hybrid,automatic,2.5,12th Floor,Effie Dougal,2/17/2026
+Honda,Prelude,9/14/2018,196669,15562.99,silver,gasoline,manual,5.8,Room 1579,Gabriel Gludor,4/3/2026
+Chevrolet,HHR,4/5/2021,331010,95073.14,silver,diesel,manual,3.8,Room 1919,Maryjo Staig,4/7/2025
+Chevrolet,G-Series G20,7/30/2016,315872,88832.38,silver,gasoline,automatic,4.0,Apt 1436,Cynde Kincade,9/23/2025
+Buick,LaCrosse,3/11/2022,453007,34619.47,red,gasoline,manual,4.4,9th Floor,Harvey Plinck,7/10/2025
+Mazda,Mazda6,7/28/2023,104909,17458.53,silver,gasoline,automatic,3.2,PO Box 86580,Boyce Checchetelli,5/5/2026
+GMC,2500,1/14/2011,54518,59048.32,black,hybrid,manual,4.2,1st Floor,Bel Legan,12/18/2025
+Ford,Tempo,12/13/2013,375192,42191.52,blue,electric,automatic,4.1,Apt 951,Dru Krolman,8/10/2025
+Nissan,Pathfinder,11/1/2022,451226,66412.51,white,gasoline,automatic,5.1,4th Floor,Mandy Rivelon,4/3/2025
+Plymouth,Colt Vista,12/6/2011,118806,33283.71,black,hybrid,automatic,2.4,PO Box 5468,Traver Duffet,2/6/2026
+Mercedes-Benz,300SL,7/9/2018,202798,17573.43,blue,gasoline,automatic,1.8,Apt 605,Constantino Whardley,8/12/2025
+Dodge,Ram Van 2500,10/24/2010,129995,69158.65,red,electric,automatic,2.1,6th Floor,Valry Deviney,5/19/2025
+Toyota,Prius,6/25/2013,250394,5962.48,red,gasoline,automatic,3.1,8th Floor,Allyn Spurryer,1/23/2026
+Chevrolet,3500,2/7/2026,23844,98303.0,white,gasoline,manual,5.4,9th Floor,Nonie Tenny,11/25/2025
+Nissan,Maxima,2/26/2013,58060,88313.87,blue,diesel,automatic,3.3,15th Floor,Matthus Ghidini,6/20/2025
+Mazda,323,12/11/2025,280088,46553.71,blue,hybrid,manual,5.5,PO Box 67987,Jarred Bradly,9/5/2025
+BMW,X3,5/27/2022,215608,91877.35,blue,gasoline,automatic,2.9,6th Floor,Marlo Timmons,6/26/2025
+Toyota,Tacoma,7/25/2014,38696,45204.43,white,electric,manual,5.2,Suite 18,Carie Reinger,3/15/2025
+Mercury,Capri,2/2/2019,41242,77553.51,silver,diesel,automatic,5.0,Apt 1952,Olimpia Lamshead,5/30/2025
+GMC,Sierra Hybrid,11/14/2018,126917,92546.2,red,hybrid,automatic,1.7,Suite 21,Freddie Mavin,6/20/2025
+Nissan,Sentra,12/20/2019,340403,99347.18,red,diesel,manual,4.1,PO Box 30111,Sandor Lauga,3/17/2025
+Mercury,Cougar,3/23/2026,68547,79293.12,blue,diesel,manual,2.5,PO Box 75583,Lotta Harris,3/12/2025
+Mitsubishi,3000GT,2/23/2013,198194,75807.25,silver,electric,manual,2.4,10th Floor,Olwen Montacute,2/2/2026
+Lexus,LX,1/23/2025,371074,27357.55,blue,diesel,automatic,2.9,PO Box 19421,Waldo Gabbitis,3/15/2026
+GMC,Yukon XL 2500,11/6/2010,259655,25310.59,silver,gasoline,manual,5.7,Suite 77,Ermin Bleasdille,7/5/2025
+Honda,Pilot,1/25/2011,14401,20210.93,black,hybrid,manual,1.7,Suite 86,Ambrosio Langman,12/9/2025
+Buick,LaCrosse,1/3/2015,55363,40268.6,silver,electric,automatic,1.1,Apt 201,Annecorinne Cescotti,12/3/2025
+Lincoln,Navigator,10/2/2012,73362,15199.41,black,gasoline,manual,3.0,Apt 768,Washington Astlatt,7/24/2025
+Pontiac,Vibe,2/15/2023,266227,61737.68,red,electric,manual,2.6,Room 181,Allayne Angear,4/27/2025
+Lincoln,Zephyr,5/30/2024,374289,63274.05,silver,electric,automatic,5.9,10th Floor,Dinny Bruckstein,11/24/2025
+Suzuki,SJ,3/3/2012,149489,13389.04,silver,hybrid,manual,1.2,PO Box 54415,Reeta Perrelle,11/17/2025
+Mercury,Mystique,5/12/2014,297395,71823.63,white,electric,automatic,3.0,Suite 46,Fabio Revie,4/1/2025
+Lexus,SC,2/12/2020,230169,46848.2,white,electric,automatic,5.9,Apt 764,Idelle Dionisii,12/12/2025
+Subaru,Legacy,8/31/2020,49354,51891.78,red,gasoline,manual,2.5,3rd Floor,Eddie Fausch,7/27/2025
+Ford,Escort,9/9/2025,5304,18680.43,white,hybrid,manual,2.1,14th Floor,Tann Roggieri,1/1/2026
+Dodge,Spirit,9/15/2012,256378,67658.09,silver,hybrid,automatic,3.5,Suite 29,Franciskus Fass,3/12/2025
+Dodge,Caravan,7/8/2012,307280,58089.55,black,electric,automatic,2.1,PO Box 99529,Ardeen Lunk,4/27/2026
+Ford,Ranger,11/20/2022,293926,5135.29,white,electric,automatic,2.0,Apt 81,Gretal Mincini,11/14/2025
+Buick,Rainier,6/17/2018,136321,67871.38,silver,diesel,manual,3.9,9th Floor,Rabbi Macy,3/16/2025
+BMW,3 Series,7/22/2016,126109,73108.28,black,hybrid,automatic,3.0,18th Floor,Ari Tibalt,7/7/2025
+Ford,Econoline E350,8/28/2021,139135,61972.39,silver,diesel,automatic,1.1,19th Floor,Raquela Keme,12/6/2025
+Nissan,Altima,2/6/2011,450308,51622.8,black,hybrid,manual,4.3,Suite 53,Warde Petit,6/1/2025
+Mitsubishi,Pajero,12/12/2013,139218,26191.62,silver,electric,automatic,4.5,Room 1846,Max Meo,12/4/2025
+Ford,Tempo,11/21/2014,223543,33949.91,white,hybrid,automatic,1.9,PO Box 29039,Othella McKeaney,3/31/2026
+Ford,Expedition,4/24/2017,326831,37606.31,black,gasoline,manual,2.4,Apt 1721,Roselle Hugland,11/7/2025
+GMC,Rally Wagon G3500,5/19/2016,16305,79436.18,blue,gasoline,automatic,1.8,PO Box 29315,Judye Astley,4/12/2025
+Cadillac,DeVille,12/31/2022,213766,23094.01,silver,diesel,manual,2.4,14th Floor,Aggy Bere,3/16/2026
+Lamborghini,Countach,9/22/2015,199940,37503.35,black,gasoline,automatic,1.4,PO Box 49188,Oren Bewicke,5/20/2025
+Lotus,Elan,4/23/2026,300566,16811.83,blue,diesel,automatic,3.6,5th Floor,Norris Lamas,8/2/2025
+Pontiac,Grand Am,12/4/2015,76118,1021.04,silver,diesel,manual,1.5,Suite 37,Suellen Whitaker,4/5/2026
+Mitsubishi,GTO,7/26/2020,134301,2254.74,silver,diesel,manual,3.9,PO Box 46392,Bernie Chamberlin,11/15/2025
+BMW,5 Series,12/24/2017,146192,1162.28,blue,hybrid,automatic,2.2,Suite 63,Silva Knutton,1/17/2026
+GMC,2500 Club Coupe,7/14/2023,224096,93463.09,red,hybrid,manual,4.0,10th Floor,Marylynne Blythe,4/24/2026
+Bugatti,Veyron,8/12/2012,123161,47249.44,silver,diesel,automatic,2.7,17th Floor,Abel Wyeld,8/25/2025
+Chevrolet,Silverado 3500HD,9/17/2024,206852,12382.59,red,diesel,automatic,2.0,Room 999,Ferdy Atkin,5/12/2025
+Mitsubishi,Challenger,5/25/2022,147962,14829.24,white,gasoline,manual,1.2,PO Box 94721,Dee Padginton,5/21/2025
+Nissan,350Z,6/11/2012,263803,12191.58,white,diesel,manual,1.7,Apt 151,Lianna Lauthian,8/29/2025
+Chevrolet,1500,3/2/2019,83839,6348.19,black,hybrid,manual,1.8,PO Box 9323,Jerry Gayther,8/29/2025
+Suzuki,Cultus,1/7/2025,397375,54832.92,blue,electric,manual,2.7,18th Floor,Kathryne Alfonsetti,4/6/2026
+Toyota,Prius,12/29/2024,68690,69945.57,blue,electric,manual,1.8,Suite 80,Ev Jacob,7/29/2025
+GMC,Envoy,11/25/2012,193301,87993.13,white,electric,automatic,5.1,11th Floor,Justinn Noble,6/25/2025
+Dodge,Ram Van B250,10/25/2017,2670,96588.6,blue,hybrid,manual,1.5,PO Box 56194,Justis Etty,6/21/2025
+GMC,Sonoma Club Coupe,1/27/2013,200627,22755.26,red,diesel,automatic,2.6,Apt 1821,Aguistin Purple,2/18/2026
+Mitsubishi,Eclipse,9/22/2017,55867,65874.07,white,hybrid,manual,2.3,Room 415,Lothaire Birch,12/22/2025
+Mazda,Tribute,1/21/2019,162347,25978.17,silver,gasoline,manual,1.6,Suite 10,Blinnie Dellow,3/5/2025
+Toyota,Tundra,12/10/2019,176588,83326.06,white,electric,automatic,3.8,Room 1169,Reggy Perks,8/26/2025
+Chevrolet,S10,6/25/2010,59993,52352.89,black,hybrid,automatic,6.0,13th Floor,Asher Profit,8/15/2025
+Toyota,Avalon,10/4/2023,469669,7478.37,black,hybrid,manual,1.5,Room 162,Bonnee Seabourne,4/3/2026
+Mazda,RX-7,5/27/2015,161866,42553.36,red,diesel,automatic,3.6,Room 811,Doralynne Hallgarth,4/4/2026
+GMC,3500,10/15/2016,473497,95681.3,red,electric,automatic,2.8,Room 504,Fleurette Schonfelder,3/13/2026
+Mazda,Protege,1/3/2025,328943,50463.61,blue,electric,manual,2.8,Apt 12,Nissa Dowbakin,10/8/2025
+Ford,LTD Crown Victoria,11/25/2016,51282,99589.96,red,gasoline,automatic,3.9,Apt 1540,Debera Hughlin,11/29/2025
+Hyundai,Santa Fe,4/18/2013,248331,33755.18,blue,diesel,manual,4.2,Suite 76,Oriana Gosden,4/4/2026
+Audi,S8,12/27/2017,67521,95181.61,silver,gasoline,automatic,2.6,Apt 589,Merrily Pales,9/10/2025
+Saab,9-7X,12/18/2017,182720,63960.12,silver,gasoline,manual,3.9,Suite 39,Cesar Quadri,5/1/2026
+Porsche,Boxster,8/27/2018,346883,54162.27,silver,electric,manual,3.6,9th Floor,Pernell Asling,3/5/2025
+Lotus,Exige,3/20/2020,315165,70781.52,blue,diesel,automatic,3.4,Room 1443,Miles Mullenger,6/11/2025
+BMW,Z4,8/28/2013,250511,54074.48,white,hybrid,manual,1.1,Suite 81,Brunhilde Rapinett,3/9/2025
+Ford,F150,6/24/2018,73200,61263.11,white,diesel,automatic,2.0,PO Box 34224,Alexis Antunez,9/25/2025
+Nissan,NV3500,5/9/2014,298211,39504.58,silver,electric,automatic,6.0,Suite 7,Polly Dunsmuir,7/11/2025
+Ford,Club Wagon,1/4/2026,159141,19052.63,red,electric,automatic,5.4,PO Box 8526,Nickola Prator,4/5/2025
+Jaguar,XJ Series,9/11/2016,396529,14865.83,blue,hybrid,manual,3.8,Room 844,Cahra Arnett,3/4/2025
+Lexus,LX,10/24/2021,131193,10033.41,black,diesel,automatic,1.3,Suite 76,Brigit Kristufek,8/26/2025
+Volkswagen,Golf,5/18/2024,354440,39736.81,white,electric,automatic,5.6,Room 1374,Carie Eaton,7/15/2025
+Jeep,Patriot,8/6/2022,190074,31944.16,red,electric,manual,5.7,Suite 78,Belva Netting,11/8/2025
+Ford,Taurus,4/1/2013,490570,40629.84,black,electric,automatic,3.2,18th Floor,Vale Renard,10/18/2025
+Suzuki,Swift,1/27/2021,235028,92848.26,red,electric,automatic,2.2,Apt 803,Tiebold Oris,9/7/2025
+Ford,Escape,1/22/2016,106137,69933.67,white,diesel,manual,1.6,Apt 1366,Janey Iskowitz,4/22/2025
+Mercedes-Benz,SL-Class,7/8/2018,163555,34187.05,black,gasoline,manual,5.5,PO Box 3805,Carlita Gissing,5/20/2025
+Nissan,Altima,4/19/2020,378085,96883.01,red,diesel,manual,2.4,PO Box 89844,Janenna Keir,3/31/2025
+Bentley,Arnage,6/22/2014,111429,25433.85,white,diesel,automatic,3.9,PO Box 90401,Drona Meecher,1/9/2026
+Toyota,Camry Hybrid,7/25/2020,291512,45299.61,white,diesel,manual,2.0,Room 1313,Licha Trail,4/25/2026
+Lincoln,Navigator,5/21/2013,258529,26478.49,blue,gasoline,automatic,2.8,Suite 42,Kacey McKnockiter,11/6/2025
+Cadillac,SRX,10/1/2020,427071,42977.54,white,diesel,automatic,1.7,Room 1249,Hildegaard Norman,4/16/2026
+Toyota,Xtra,6/14/2011,246452,8468.07,black,hybrid,manual,5.4,4th Floor,Guntar Bernadon,3/12/2025
+Lotus,Evora,5/29/2015,442519,65593.26,black,gasoline,automatic,4.0,Suite 84,Peterus Mc Carroll,6/20/2025
+Chevrolet,Suburban 1500,1/27/2019,58714,57306.99,red,gasoline,manual,1.4,Suite 99,Henderson Nellies,3/21/2025
+Oldsmobile,98,9/25/2019,55216,39108.42,silver,hybrid,manual,1.3,10th Floor,Manon Mugleston,3/15/2026
+Mazda,Miata MX-5,12/13/2018,321367,48358.36,blue,electric,automatic,1.3,Apt 1653,Gabbi Gauford,11/13/2025
+Chevrolet,Impala,9/8/2020,41629,62232.05,red,gasoline,manual,4.5,PO Box 13945,Gustie Hourihan,4/22/2026
+Chevrolet,Express 3500,12/12/2018,40962,97981.61,silver,diesel,automatic,2.9,6th Floor,Adolph Steward,10/4/2025
+Mercedes-Benz,S-Class,2/27/2025,484995,80083.71,red,electric,automatic,2.7,Suite 50,Dennis Goudge,6/13/2025
+Volkswagen,GTI,9/18/2014,493119,97111.01,white,hybrid,manual,5.9,Suite 11,Nikita Grigoriev,4/10/2026
+MINI,Cooper Clubman,8/19/2010,241039,88397.99,blue,diesel,automatic,1.7,13th Floor,Randie Claringbold,3/30/2025
+Acura,TSX,1/15/2022,452538,88372.01,black,hybrid,manual,4.6,Suite 80,Carmon Kirtland,9/22/2025
+Volkswagen,Scirocco,6/18/2025,271484,34160.94,silver,hybrid,automatic,3.5,14th Floor,Teodorico Whitehorne,12/10/2025
+Jaguar,XK,12/5/2013,270933,41468.83,black,diesel,automatic,2.8,PO Box 57541,Boot Gretton,3/11/2025
+Ford,Aerostar,3/11/2014,227174,5675.4,white,electric,manual,3.0,Suite 61,Renaldo Node,11/16/2025
+Cadillac,STS,10/10/2024,134384,39762.25,silver,electric,automatic,3.3,Apt 1305,Norina Wilkins,10/1/2025
+Ford,F250,4/5/2024,139751,61741.3,silver,electric,automatic,1.9,PO Box 77330,Charla Skewes,12/29/2025
