@@ -1,0 +1,61 @@
+Test Suite ID,Test Suite Name,Number of Test Cases,Total Execution Time (sec),Test Type,Priority Level
+TS001,IP Whitelist,33,11.95,API,Medium
+TS002,Analytics Pipeline,40,26.18,Unit,Critical
+TS003,User Profile,12,4.94,Integration,Low
+TS004,GraphQL Gateway,55,44.57,End-to-End,Medium
+TS005,Background Jobs,155,64.43,Unit,Medium
+TS006,Coupon Engine,113,50.48,Integration,Medium
+TS007,Shipping Tracker,91,46.32,End-to-End,Low
+TS008,Subscription Billing,93,63.11,Unit,Critical
+TS009,Streaming Ingestion,36,26.63,End-to-End,Low
+TS010,GraphQL Gateway,80,61.52,API,Medium
+TS011,Wishlist Sync,22,6.08,Integration,High
+TS012,Dashboard Rendering,64,43.95,End-to-End,High
+TS013,Feature Flags,167,123.79,Integration,High
+TS014,Subscription Billing,58,25.74,Unit,Medium
+TS015,Streaming Ingestion,191,47.73,End-to-End,Critical
+TS016,Webhook Handler,168,98.76,Integration,High
+TS017,Feedback Loop,19,5.95,Unit,High
+TS018,Password Reset,73,26.61,API,Medium
+TS019,Compliance Checks,132,53.73,End-to-End,Medium
+TS020,Database Migrations,40,11.28,API,Critical
+TS021,Data Retention,154,99.52,Integration,Medium
+TS022,Search Indexing,131,42.3,Unit,Low
+TS023,API Rate Limiter,165,63.81,End-to-End,Low
+TS024,Data Export,102,46.46,End-to-End,High
+TS025,GraphQL Gateway,7,4.1,Unit,High
+TS026,Returns Portal,169,81.32,API,Critical
+TS027,Session Manager,121,22.57,API,Medium
+TS028,Search Indexing,32,24.73,API,Medium
+TS029,API Rate Limiter,100,62.12,Unit,High
+TS030,ML Model Serving,9,2.94,API,High
+TS031,Cache Layer,19,6.85,Unit,Low
+TS032,Cart Persistence,129,115.23,Integration,Medium
+TS033,Fraud Detection,126,97.28,Integration,High
+TS034,CDN Purge,160,64.93,Integration,Medium
+TS035,Wishlist Sync,84,48.87,API,Critical
+TS036,Data Retention,137,55.3,Integration,Medium
+TS037,Notification Service,91,30.16,Integration,Medium
+TS038,Auth Module,23,10.53,Unit,Medium
+TS039,Notification Service,13,7.76,Unit,Medium
+TS040,Webhook Handler,176,98.98,Integration,Critical
+TS041,Cache Layer,126,97.98,Integration,Low
+TS042,Checkout Flow,173,92.15,End-to-End,Critical
+TS043,Feature Flags,191,60.26,Unit,Low
+TS044,Password Reset,191,83.95,Unit,Medium
+TS045,Email Service,53,22.28,Integration,Critical
+TS046,File Upload,76,34.91,Unit,Critical
+TS047,Customer Chat,145,43.92,Unit,Low
+TS048,Health Check,197,163.52,Integration,Critical
+TS049,ML Model Serving,128,56.48,End-to-End,Low
+TS050,Session Manager,102,12.73,End-to-End,High
+TS051,Health Check,121,57.48,End-to-End,Medium
+TS052,Email Service,80,29.63,Unit,Low
+TS053,Order Fulfillment,85,22.18,End-to-End,Medium
+TS054,Search Engine,135,54.17,Integration,Low
+TS055,OAuth2 Provider,22,16.3,Integration,Critical
+TS056,Onboarding,150,77.44,Unit,Low
+TS057,Account Deletion,173,87.87,API,High
+TS058,Push Notifications,176,110.38,Integration,High
+TS059,Password Reset,38,25.42,API,Critical
+TS060,Content Moderation,197,170.49,Unit,Critical
